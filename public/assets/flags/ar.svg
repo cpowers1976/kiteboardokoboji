@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="100" viewBox="0 0 160 100">
+<rect width="160" height="100" fill="#74ACDF"/>
+<rect y="33.333" width="160" height="33.334" fill="#fff"/>
+<g transform="translate(80 50)" fill="#F6B40E" stroke="#85340A" stroke-width="0.8">
+  <g id="r"><path d="M0-18 L2.2-10 L0-7.5 L-2.2-10 Z"/></g>
+  <use href="#r" transform="rotate(22.5)"/><use href="#r" transform="rotate(45)"/><use href="#r" transform="rotate(67.5)"/>
+  <use href="#r" transform="rotate(90)"/><use href="#r" transform="rotate(112.5)"/><use href="#r" transform="rotate(135)"/><use href="#r" transform="rotate(157.5)"/>
+  <use href="#r" transform="rotate(180)"/><use href="#r" transform="rotate(202.5)"/><use href="#r" transform="rotate(225)"/><use href="#r" transform="rotate(247.5)"/>
+  <use href="#r" transform="rotate(270)"/><use href="#r" transform="rotate(292.5)"/><use href="#r" transform="rotate(315)"/><use href="#r" transform="rotate(337.5)"/>
+  <circle r="8"/>
+  <circle cx="-2.8" cy="-1.4" r="0.7" fill="#85340A" stroke="none"/><circle cx="2.8" cy="-1.4" r="0.7" fill="#85340A" stroke="none"/>
+  <path d="M-2 3 Q0 4.2 2 3" fill="none" stroke="#85340A" stroke-width="0.8"/>
+</g>
+</svg>

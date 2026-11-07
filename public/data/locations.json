@@ -1,0 +1,4048 @@
+[
+  {
+    "slug": "addis-ababa",
+    "name": "Addis Ababa",
+    "region": "Ethiopia",
+    "kicker": "ADDIS ABABA, ETHIOPIA",
+    "cover": "assets/addis-ababa-05.webp",
+    "photos": [
+      {
+        "src": "assets/addis-ababa-01.webp",
+        "alt": "Traditional Ethiopian meal served on injera in Addis Ababa",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-02.webp",
+        "alt": "Haile Selassie statue with students at the National Museum of Ethiopia",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-03.webp",
+        "alt": "Plaque describing the Haile Selassie statue at the National Museum of Ethiopia",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-04.webp",
+        "alt": "Haile Selassie giving directions to students, National Museum of Ethiopia",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-05.webp",
+        "alt": "Entrance to the National Museum of Ethiopia in Addis Ababa",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-06.webp",
+        "alt": "Street market in Addis Ababa",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/addis-ababa-07.webp",
+        "alt": "Busy outdoor market street in Addis Ababa",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/et.svg",
+    "countryCode": "ET"
+  },
+  {
+    "slug": "amman",
+    "name": "Amman",
+    "region": "Jordan",
+    "kicker": "AMMAN, JORDAN",
+    "cover": "assets/amman-01.webp",
+    "photos": [
+      {
+        "src": "assets/amman-01.webp",
+        "alt": "View across Amman with the Roman Theatre below",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/amman-02.webp",
+        "alt": "Temple of Hercules ruins at the Amman Citadel",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/amman-03.webp",
+        "alt": "Ancient columns and ruins at the Amman Citadel",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/amman-04.webp",
+        "alt": "Amman cityscape and Jordanian flag seen from the Citadel",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/amman-05.webp",
+        "alt": "Jordanian meal in Amman",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/jo.svg",
+    "countryCode": "JO"
+  },
+  {
+    "slug": "argentina",
+    "name": "Argentina",
+    "region": "Buenos Aires",
+    "kicker": "BUENOS AIRES",
+    "cover": "assets/argentina-02.webp",
+    "photos": [
+      {
+        "src": "assets/argentina-01.webp",
+        "alt": "Steak and Malbec in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-02.webp",
+        "alt": "Argentine flag in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-03.webp",
+        "alt": "Fruit stand in Buenos Aires",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-04.webp",
+        "alt": "Street market in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-05.webp",
+        "alt": "Recoleta Cemetery in Buenos Aires",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-06.webp",
+        "alt": "Colorful street art in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-07.webp",
+        "alt": "Buenos Aires architecture and street life",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-08.webp",
+        "alt": "Outdoor café and colorful buildings in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-09.webp",
+        "alt": "La Boca in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/argentina-10.webp",
+        "alt": "Craft beer bar in Buenos Aires",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/ar.svg",
+    "countryCode": "AR"
+  },
+  {
+    "slug": "australia",
+    "name": "Australia",
+    "region": "Sydney and the coast",
+    "kicker": "PACIFIC",
+    "cover": "assets/bondi-1.webp",
+    "photos": [
+      {
+        "src": "assets/bondi-1.webp",
+        "alt": "Bondi, Sydney",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bondi-2.webp",
+        "alt": "Sydney coast",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/australia-beach.webp",
+        "alt": "Australia beach",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/aus-4.webp",
+        "alt": "Australia archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/aus-5.webp",
+        "alt": "Australia archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/aus-6.webp",
+        "alt": "Australia archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/aus-7.webp",
+        "alt": "Australia archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/aus-8.webp",
+        "alt": "Australia archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/au.png",
+    "countryCode": "AU"
+  },
+  {
+    "slug": "bahrain",
+    "name": "Bahrain",
+    "region": "Bahrain",
+    "kicker": "BAHRAIN",
+    "cover": "assets/bahrain-04.webp",
+    "photos": [
+      {
+        "src": "assets/bahrain-01.webp",
+        "alt": "Industrial facility in Bahrain",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bahrain-02.webp",
+        "alt": "Traditional-style shopping arcade in Bahrain",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bahrain-03.webp",
+        "alt": "City view across Manama, Bahrain",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bahrain-04.webp",
+        "alt": "Manama skyline and cityscape in Bahrain",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/bh.svg",
+    "countryCode": "BH"
+  },
+  {
+    "slug": "baja",
+    "name": "Baja",
+    "region": "Mexico",
+    "kicker": "BAJA",
+    "cover": "assets/baja-01.webp",
+    "photos": [
+      {
+        "src": "assets/baja-01.webp",
+        "alt": "Baja travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/baja-02.webp",
+        "alt": "Baja travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/baja-03.webp",
+        "alt": "Baja travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/baja-04.webp",
+        "alt": "Baja travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/mx.png",
+    "countryCode": "MX"
+  },
+  {
+    "slug": "beirut",
+    "name": "Beirut",
+    "region": "Lebanon",
+    "kicker": "BEIRUT",
+    "cover": "assets/original-f060e720-6b41-46e8-9bc6-5ebcf35ffe22.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-4476385f-4600-4ba6-ab9b-478cbe8e7582.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-aede5470-c118-47f3-a83a-f7c21fefc004.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ee56a81a-a533-4916-8a73-f4316364f16e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3dacf459-f4a4-47c3-88f0-75c80a9ce9a1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-baeb7b5b-ace8-4a89-b776-a535ac5d2af6.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3c768431-c05e-485a-b08f-6ebf6eb2cca5.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0ae5e69d-cafb-4cfd-bcac-2d172ef454a0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-52d8d02b-8ae0-42ed-90b5-bd01df47ece9.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ef3f9abb-51a2-4053-b25a-b8ee0d457ff0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d439701b-64f2-4088-bd8b-908ef7a0af30.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-cd4dfe77-c4dd-44fa-b894-b633cf4d859f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-42ff7a9e-64a3-41c8-bda9-8991ae243894.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4d5d7bc2-9d22-4f8f-9178-1bde28db4c9e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-924e8127-ed08-431d-84c5-66fdda3288e5.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c9d7d3a9-17ad-4865-a53d-b25f78f0a5f7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-847c2b3c-c44d-4c8b-aca8-aa4ff520dbd2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c34f735e-ea2a-4520-8002-4441b3bedc6d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6436a543-c093-4757-bd52-fd172a534eaa.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a158ff07-9166-4d0e-b652-f7186c49c7a8.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3f4baca4-5e5f-4b24-8045-6537c31f4314.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-225ab692-f977-4bcb-b088-3b3e22b4e0bb.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5117fa14-a863-4d5c-9279-85f9792327dc.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-01254fe4-8ad3-400f-a4d4-ca17e16bfccd.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f9a0dbcf-293d-4e34-8409-35631457c4c4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a3c8c3c8-fe18-463e-8343-04fb477feaf1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6c732c72-081d-445b-ab1d-ef5451f3ff3b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f060e720-6b41-46e8-9bc6-5ebcf35ffe22.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b4bef8b3-7c0d-40dd-b698-04874397ba70.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0ad07579-0fbb-40d7-a53b-262342a770ea.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8c45fd9a-2f43-41e4-baf1-6f74e1b1b36a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b8b43e01-3e40-424c-9e8d-f7d5ed268508.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇱🇧",
+    "countryCode": "LB"
+  },
+  {
+    "slug": "bethlehem",
+    "name": "Bethlehem",
+    "region": "West Bank, Palestine",
+    "kicker": "WEST BANK",
+    "cover": "assets/bethlehem-06.webp",
+    "photos": [
+      {
+        "src": "assets/bethlehem-01.webp",
+        "alt": "Road signs pointing toward Bethlehem and Jerusalem in the West Bank",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-02.webp",
+        "alt": "View across Bethlehem in the West Bank",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-03.webp",
+        "alt": "Interior of the Church of the Nativity in Bethlehem",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-04.webp",
+        "alt": "Mosaic map of the Basilica of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-05.webp",
+        "alt": "Courtyard and church buildings at the Church of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-06.webp",
+        "alt": "Ornate interior of the Church of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-07.webp",
+        "alt": "Pilgrims entering the Grotto of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-08.webp",
+        "alt": "The traditional birthplace site inside the Grotto of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-09.webp",
+        "alt": "Visitors at the birthplace site in the Grotto of the Nativity in Bethlehem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/bethlehem-10.webp",
+        "alt": "Street art in Bethlehem, West Bank",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/ps.svg",
+    "countryCode": "PS"
+  },
+  {
+    "slug": "brazil",
+    "name": "Brazil",
+    "region": "Brazil",
+    "kicker": "BRAZIL",
+    "cover": "assets/brazil-01.webp",
+    "photos": [
+      {
+        "src": "assets/brazil-01.webp",
+        "alt": "Brazil travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-02.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-03.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-04.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-05.webp",
+        "alt": "Brazil travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-06.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-07.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-08.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-09.webp",
+        "alt": "Brazil travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-10.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-11.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-12.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-13.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-14.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-15.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-16.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-17.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-18.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/brazil-19.webp",
+        "alt": "Brazil travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/br.png",
+    "countryCode": "BR"
+  },
+  {
+    "slug": "brussels",
+    "name": "Brussels",
+    "region": "Belgium",
+    "kicker": "BRUSSELS",
+    "cover": "assets/original-0746b4dc-ef75-492b-8326-72d8bccb98e2.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-3e693d73-ffd6-4ebb-bc1f-207102fbbb58.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c16805e8-032d-4d2a-9b62-e000fa5bfffb.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0746b4dc-ef75-492b-8326-72d8bccb98e2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-81cbed5f-3551-46e6-ac6b-17bae842064d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c392b753-83f6-4b86-a96b-3557945c1065.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7066943f-9e66-4588-8bf6-6bb295070060.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-442d451d-bde4-4e47-85fd-46519dc97142.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5f0c8079-d657-4c94-9c54-13fcbcca1811.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1f3f6134-e8c6-4d48-bd8f-f5536bf27511.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7afe6fed-347a-4b9d-b84c-972b99af223b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3b00911c-b0b9-4acd-b0b5-7ca3731f6a5d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7d7ce66f-7bda-4b09-84d1-eca582ac8e1d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-685cb0a7-5862-48fc-a34c-a9b05af58be6.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-efeca067-df1a-4e7a-b276-e0d0b1ad1b86.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇧🇪",
+    "countryCode": "BE"
+  },
+  {
+    "slug": "california",
+    "name": "California",
+    "region": "USA",
+    "kicker": "CALIFORNIA",
+    "cover": "assets/california-01.webp",
+    "photos": [
+      {
+        "src": "assets/california-01.webp",
+        "alt": "California travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/california-02.webp",
+        "alt": "California travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/california-03.webp",
+        "alt": "California travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/california-04.webp",
+        "alt": "California travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/california-05.webp",
+        "alt": "California travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/california-06.webp",
+        "alt": "California travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US"
+  },
+  {
+    "slug": "cambodia",
+    "name": "Cambodia",
+    "region": "Cambodia",
+    "kicker": "CAMBODIA",
+    "cover": "assets/original-ca6191d0-eef6-42c5-b852-aad0bcb6544b.jpg",
+    "photos": [
+      {
+        "src": "assets/cambodia-01.webp",
+        "alt": "Cambodia travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ca6191d0-eef6-42c5-b852-aad0bcb6544b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ff4043e4-b631-4c5d-ae47-bc3c2ddc3906.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-45cf502d-78cb-4cea-9c63-d717ca78a3bf.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-41b8a34d-20a8-4855-ae92-40cbb1506bca.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-231dcb4c-3eca-4a36-b3b6-b70ce159ed3a.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5b051eea-809e-4134-ad4f-b0caeb667fe7.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6aa54b22-d49a-41b9-b262-c6a46f6a4c1d.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7b9c8201-13a9-474a-9dc9-99c753b0dd29.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-cb24028b-9088-42ed-aecf-c3e21e42631e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5207abae-320f-4f97-ac00-ba910a26689e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e7f63764-62dc-4f24-81c1-bdd6be1eaefb.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-eefb7f64-8f3f-41d5-b7cf-55b484cf5424.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-da3d7797-eb60-4a93-99a6-e3fa1fb563f4.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-78c0b4e5-e4c6-41f2-9bd8-3dfa50ee43a1.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c61f7bf1-658a-4740-baf2-fd431ca23e83.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-db944c90-8430-428f-914e-d48a710629b3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-97df644b-9e13-4753-aeed-4e4c8735481d.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-653ec0ad-78c0-4a3c-acac-34112c83eb11.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c4bddb5b-353a-48fe-90e0-8f407edbdd6e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-421bdc54-0988-4ed3-be58-df58c352e43b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d6d41daf-9ec0-4103-a5bb-ca8e6bc8a2eb.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-efe82438-6428-42b8-8b9c-7b727f51f750.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e871a6c6-4ddc-47c9-acb1-8d25383e87f6.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fcad0d72-23d7-47b8-bbe1-e8934b590624.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d4a88ea0-5b74-4408-ac0f-fa6593878a97.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-31c11e66-4d45-4ba2-a6a6-02d2f61ae817.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b50f18e2-d560-4850-8cfa-4271274deb78.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-bee286bb-f01c-45ee-ad2f-c21e134cbc9b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6a8f1961-305b-4700-9351-2d3c412c014a.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f98633f6-8d06-4ec8-987d-fc80044642f5.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-035b0fb4-1d08-49b8-8aec-6bb4a441993e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-afe8d13f-d2b6-462a-ab5c-bcdba33f1c78.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/kh.png",
+    "countryCode": "KH"
+  },
+  {
+    "slug": "cape-town",
+    "name": "Cape Town",
+    "region": "South Africa",
+    "kicker": "CAPE TOWN",
+    "cover": "assets/cape-town-04.webp",
+    "photos": [
+      {
+        "src": "assets/cape-town-01.webp",
+        "alt": "Kiteboarding at Bloubergstrand with Table Mountain across the bay",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-02.webp",
+        "alt": "Kitesurfers off Cape Town with Table Mountain in the background",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-03.webp",
+        "alt": "Windy kiteboarding beach in Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-04.webp",
+        "alt": "Table Mountain from the V&A Waterfront in Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-05.webp",
+        "alt": "Table Mountain cableway in Cape Town",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-06.webp",
+        "alt": "Atlantic coast view from Table Mountain",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-08.webp",
+        "alt": "Camps Bay beneath the mountains in Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-09.webp",
+        "alt": "Sunset over the Atlantic in Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-town-10.webp",
+        "alt": "Historic church in central Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c138a885-4a6c-4385-a087-8c843e5fd663.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-76006257-f66d-42cb-acce-7c8feec5685c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9ba2bbd2-4819-441b-a5d7-84ea6f6fcb3f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-20108f3d-d086-42bf-847d-e2c5a9d82b41.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a7516d55-ae69-43ce-a3da-e7c705d726c2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b8bee899-1570-4786-9677-81889274a019.mov",
+        "alt": "",
+        "class": "",
+        "kind": "video"
+      },
+      {
+        "src": "assets/original-634855a5-78c8-4b9a-8ea0-1cc953d9713f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/za.png",
+    "countryCode": "ZA"
+  },
+  {
+    "slug": "chile",
+    "name": "Chile",
+    "region": "Santiago, Andes & Valparaíso",
+    "kicker": "CHILE",
+    "cover": "assets/chile-03.webp",
+    "photos": [
+      {
+        "src": "assets/chile-01.webp",
+        "alt": "Street mural in Santiago, Chile",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-02.webp",
+        "alt": "Green hills and mountains around Santiago, Chile",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-03.webp",
+        "alt": "In the Andes mountains near Santiago, Chile",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-04.webp",
+        "alt": "Vineyard in Chilean wine country",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-05.webp",
+        "alt": "Wine barrels at a Chilean winery",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-06.webp",
+        "alt": "Casas del Bosque winery in Chile",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-07.webp",
+        "alt": "Colorful street art in Valparaíso, Chile",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-08.webp",
+        "alt": "View across Valparaíso, Chile",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-09.webp",
+        "alt": "Beach on the Chilean coast near Valparaíso",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/chile-10.webp",
+        "alt": "Historic church interior in Santiago, Chile",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/cl.png",
+    "countryCode": "CL"
+  },
+  {
+    "slug": "china",
+    "name": "China",
+    "region": "China",
+    "kicker": "CHINA",
+    "cover": "assets/china-01.webp",
+    "photos": [
+      {
+        "src": "assets/china-01.webp",
+        "alt": "China travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/china-02.webp",
+        "alt": "China travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/china-03.webp",
+        "alt": "China travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/china-04.webp",
+        "alt": "China travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/china-05.webp",
+        "alt": "China travel archive",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN"
+  },
+  {
+    "slug": "chongqing",
+    "name": "Chongqing",
+    "region": "China mainland",
+    "kicker": "CHONGQING",
+    "cover": "assets/original-fba5a408-fba7-46b3-a5c9-d5e260b9047e.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-fba5a408-fba7-46b3-a5c9-d5e260b9047e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a68d429c-c8c4-4be5-b352-0572b39271c3.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-edc8dc4d-80c9-4955-ace9-8ef0dfeb7084.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-63912f20-d75a-4d8c-a9ef-f3b912dfbccf.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b3affe2d-9b40-4dac-84bc-5084edca8b3b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f38202a1-9f3a-4492-80a3-615960c54598.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-464693c0-81b4-425f-bd2a-3519f453c2eb.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-27f10266-e4cd-4b19-8ea2-570ec01542b9.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5ee82003-85f6-4fa5-9094-a0377745d5b5.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1e7869ce-446c-4dd0-9272-b2a973d2b0c0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9007cf3c-7758-412a-8e69-3d078bd5f23b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7a7cb780-fac7-41c4-a5eb-7a056da30036.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-95cad203-e93b-4fec-9ed4-ab40c3620d3c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-860cd9c9-c9dd-48f3-a2f4-4c8888c54fe7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-45008d28-75b7-49a7-a3ef-740fa78f87cc.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN"
+  },
+  {
+    "slug": "copenhagen",
+    "name": "Copenhagen",
+    "region": "Denmark",
+    "kicker": "COPENHAGEN",
+    "cover": "assets/original-52791359-030b-47af-a1c0-babc935d26f8.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-c2471e94-5d23-463d-8d28-5fa7e8bd15b8.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b562c2e1-cbbc-4137-bb01-58015038f15a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-85d5d25d-873a-47e0-8c21-178db5f28934.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9e14067b-f816-4ca8-adcb-b66ef7b26891.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-52791359-030b-47af-a1c0-babc935d26f8.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-84291018-c7c5-45e7-995f-2776a2261b5a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2c54f230-0940-48dd-a179-9d398c3ed7ec.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c778b38b-c185-46b8-a774-bc40c2112091.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d68b7820-8911-432e-85ae-b05ddb309c31.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b79d5855-22d9-4dd4-a6e5-c0638e379c21.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇩🇰",
+    "countryCode": "DK"
+  },
+  {
+    "slug": "dead-sea",
+    "name": "Dead Sea",
+    "region": "Israel",
+    "kicker": "DEAD SEA, ISRAEL",
+    "cover": "assets/dead-sea-04.webp",
+    "photos": [
+      {
+        "src": "assets/dead-sea-01.webp",
+        "alt": "Roadside sign welcoming visitors to the Dead Sea",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-02.webp",
+        "alt": "Visitors floating in the Dead Sea",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-03.webp",
+        "alt": "Dead Sea shoreline",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-04.webp",
+        "alt": "Rocky shoreline and view across the Dead Sea",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-05.webp",
+        "alt": "Dead Sea resort view",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-06.webp",
+        "alt": "Camel near the Dead Sea",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dead-sea-07.webp",
+        "alt": "Terrace overlooking the Dead Sea",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/il.svg",
+    "countryCode": "IL"
+  },
+  {
+    "slug": "doha",
+    "name": "Doha",
+    "region": "Qatar",
+    "kicker": "DOHA, QATAR",
+    "cover": "assets/doha-04.webp",
+    "photos": [
+      {
+        "src": "assets/doha-01.webp",
+        "alt": "Traditional wooden dhow at the waterfront in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-02.webp",
+        "alt": "Traditional dhow boats flying Qatari flags in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-03.webp",
+        "alt": "Close view of a traditional wooden dhow in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-04.webp",
+        "alt": "Open square and traditional architecture in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-05.webp",
+        "alt": "Market passage in Doha",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-06.webp",
+        "alt": "Spices, herbs, and dried flowers at a Doha market",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-07.webp",
+        "alt": "Traditional market courtyard in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-08.webp",
+        "alt": "Modern waterfront architecture in Doha",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/doha-09.webp",
+        "alt": "Aerial view of Doha coastline and The Pearl-Qatar",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/qa.svg",
+    "countryCode": "QA"
+  },
+  {
+    "slug": "dubai",
+    "name": "Dubai",
+    "region": "United Arab Emirates",
+    "kicker": "UNITED ARAB EMIRATES",
+    "cover": "assets/dubai-03.webp",
+    "photos": [
+      {
+        "src": "assets/dubai-01.webp",
+        "alt": "Burj Khalifa in Dubai",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-02.webp",
+        "alt": "Dubai Marina skyline and yachts",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-03.webp",
+        "alt": "Traditional dhow in Dubai Marina",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-04.webp",
+        "alt": "Dubai skyline with the Burj Khalifa",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-06.webp",
+        "alt": "Traditional market in Dubai",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-07.webp",
+        "alt": "Spices and goods in a Dubai market",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-09.webp",
+        "alt": "Palm Jumeirah and Dubai coastline from above",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/dubai-10.webp",
+        "alt": "Atlantis The Palm and Palm Jumeirah in Dubai",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4e8cdb2d-3bb2-4ca5-a009-f74528b3a45e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4b13fa6d-1bf0-4138-8220-fa271ad4b780.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-509ad3e5-bde3-465c-be26-5f9a5ce3bc80.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a5ebc768-098c-4ccb-b6b5-d15b62f1589b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c2340478-a5ce-4b40-8618-552aa603834e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5b69d360-c9da-4bba-9af5-034fd420c5d7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2ab6cff2-6c90-43ad-b2dd-7f10bd289d81.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-63f735d0-9792-4b72-99ab-df1ac8d5f223.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/ae.svg",
+    "countryCode": "AE"
+  },
+  {
+    "slug": "india",
+    "name": "India",
+    "region": "India",
+    "kicker": "INDIA",
+    "cover": "assets/india-01.webp",
+    "photos": [
+      {
+        "src": "assets/india-01.webp",
+        "alt": "India travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/india-02.webp",
+        "alt": "India travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/india-03.webp",
+        "alt": "India travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/india-04.webp",
+        "alt": "India travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN"
+  },
+  {
+    "slug": "indonesia",
+    "name": "Indonesia",
+    "region": "Indonesia",
+    "kicker": "INDONESIA",
+    "cover": "assets/indonesia-01.webp",
+    "photos": [
+      {
+        "src": "assets/indonesia-01.webp",
+        "alt": "Indonesia travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/indonesia-03.webp",
+        "alt": "Indonesia travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/indonesia-04.webp",
+        "alt": "Indonesia travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/id.png",
+    "countryCode": "ID"
+  },
+  {
+    "slug": "iowa-great-lakes",
+    "name": "Iowa Great Lakes",
+    "region": "Okoboji, Iowa",
+    "kicker": "HOME WATER",
+    "cover": "assets/okoboji-sunset-01.webp",
+    "photos": [
+      {
+        "src": "assets/okoboji-sunset-01.webp",
+        "alt": "Sunset over West Okoboji Lake",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/okoboji-paddleboard-01.webp",
+        "alt": "Paddleboarder on calm water at sunset in Okoboji",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/okoboji-queen-sunset-01.webp",
+        "alt": "Sunset beside the excursion boat on the Okoboji waterfront",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/okoboji-arch-queen-01.webp",
+        "alt": "Illuminated waterfront arch and excursion boat at dusk in Arnolds Park",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/okoboji-waterfront-01.webp",
+        "alt": "Okoboji waterfront lights and calm water at dusk",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/okoboji-roof-garden-01.webp",
+        "alt": "Roof Garden in Arnolds Park at night",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-kite.webp",
+        "alt": "Kiteboarding on the Iowa Great Lakes",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-okoboji-1.webp",
+        "alt": "Okoboji archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-okoboji-2.webp",
+        "alt": "Okoboji archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-water.webp",
+        "alt": "Summer on the Iowa Great Lakes",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-okoboji-3.webp",
+        "alt": "Okoboji archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-okoboji-4.webp",
+        "alt": "Okoboji archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-dock.webp",
+        "alt": "Lakeside summer",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-dock2.webp",
+        "alt": "Summer at the lake",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-waterski.webp",
+        "alt": "Watersports on the Iowa Great Lakes",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/iowa-okoboji-5.webp",
+        "alt": "Iowa Great Lakes archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US"
+  },
+  {
+    "slug": "istanbul",
+    "name": "Istanbul",
+    "region": "Türkiye",
+    "kicker": "ISTANBUL",
+    "cover": "assets/original-cd039023-4bd4-4165-8a08-077f0db8eed4.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-e36938c0-a01a-4473-bb6f-b26cafbb6a61.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b5dbc7aa-d061-4fb1-bada-bb6b6c65d02b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0d1c2063-8e20-4a23-afd6-dfd9fe52dfb0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3f1cce8b-2b76-4d8b-ab9b-1790df1c663d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c8184245-0de2-4f1d-b9b1-5025e34f7c49.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8831fc78-9a0d-46d8-9227-e6b298f082a1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b96d94cf-5051-4699-8766-78da6feb196b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e4c85196-81b4-4549-ac49-d9d522be5c66.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-42efd276-6dc0-4c08-8145-0026934babb1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6116cca4-50a7-4a80-bca6-e0553b409820.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-96e84c12-0d8b-4de0-a086-0d749c7b07a1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-cd039023-4bd4-4165-8a08-077f0db8eed4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e815a53d-03d6-4b46-9b3c-2525c8eba7c5.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-71a8fa09-be8f-45a0-b570-8b41d6d260ea.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a56e566e-0191-4361-a713-69a7fa5bf9b3.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-80592fb6-e61b-420b-8608-091d81638e08.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-490f8c96-a39d-485a-9439-cb0cbcbd703d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-20c8802d-3cb6-425f-9e70-fe740bf302f2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-eb691f93-df12-46ea-ba53-fbe3d4f2d41e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-64bae3d9-b7ea-4fc6-9f0d-fc14a543b840.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d7a20b56-70bb-4dea-a1c6-40ccb9ef6eda.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5384b3ba-9fed-4e65-b43b-fc901afdaebb.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fab75dec-8fe6-4cb4-95eb-e1e5ba39fa18.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8bc4d0e8-a212-4982-b1da-fd732f66cdb3.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3046e92b-8dfb-41f9-b615-277eb3b328a4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-dbe86233-7552-45e7-ad50-98f4b1f44146.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8c6fb814-677b-46bd-baf4-43e6f19fbe4e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇹🇷",
+    "countryCode": "TR"
+  },
+  {
+    "slug": "jerusalem",
+    "name": "Jerusalem",
+    "region": "Israel",
+    "kicker": "JERUSALEM, ISRAEL",
+    "cover": "assets/jerusalem-06.webp",
+    "photos": [
+      {
+        "src": "assets/jerusalem-01.webp",
+        "alt": "Jerusalem Old City market",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-02.webp",
+        "alt": "Church in the Old City of Jerusalem",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-03.webp",
+        "alt": "Jerusalem landmark illuminated at night",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-04.webp",
+        "alt": "Historic church interior in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-05.webp",
+        "alt": "Mosaic artwork in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-06.webp",
+        "alt": "Western Wall in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-07.webp",
+        "alt": "Prayer area at the Western Wall in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-08.webp",
+        "alt": "Dublin Irish Pub in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-09.webp",
+        "alt": "Visit to the Western Wall in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/jerusalem-10.webp",
+        "alt": "Western Wall plaza in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/il.svg",
+    "countryCode": "IL"
+  },
+  {
+    "slug": "johannesburg",
+    "name": "Johannesburg",
+    "region": "South Africa",
+    "kicker": "GAUTENG",
+    "cover": "assets/johannesburg-04.webp",
+    "photos": [
+      {
+        "src": "assets/johannesburg-01.webp",
+        "alt": "Springbok near Johannesburg",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-02.webp",
+        "alt": "Zebras near Johannesburg",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-03.webp",
+        "alt": "Zebras by the water near Johannesburg",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-04.webp",
+        "alt": "Zebras grazing by the water near Johannesburg",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-05.webp",
+        "alt": "Stone dam and waterfall near Johannesburg",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-06.webp",
+        "alt": "Lake and countryside near Johannesburg",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-07.webp",
+        "alt": "Horse in the countryside near Johannesburg",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/johannesburg-08.webp",
+        "alt": "Braai near Johannesburg",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/za.png",
+    "countryCode": "ZA"
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "region": "United Kingdom",
+    "kicker": "LONDON",
+    "cover": "assets/london-01.webp",
+    "photos": [
+      {
+        "src": "assets/london-01.webp",
+        "alt": "London travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/london-02.webp",
+        "alt": "London travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/gb.png",
+    "countryCode": "GB"
+  },
+  {
+    "slug": "maui",
+    "name": "Maui",
+    "region": "Hawaii, USA",
+    "kicker": "HAWAII",
+    "cover": "assets/maui-01.webp",
+    "photos": [
+      {
+        "src": "assets/maui-01.webp",
+        "alt": "Maui, Hawaii",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/maui-02.webp",
+        "alt": "Maui, Hawaii",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/maui-03.webp",
+        "alt": "Maui, Hawaii",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/maui-04.webp",
+        "alt": "Maui, Hawaii",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/maui-05.webp",
+        "alt": "Maui, Hawaii",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/maui-06.webp",
+        "alt": "Maui, Hawaii",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flag-hawaii.svg",
+    "countryCode": "US"
+  },
+  {
+    "slug": "mauritius",
+    "name": "Mauritius",
+    "region": "Mauritius",
+    "kicker": "INDIAN OCEAN",
+    "cover": "assets/mauritius-04.webp",
+    "photos": [
+      {
+        "src": "assets/mauritius-01.webp",
+        "alt": "Mauritius gecko",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-02.webp",
+        "alt": "Lagoon and palm trees in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-03.webp",
+        "alt": "Turquoise lagoon and boats in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-04.webp",
+        "alt": "Kiteboarding in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-05.webp",
+        "alt": "Beach and lagoon in Mauritius",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-06.webp",
+        "alt": "Beachfront resort in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-07.webp",
+        "alt": "Sunset over the lagoon in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-08.webp",
+        "alt": "Sunset selfie in Mauritius",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/mauritius-09.webp",
+        "alt": "Palm-lined beach and lagoon in Mauritius",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/mu.svg",
+    "countryCode": "MU"
+  },
+  {
+    "slug": "montevideo",
+    "name": "Montevideo",
+    "region": "Uruguay",
+    "kicker": "MONTEVIDEO",
+    "cover": "assets/montevideo-01.webp",
+    "photos": [
+      {
+        "src": "assets/montevideo-01.webp",
+        "alt": "Montevideo travel archive",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/uy.png",
+    "countryCode": "UY"
+  },
+  {
+    "slug": "more-travels",
+    "name": "More Travels",
+    "region": "From the archive",
+    "kicker": "ON THE ROAD",
+    "cover": "assets/road-3.webp",
+    "photos": [
+      {
+        "src": "assets/road-3.webp",
+        "alt": "Travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/road-1.webp",
+        "alt": "Travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/road-2.webp",
+        "alt": "Travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/archive-1.webp",
+        "alt": "Travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/archive-2.webp",
+        "alt": "Travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/archive-3.webp",
+        "alt": "Travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/archive-4.webp",
+        "alt": "Travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "",
+    "countryCode": ""
+  },
+  {
+    "slug": "moscow",
+    "name": "Moscow",
+    "region": "Russia",
+    "kicker": "MOSCOW",
+    "cover": "assets/moscow-01.webp",
+    "photos": [
+      {
+        "src": "assets/moscow-01.webp",
+        "alt": "Moscow travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/moscow-02.webp",
+        "alt": "Moscow travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/moscow-03.webp",
+        "alt": "Moscow travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/moscow-04.webp",
+        "alt": "Moscow travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/moscow-05.webp",
+        "alt": "Moscow travel archive",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/ru.png",
+    "countryCode": "RU"
+  },
+  {
+    "slug": "nuuk",
+    "name": "Nuuk",
+    "region": "Greenland",
+    "kicker": "NUUK",
+    "cover": "assets/original-5762d9cd-c3c1-49f1-a3c2-3ae3477fbaf7.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-7d20ac6d-30d8-45b4-86d1-55ea8a389a2b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f38029a5-78d8-416a-adbf-be8e2a4788b1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-15c425e8-e68f-4958-9e20-07b58c9e7e6d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-60a44a8f-6510-49cc-9868-09211a228a72.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-327f0612-e03a-405b-bc7d-a79e5c6d3c7f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0af8e827-9706-448a-be9c-e137ea4192a4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0908cc51-b0aa-4b56-b8ea-5644b8e37136.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-50b62d69-5b6f-456c-9a24-aad2fa2e84d2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-811968e9-f4d3-438a-aa9b-bd5fae14087c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-33d77f2d-e8bb-437d-87a6-f9afdf9e3005.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-87318a28-58ff-432e-aca8-b774829150e9.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-25414f86-6f37-48db-8218-25a795f050f9.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4d38493e-ebc8-400a-a6da-b68ca85392d4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6d0562f2-2a76-46dc-a030-0fcf00b374b0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1b8e9963-4397-4260-9286-d9fe0f36b6f0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-802687b5-c4ba-481d-af73-bd7d2ae2b163.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3d12a20d-a7ea-43eb-be33-dd56255d2ab1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-abb8a39e-c321-49b6-a713-483aef0d7936.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5762d9cd-c3c1-49f1-a3c2-3ae3477fbaf7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e4dba4d5-63a9-4ab1-9ca6-339fbc4e494e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇬🇱",
+    "countryCode": "GL"
+  },
+  {
+    "slug": "oahu",
+    "name": "Oahu",
+    "region": "Hawaii, USA",
+    "kicker": "HAWAII",
+    "cover": "assets/oahu-01.webp",
+    "photos": [
+      {
+        "src": "assets/oahu-01.webp",
+        "alt": "Diamond Head and Waikiki from the water, Oahu",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-02.webp",
+        "alt": "Oahu coastline from above",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-03.webp",
+        "alt": "USS Arizona Memorial at Pearl Harbor, Oahu",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-04.webp",
+        "alt": "Hawaiian monk seal resting on an Oahu beach",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-05.webp",
+        "alt": "Windward Oahu coastline",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-06.webp",
+        "alt": "Rocky Pacific coast on Oahu",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-07.webp",
+        "alt": "Oahu beach on the windward side",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-08.webp",
+        "alt": "Wing foiling on Oahu",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-09.webp",
+        "alt": "Greetings from Hawaii mural in Honolulu",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/oahu-10.webp",
+        "alt": "Waikiki Beach with Diamond Head, Oahu",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flag-hawaii.svg",
+    "countryCode": "US"
+  },
+  {
+    "slug": "paris",
+    "name": "Paris",
+    "region": "France",
+    "kicker": "PARIS",
+    "cover": "assets/original-06ff9d5c-c8ef-4559-a570-bb1269bc350e.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-06ff9d5c-c8ef-4559-a570-bb1269bc350e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-26bb205b-fa2f-4268-a15b-2f36ffec0ae4.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-70fbfd85-5a42-4c71-a15d-d532bbc7a41c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e3e426b4-4304-4e8b-a32f-69eb3d39ab82.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f4cdf56c-9dca-43fc-88ee-c218a1aa4859.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fdfc6447-4ffa-4a5f-a73a-646400f23432.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-51bfcace-2e42-4377-9d8c-636371e5786a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9dc310a1-25b6-4a66-9023-7eeac5912007.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-18878bf6-d687-4e7b-ad7b-19a4effe1aa6.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ce9a2391-7a0d-4966-9e33-9123c7396d15.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-80e06189-39e6-43ba-b45e-50f9d0722569.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-81dbd339-1cfb-4707-a6a2-260c7ed3bc72.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-256879c7-9e1b-4a5c-9b41-6d08fee33e33.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flag": "🇫🇷",
+    "countryCode": "FR"
+  },
+  {
+    "slug": "petra",
+    "name": "Petra",
+    "region": "Jordan",
+    "kicker": "PETRA",
+    "cover": "assets/original-7a0727fb-c150-4912-99b8-6c55abcfd806.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-6b45d2b8-474e-4be0-a68e-bde55a386c6c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4d0a22c4-8587-4236-b3ca-d4849fb02e51.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9753f2c1-923c-44d5-af39-7bbe0d0c456f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f011d093-f497-421e-80a0-86597013cd7e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-176e7abb-542f-4b0c-8bdf-5775d2914486.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8169c45c-3714-4221-b7dc-cfb40e799b3c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-77d0d552-87a2-41a9-956f-8ace6adb802a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fcea2714-156e-4f42-b883-b382c26014cc.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a2b718f0-013e-485b-bf80-7391aa3cc51d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-576ebca2-95f0-4e03-8384-5ce87496f80d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-81d8c5bf-d366-41a0-a46a-69d0456a6525.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f21487d5-d7e6-4dfe-9aca-fe0533e384be.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d7e7d15e-6fe2-486b-934c-5d299651f9ae.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9aa80bb8-7e5b-4200-9030-dacab382c4b1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6062b931-04a9-4243-b320-aa86b66954f5.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-cf29fa35-e539-4cb2-92c7-595b431e9fec.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9e7c93b6-4e4f-4b40-a0ac-a034f6294ef9.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-77ec18ba-5c28-428d-a965-94dc8e3e029d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-26463219-519a-4385-876c-ed7a5b7a1156.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f9fe6ca8-a68b-4f41-8a2f-8ddd743c9a49.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ce01dc42-bc0c-449d-9008-cc3d3bc56492.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-48d1d34a-b0de-4825-bdfb-f6ce6f9fae3e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-abe95a00-fefd-480f-9a9d-29f3a7caddff.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c297c65f-d1c2-415e-b7e5-c061f9168143.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-92700ad2-24a2-4d73-ae92-b5587c5f8087.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8a14812a-efc7-43f0-b683-38c2c4669922.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7a0727fb-c150-4912-99b8-6c55abcfd806.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/jo.svg",
+    "countryCode": "JO"
+  },
+  {
+    "slug": "roatan",
+    "name": "Roatán",
+    "region": "Honduras",
+    "kicker": "CARIBBEAN",
+    "cover": "assets/roatan-03.webp",
+    "photos": [
+      {
+        "src": "assets/roatan-01.webp",
+        "alt": "Roatán, Honduras",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-02.webp",
+        "alt": "Beach in Roatán, Honduras",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-03.webp",
+        "alt": "Turquoise water and boats in Roatán, Honduras",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-04.webp",
+        "alt": "Roatán waterfront, Honduras",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-05.webp",
+        "alt": "Sunset in Roatán, Honduras",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-06.webp",
+        "alt": "Beach scene in Roatán, Honduras",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/roatan-07.webp",
+        "alt": "Caribbean sunset in Roatán, Honduras",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/hn.png",
+    "countryCode": "HN"
+  },
+  {
+    "slug": "romania",
+    "name": "Romania",
+    "region": "Romania",
+    "kicker": "ROMANIA",
+    "cover": "assets/romania-01.webp",
+    "photos": [
+      {
+        "src": "assets/romania-01.webp",
+        "alt": "Romania travel archive",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/ro.png",
+    "countryCode": "RO"
+  },
+  {
+    "slug": "south-africa",
+    "name": "South Africa",
+    "region": "Cape Town and beyond",
+    "kicker": "SOUTH AFRICA",
+    "cover": "assets/capetown-1.webp",
+    "photos": [
+      {
+        "src": "assets/capetown-1.webp",
+        "alt": "Kiteboarding in Cape Town",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/capetown-2.webp",
+        "alt": "Cape Town kiteboarding",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/capetown-3.webp",
+        "alt": "Cape Town coast",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/capetown-4.webp",
+        "alt": "Cape Town kiteboarding",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/capetown-5.webp",
+        "alt": "Cape Town beach",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-6.webp",
+        "alt": "South Africa archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-7.webp",
+        "alt": "South Africa archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-8.webp",
+        "alt": "South Africa archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-9.webp",
+        "alt": "South Africa archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/cape-10.webp",
+        "alt": "South Africa archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/south-africa-extra.webp",
+        "alt": "South Africa travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/za.png",
+    "countryCode": "ZA"
+  },
+  {
+    "slug": "south-padre-island",
+    "name": "South Padre Island",
+    "region": "United States",
+    "kicker": "SOUTH PADRE ISLAND",
+    "cover": "assets/original-56ddeaba-1567-4025-8c99-511015d9190a.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-56ddeaba-1567-4025-8c99-511015d9190a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-304cef4b-b3c8-4b76-a212-d815ea8d7414.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a0daf56e-1026-4982-8fb3-e9a70738316a.mov",
+        "alt": "",
+        "class": "",
+        "kind": "video"
+      },
+      {
+        "src": "assets/original-8b07863b-e95e-4d81-a622-152d5c534d06.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0d41f11c-51c1-41ff-aca1-8b0ce56bb288.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-39baa751-d753-44c4-8dcb-0fc77290775f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-52429ed4-4f97-4204-8cbf-7084edffc59b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f21027fb-a325-4038-9d7d-884ed028e041.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f1755daf-ddd7-4072-a5dd-2f38dc443831.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8afa7513-5a13-4a46-a01a-f5c1c276b3e0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8624ebf6-82df-43c3-a35f-7dc21e6684c7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b3266a49-de6e-4151-bdb9-7c070ad26408.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3622f6ee-741e-4692-b757-7bf05a61a75b.mov",
+        "alt": "",
+        "class": "",
+        "kind": "video"
+      },
+      {
+        "src": "assets/original-4f417024-67ed-4994-bcbc-2361240ed1a2.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fbc00411-4b3a-4100-9cee-ff9a703e463b.mov",
+        "alt": "",
+        "class": "",
+        "kind": "video"
+      },
+      {
+        "src": "assets/original-370266e2-3ad7-4ab0-8db8-7517b9707928.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-99d702c2-9f8b-4f29-87df-355f32f39390.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US"
+  },
+  {
+    "slug": "sweden",
+    "name": "Sweden",
+    "region": "Sweden",
+    "kicker": "SWEDEN",
+    "cover": "assets/sweden-01.webp",
+    "photos": [
+      {
+        "src": "assets/sweden-01.webp",
+        "alt": "Sweden travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/sweden-02.webp",
+        "alt": "Sweden travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/sweden-03.webp",
+        "alt": "Sweden travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/sweden-04.webp",
+        "alt": "Sweden travel archive",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/se.png",
+    "countryCode": "SE"
+  },
+  {
+    "slug": "temple-mount",
+    "name": "Temple Mount",
+    "region": "Jerusalem, Israel",
+    "kicker": "JERUSALEM",
+    "cover": "assets/temple-mount-03.webp",
+    "photos": [
+      {
+        "src": "assets/temple-mount-01.webp",
+        "alt": "Dome of the Rock on the Temple Mount in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-02.webp",
+        "alt": "Ornate tiled arches near the Dome of the Rock on the Temple Mount",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-03.webp",
+        "alt": "Wide view of the Dome of the Rock on the Temple Mount in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-04.webp",
+        "alt": "Al-Aqsa Mosque and stone plaza on the Temple Mount",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-05.webp",
+        "alt": "Historic stone wall and walkway on the Temple Mount",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-06.webp",
+        "alt": "Al-Aqsa Mosque across the Temple Mount plaza",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-07.webp",
+        "alt": "Stone arcades on the Temple Mount in Jerusalem",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-08.webp",
+        "alt": "Dome of the Rock seen across the Temple Mount complex",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-09.webp",
+        "alt": "Stairway leading toward the Dome of the Rock",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/temple-mount-10.webp",
+        "alt": "Bab al-Qattanin entrance at the Temple Mount complex",
+        "class": "wide",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/il.svg",
+    "countryCode": "IL"
+  },
+  {
+    "slug": "thailand",
+    "name": "Thailand",
+    "region": "Thailand",
+    "kicker": "THAILAND",
+    "cover": "assets/original-c0da3551-fdd5-42e8-83b0-49ecbe3a7ed6.jpeg",
+    "photos": [
+      {
+        "src": "assets/thailand-03.webp",
+        "alt": "Thailand travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/thailand-04.webp",
+        "alt": "Thailand travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a60133af-8a4c-48f0-8cc4-92de4d10985a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8eabce4f-b82c-4fc3-9f29-4b9808282a69.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c2c58729-5650-4440-83c8-7ceefc70ca16.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8b488521-2a26-4525-8100-d2590761c46f.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-46091e80-9b30-4313-be7a-36592b8dfdc6.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c0da3551-fdd5-42e8-83b0-49ecbe3a7ed6.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2b682267-e071-4cab-8125-d7c7ca1643cc.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0f06a5f0-0c79-433b-94ec-5eff678c04ab.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-24efbd53-dbfc-4a10-a620-7806dba9f42d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9c4f72ce-dcde-46ca-84c1-460d66445d93.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6554aa4c-f58a-4fcb-b9f5-4385e144cb36.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2ac741b2-26b8-4bf7-8095-9c0db155e8b7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-413cc02c-2671-4d12-a6ab-08519eef063a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/thailand-01.webp",
+        "alt": "Thailand travel archive",
+        "class": "wide",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-669f68bd-5829-483f-b106-8730df5ea366.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/thailand-02.webp",
+        "alt": "Thailand travel archive",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c897b39f-487a-4e51-b143-3a527cbd3504.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/th.png",
+    "countryCode": "TH"
+  },
+  {
+    "slug": "the-dead-sea",
+    "name": "The Dead Sea",
+    "region": "Israel",
+    "kicker": "THE DEAD SEA",
+    "cover": "assets/original-c46e5330-ed08-49b4-92f3-1afdcb4d992d.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-c46e5330-ed08-49b4-92f3-1afdcb4d992d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-13795d26-b35f-482a-b1c2-b75f561169a1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7457eb43-3035-474f-9f55-df711e069586.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-06219188-b721-41fc-b4db-a06eba221dc1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-85fc4265-da87-42f6-b984-2f21adc9872c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fa88484c-9b80-4408-9b89-2fb692f8934c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9bd72da5-176d-4518-847a-bb6f696c281c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-00792e5a-abf5-4f4d-837b-a5102a9ade68.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-21c10e25-c8f6-40f9-9ad4-3f8a2a36804d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/il.svg",
+    "countryCode": "IL"
+  },
+  {
+    "slug": "wadi-rum",
+    "name": "Wadi Rum",
+    "region": "Jordan",
+    "kicker": "WADI RUM",
+    "cover": "assets/original-09cad724-6132-40af-a381-f5983159d5d3.jpeg",
+    "photos": [
+      {
+        "src": "assets/original-09cad724-6132-40af-a381-f5983159d5d3.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-f4fb2d2b-18ac-41d0-a28f-41878061482a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b96ca86b-1ca3-4318-a032-794e9190701e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a5a270ac-6aee-41a3-8a87-190a90eb9ed7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-24542a7c-99fb-4ae2-ae91-18b3b9ff4336.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-afe7cb94-20dc-4a0d-8fab-8946459b15df.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-56939153-316b-47a2-bb0e-316f7a6f990a.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e9ee51cb-3f8c-4c55-9455-5e19cff090df.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-419ca303-d68c-4a46-871b-a9faa087502c.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1ae5e1c8-8ffb-40c1-b0c1-2b6b054f82a7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a323db89-363d-4fec-8054-f49d29a54d6e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-60472b3a-b981-4be0-9960-9144226901b0.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-bd7211ea-c470-4813-90e5-02864078b464.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2c94a671-86b7-4de6-9923-508c065d4f2b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c7ffe3f8-44ef-490c-9e6d-d902cedc8fd1.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-dd6aca3f-ad33-4dea-903e-ab2d03faf41e.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d8939065-6243-4e2a-81a8-3be1f920ffc7.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7025e7de-bfb3-4342-b914-affdb5b9fe4b.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7275c0ea-0b8b-47b1-9c86-1ca5fea55758.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8812b14e-4793-4d02-ba22-062a024bbf94.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6c8c768a-9add-4799-aa1d-758f862e4221.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7c1e4962-98da-4ac1-9312-92834ff5412d.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-da0ee5e0-a780-449e-b31b-6fb6cdcaf1cd.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/jo.svg",
+    "countryCode": "JO"
+  },
+  {
+    "slug": "yellowstone",
+    "name": "Yellowstone",
+    "region": "United States",
+    "kicker": "YELLOWSTONE",
+    "cover": "assets/original-fa2c4a7e-ee3e-4bc4-843b-6484e6fe0b00.jpg",
+    "photos": [
+      {
+        "src": "assets/original-a0350de9-3dce-404a-934a-422769fef5e3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-21a1738d-c483-4836-a6cf-751885f7839d.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-054d455e-fd50-45c2-b5f6-d392f147869a.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b257670f-afd6-41cb-945d-476596bf8a63.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-165c0ebd-e278-4d61-8de2-c66dc60b1229.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9df88a32-eaba-4249-ab46-ddcc7aaad6a7.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-93f55308-da5e-42be-b94c-e029e1cbdc1e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9c81ee96-47ea-47d2-bee4-7a12c15740c1.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-df3e432f-5c8c-4e6b-a4ac-cf1a9b982462.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c5c4257b-5f22-4c40-a443-924392cb0c63.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c6fda630-9b58-4553-9a3f-685321295e82.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-baf66bbb-03bd-463a-8019-bda586da1c36.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-50a958b7-e109-4da0-a800-2a91723b6099.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8253c09a-eb92-4779-be5a-a9b0e4b49196.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b2e308b3-c6b3-4b0f-873d-803668b693c0.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-189f4b8e-b9f2-44df-b66b-685fd0ed3553.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2d97d2e3-bb52-4a03-a369-b62b62f7298d.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e104f872-2ba2-4afa-ac1c-859823829f8b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b2087521-4599-424e-ba2f-0c26f7e55f65.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fb371778-90e8-41d8-be96-1a5bc60123be.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1c60a1d1-d649-4ab3-980d-2d35fc088535.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-7f534e1c-9f6a-4c77-82fa-c20e676808a2.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8a35c893-c317-444f-8a22-d38fbf1877bb.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2daec73b-0aa2-4f14-b065-ada9728af296.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4454c835-9d98-4ffd-a1f0-817047dca4ea.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d06d6c1c-8b7d-42d0-aaf0-de28f056dece.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-921ba65b-128c-4513-b7ff-4a8de5ccf80b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-2aa378e0-2a4d-4978-9471-57954d4ad3cd.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fa2c4a7e-ee3e-4bc4-843b-6484e6fe0b00.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5990c61d-e4a2-4405-a4fc-d8ff268928d3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4dfb191e-2c66-41b7-9b54-71ca7586022f.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-81d18acb-4eed-474f-b323-f95d14f07141.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-8ba28fcc-0c90-4dff-b248-e6a5170f85c3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c3317306-802f-481d-b81c-194e98d144e8.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ce68a9d0-943b-4233-8c61-6a869f9f8ce8.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b1a8e5f2-b0dc-4641-b295-664d755f0c8a.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1cd7e203-6215-4720-901b-baa21d121366.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-43ee628b-a316-41f8-8425-3eaa61c88df3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-957a0d30-1152-4be7-b85a-e8e22650e125.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-74a97c85-1582-4ff6-8126-3f6c30f7d732.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-df7fd953-7260-4936-b2bf-e2ee267d08d9.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-5335082a-9d7c-48c0-ac74-c1eb184ba26c.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-14d5a683-d070-492f-a31f-ae33d452de17.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d5a445ee-0771-4821-9f86-f1e74f6aecd4.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-fe402093-8fb5-4078-9c83-ca3b978b2975.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-b7596ed4-77c2-460b-88e6-82c9298933f5.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a5e6acc5-5ed2-4bad-83ce-6ab3239ff87f.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-c8ba1038-12c7-4390-8007-5ba5aa29e400.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a2cecd79-92b4-45e7-bdc4-bc5b61af85c3.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-74d29fae-6a3f-46e7-aea1-d80314e2a7db.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a5c32c42-56ff-48d9-8ef9-47899a1880c2.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-535c5774-9bb0-4f02-a49f-744cbc79298b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0e5c2eef-d525-46c3-81f9-f23ca46b6c75.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-0fd068f2-ea6c-4e62-92af-8fc798cf0c90.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-26e52ca4-66c9-49ac-9c26-9c5ecde59940.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-176d701d-78ee-41b4-aadc-311700fedf67.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-581d9b2c-39b9-4d44-8059-712ac8ff1154.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e862a2fe-32c4-4ed9-a77d-9ba15b8e09d6.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-543155a7-51fc-48cb-8363-99b38000c590.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-27081e1b-6078-4400-989c-e38927eaa50f.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1518d0fa-e209-4c57-94e6-02860bd4ac22.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-4c90d477-741d-4db0-a290-e797c2c08a34.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a7752550-b834-40bb-9305-b0f0fa9ef387.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d00c5f5a-3159-4ef5-bbd6-9b6cfcfd869d.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ba95ca20-63c0-47ee-8fec-ddea2b40a91c.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-27182986-9f3e-427b-aa58-54568ae64994.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-379c8fc0-8a82-4afe-9c2b-a4ab8512034a.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d582e0b6-8ebf-4153-9bba-fdaee1483140.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-762ac623-087f-420a-bbf2-0de016e172ba.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-e48cb7de-6deb-47a9-814a-5f3dfe5bff3b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-3f63ecf3-bc10-495f-ac9e-e08fddc6b975.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-ee88f649-51f7-47b3-9c66-877f249a7866.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a2bf5d07-1d4c-41e6-bca1-c166d5a78af0.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6ec62ec5-6b01-4856-8701-6f6ecf6bd28f.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6bc6a3e4-a881-4140-8869-c23f5ebcf175.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-1fd88c46-5929-4a34-b4a4-b21c739fa68e.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-9a52a10a-064e-4de4-bd00-0c6e4c337af6.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-d79e35ad-94d6-405d-b504-1c9b2757bbc6.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-a3825cff-4899-4453-96e1-ae1bac12464b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-75515d7e-6356-48a7-a8cc-2bf887a13b73.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-99e1d4a1-2240-493c-a7e4-53929ff9217b.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      },
+      {
+        "src": "assets/original-6e756ce4-fa94-4a32-80b6-6b66a4406bce.jpg",
+        "alt": "",
+        "class": "",
+        "kind": "photo"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US"
+  }
+]
