@@ -26,11 +26,12 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
     const cards = document.querySelector('#locationCards');
     if (cards) cards.innerHTML = ls.map(l => card(l)).join('');
 
-    // Home page: the 4 most recently updated locations
+    // Home page: the 4 most recently updated locations.
+    // Locations with "home": true (Dickinson County, Iowa) are photos from home, not trips.
     const latest = document.querySelector('#latestCards');
     if (latest) {
       const recent = ls.filter(l => l.updated).sort((a, b) => b.updated.localeCompare(a.updated)).slice(0, 4);
-      if (recent.length) latest.innerHTML = recent.map(l => card(l, '<span class="card-date">' + esc(shortDate(l.updated)) + '</span>')).join('');
+      if (recent.length) latest.innerHTML = recent.map(l => card(l, '<span class="card-date">' + (l.home ? 'HOME · ' : '') + esc(shortDate(l.updated)) + '</span>')).join('');
       else latest.closest('section').hidden = true;
     }
 
@@ -55,10 +56,10 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
     if (visits.length > 1 || visits[0].name) {
       gallery.classList.add('visits');
       gallery.innerHTML = (visits.length > 1
-        ? '<nav class="visit-nav"><span>' + visits.length + ' TRIPS</span>' + visits.map(v => '<a href="#' + slugify(v.name) + '">' + esc(v.name) + '</a>').join('') + '</nav>'
+        ? '<nav class="visit-nav"><span>' + visits.length + (l.home ? ' SETS' : ' TRIPS') + '</span>' + visits.map(v => '<a href="#' + slugify(v.name) + '">' + esc(v.name) + '</a>').join('') + '</nav>'
         : '')
         + visits.map((v, n) => '<section class="visit" id="' + slugify(v.name) + '">'
-          + '<div class="visit-head"><small>' + (n === 0 && visits.length > 1 ? 'LATEST TRIP' : 'TRIP ' + (visits.length - n) + ' OF ' + visits.length) + ' · ' + v.items.length + (v.items.length === 1 ? ' ITEM' : ' ITEMS') + '</small><h2>' + esc(v.name) + '</h2></div>'
+          + '<div class="visit-head"><small>' + (l.home ? 'FROM HOME' : n === 0 && visits.length > 1 ? 'LATEST TRIP' : 'TRIP ' + (visits.length - n) + ' OF ' + visits.length) + ' · ' + v.items.length + (v.items.length === 1 ? ' ITEM' : ' ITEMS') + '</small><h2>' + esc(v.name) + '</h2></div>'
           + '<div class="gallery-grid">' + v.items.map(([p, i]) => figure(p, i, l)).join('') + '</div></section>').join('');
     } else {
       gallery.innerHTML = l.photos.map((p, i) => figure(p, i, l)).join('');

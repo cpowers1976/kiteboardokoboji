@@ -1828,7 +1828,8 @@
       }
     ],
     "flagAsset": "assets/flags/us.png",
-    "countryCode": "US"
+    "countryCode": "US",
+    "home": true
   },
   {
     "slug": "istanbul",
