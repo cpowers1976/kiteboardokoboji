@@ -488,7 +488,8 @@
       }
     ],
     "flag": "🇱🇧",
-    "countryCode": "LB"
+    "countryCode": "LB",
+    "updated": "2018-04-21"
   },
   {
     "slug": "bethlehem",
@@ -779,7 +780,8 @@
       }
     ],
     "flag": "🇧🇪",
-    "countryCode": "BE"
+    "countryCode": "BE",
+    "updated": "2024-04-20"
   },
   {
     "slug": "california",
@@ -1142,7 +1144,8 @@
       }
     ],
     "flagAsset": "assets/flags/za.png",
-    "countryCode": "ZA"
+    "countryCode": "ZA",
+    "updated": "2022-02-26"
   },
   {
     "slug": "chile",
@@ -1355,7 +1358,8 @@
       }
     ],
     "flagAsset": "assets/flags/cn.png",
-    "countryCode": "CN"
+    "countryCode": "CN",
+    "updated": "2025-12-05"
   },
   {
     "slug": "copenhagen",
@@ -1426,7 +1430,8 @@
       }
     ],
     "flag": "🇩🇰",
-    "countryCode": "DK"
+    "countryCode": "DK",
+    "updated": "2026-06-16"
   },
   {
     "slug": "dead-sea",
@@ -1651,7 +1656,8 @@
       }
     ],
     "flagAsset": "assets/flags/ae.svg",
-    "countryCode": "AE"
+    "countryCode": "AE",
+    "updated": "2024-12-15"
   },
   {
     "slug": "india",
@@ -1995,7 +2001,8 @@
       }
     ],
     "flag": "🇹🇷",
-    "countryCode": "TR"
+    "countryCode": "TR",
+    "updated": "2019-08-12"
   },
   {
     "slug": "jerusalem",
@@ -2502,7 +2509,8 @@
       }
     ],
     "flag": "🇬🇱",
-    "countryCode": "GL"
+    "countryCode": "GL",
+    "updated": "2026-06-15"
   },
   {
     "slug": "oahu",
@@ -2662,7 +2670,8 @@
       }
     ],
     "flag": "🇫🇷",
-    "countryCode": "FR"
+    "countryCode": "FR",
+    "updated": "2026-04-17"
   },
   {
     "slug": "petra",
@@ -2835,7 +2844,8 @@
       }
     ],
     "flagAsset": "assets/flags/jo.svg",
-    "countryCode": "JO"
+    "countryCode": "JO",
+    "updated": "2019-11-08"
   },
   {
     "slug": "roatan",
@@ -3045,123 +3055,124 @@
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
-      },
-      {
-        "src": "assets/original-304cef4b-b3c8-4b76-a212-d815ea8d7414.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "February – March 2026"
       },
       {
         "src": "assets/original-a0daf56e-1026-4982-8fb3-e9a70738316a.mov",
         "alt": "",
         "class": "",
         "kind": "video",
-        "visit": "Earlier visits"
+        "visit": "February – March 2026"
       },
       {
         "src": "assets/original-8b07863b-e95e-4d81-a622-152d5c534d06.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "February – March 2026"
       },
       {
         "src": "assets/original-0d41f11c-51c1-41ff-aca1-8b0ce56bb288.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "February – March 2026"
       },
       {
         "src": "assets/original-39baa751-d753-44c4-8dcb-0fc77290775f.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "February – March 2026"
       },
       {
         "src": "assets/original-52429ed4-4f97-4204-8cbf-7084edffc59b.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-f21027fb-a325-4038-9d7d-884ed028e041.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-f1755daf-ddd7-4072-a5dd-2f38dc443831.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-8afa7513-5a13-4a46-a01a-f5c1c276b3e0.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-8624ebf6-82df-43c3-a35f-7dc21e6684c7.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-b3266a49-de6e-4151-bdb9-7c070ad26408.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-3622f6ee-741e-4692-b757-7bf05a61a75b.mov",
         "alt": "",
         "class": "",
         "kind": "video",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
       },
       {
         "src": "assets/original-4f417024-67ed-4994-bcbc-2361240ed1a2.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "October – November 2025"
+      },
+      {
+        "src": "assets/original-304cef4b-b3c8-4b76-a212-d815ea8d7414.jpeg",
+        "alt": "",
+        "class": "",
+        "kind": "photo",
+        "visit": "2022 – 2024"
       },
       {
         "src": "assets/original-fbc00411-4b3a-4100-9cee-ff9a703e463b.mov",
         "alt": "",
         "class": "",
         "kind": "video",
-        "visit": "Earlier visits"
+        "visit": "2022 – 2024"
       },
       {
         "src": "assets/original-370266e2-3ad7-4ab0-8db8-7517b9707928.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "2022 – 2024"
       },
       {
         "src": "assets/original-99d702c2-9f8b-4f29-87df-355f32f39390.jpeg",
         "alt": "",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier visits"
+        "visit": "2022 – 2024"
       }
     ],
     "flagAsset": "assets/flags/us.png",
-    "countryCode": "US"
+    "countryCode": "US",
+    "updated": "2026-11-07"
   },
   {
     "slug": "sweden",
@@ -3392,7 +3403,8 @@
       }
     ],
     "flagAsset": "assets/flags/th.png",
-    "countryCode": "TH"
+    "countryCode": "TH",
+    "updated": "2019-04-13"
   },
   {
     "slug": "the-dead-sea",
@@ -3457,7 +3469,8 @@
       }
     ],
     "flagAsset": "assets/flags/il.svg",
-    "countryCode": "IL"
+    "countryCode": "IL",
+    "updated": "2019-04-01"
   },
   {
     "slug": "wadi-rum",
@@ -3606,7 +3619,8 @@
       }
     ],
     "flagAsset": "assets/flags/jo.svg",
-    "countryCode": "JO"
+    "countryCode": "JO",
+    "updated": "2019-11-09"
   },
   {
     "slug": "yellowstone",
@@ -4109,6 +4123,7 @@
       }
     ],
     "flagAsset": "assets/flags/us.png",
-    "countryCode": "US"
+    "countryCode": "US",
+    "updated": "2015-05-03"
   }
 ]
