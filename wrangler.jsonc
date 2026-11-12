@@ -2,6 +2,8 @@
   // Cloudflare Worker that serves the static site in ./public
   "name": "kiteboard-okoboji",
   "compatibility_date": "2026-11-01",
+  // Needed for Cloudflare preview builds of pull requests (npx wrangler preview)
+  "previews": {},
   "assets": {
     "directory": "./public"
   }
