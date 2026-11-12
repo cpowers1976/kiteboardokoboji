@@ -3144,6 +3144,41 @@
     "cover": "assets/original-56ddeaba-1567-4025-8c99-511015d9190a.jpeg",
     "photos": [
       {
+        "src": "assets/spi-nov-2026-08.webp",
+        "alt": "Kites up at the North Flats, South Padre Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026"
+      },
+      {
+        "src": "assets/spi-nov-2026-09.webp",
+        "alt": "Beach stop at Wanna Wanna, South Padre Island",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026"
+      },
+      {
+        "src": "assets/spi-nov-2026-10.webp",
+        "alt": "Launch day at the North Flats, South Padre Island",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026"
+      },
+      {
+        "src": "assets/spi-nov-2026-11.webp",
+        "alt": "Kite crew on the sand at the North Flats",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026"
+      },
+      {
+        "src": "assets/spi-nov-2026-12.webp",
+        "alt": "Kites rigged at the North Flats, South Padre Island",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026"
+      },
+      {
         "src": "assets/spi-nov-2026-01.webp",
         "alt": "Beach camp under the canopy on South Padre Island",
         "class": "wide",
@@ -3314,7 +3349,7 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-11-07"
+    "updated": "2026-11-12"
   },
   {
     "slug": "sweden",
