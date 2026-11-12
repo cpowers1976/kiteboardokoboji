@@ -1731,104 +1731,149 @@
     "cover": "assets/okoboji-sunset-01.webp",
     "photos": [
       {
+        "src": "assets/iowa-okoboji-oct-2026-01.webp",
+        "alt": "Kiteboarding on West Okoboji Lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2026"
+      },
+      {
+        "src": "assets/iowa-okoboji-oct-2026-04.mp4",
+        "alt": "Kiteboarding session on West Okoboji Lake",
+        "class": "",
+        "kind": "video",
+        "visit": "October 2026"
+      },
+      {
+        "src": "assets/iowa-okoboji-oct-2026-02.webp",
+        "alt": "Working the kite on a windy day, West Okoboji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2026"
+      },
+      {
+        "src": "assets/iowa-okoboji-oct-2026-03.webp",
+        "alt": "Riding upwind on West Okoboji Lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2026"
+      },
+      {
         "src": "assets/okoboji-sunset-01.webp",
         "alt": "Sunset over West Okoboji Lake",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/okoboji-paddleboard-01.webp",
         "alt": "Paddleboarder on calm water at sunset in Okoboji",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/okoboji-queen-sunset-01.webp",
         "alt": "Sunset beside the excursion boat on the Okoboji waterfront",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/okoboji-arch-queen-01.webp",
         "alt": "Illuminated waterfront arch and excursion boat at dusk in Arnolds Park",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/okoboji-waterfront-01.webp",
         "alt": "Okoboji waterfront lights and calm water at dusk",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/okoboji-roof-garden-01.webp",
         "alt": "Roof Garden in Arnolds Park at night",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-kite.webp",
         "alt": "Kiteboarding on the Iowa Great Lakes",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-okoboji-1.webp",
         "alt": "Okoboji archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-okoboji-2.webp",
         "alt": "Okoboji archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-water.webp",
         "alt": "Summer on the Iowa Great Lakes",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-okoboji-3.webp",
         "alt": "Okoboji archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-okoboji-4.webp",
         "alt": "Okoboji archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-dock.webp",
         "alt": "Lakeside summer",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-dock2.webp",
         "alt": "Summer at the lake",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-waterski.webp",
         "alt": "Watersports on the Iowa Great Lakes",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       },
       {
         "src": "assets/iowa-okoboji-5.webp",
         "alt": "Iowa Great Lakes archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier visits"
       }
     ],
     "flagAsset": "assets/flags/us.png",
-    "countryCode": "US"
+    "countryCode": "US",
+    "updated": "2026-10-11"
   },
   {
     "slug": "istanbul",
