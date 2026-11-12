@@ -1,4 +1,26 @@
 .gallery figure{position:relative}.gallery figcaption{position:absolute;left:0;right:0;bottom:0;padding:24px 14px 12px;background:linear-gradient(transparent,rgba(0,0,0,.7));color:#fff;font-size:11px;pointer-events:none}.gallery video{width:100%;height:100%;object-fit:cover}.video-play{position:absolute;top:45%;left:45%;color:white;font-size:35px}dialog video{max-width:94vw;max-height:80vh;display:block}
 .mast-link{display:inline-block;margin-top:28px;padding:11px 18px;border:1px solid #53c8d4;color:#53c8d4;text-decoration:none;font-size:11px;font-weight:700;letter-spacing:3px;transition:background .2s,color .2s}.mast-link:hover{background:#53c8d4;color:#0b1114}
 
-.gallery .visit-head{grid-column:1/-1;margin:24px 8px 8px;color:#53c8d4;font-size:12px;font-weight:700;letter-spacing:6px;text-transform:uppercase}.gallery .visit-head:first-child{margin-top:8px}
+/* Separate gallery per trip on destination pages */
+.gallery.visits{display:block;padding:0;background:#0b1114}
+.visit-nav{display:flex;flex-wrap:wrap;align-items:center;gap:10px;padding:22px 7vw;background:#eeeae2;border-top:1px solid #ddd8cf}
+.visit-nav span{font-size:11px;font-weight:700;letter-spacing:3px;color:#697478;margin-right:8px}
+.visit-nav a{padding:9px 14px;border:1px solid #0b7f89;color:#0b7f89;text-decoration:none;font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+.visit-nav a:hover{background:#0b7f89;color:#fff}
+.visit{scroll-margin-top:80px}
+.visit+.visit{border-top:6px solid #e5a044}
+.visit-head{padding:7vh 7vw 4vh;color:#fff}
+.visit-head small{display:block;color:#53c8d4;font-size:11px;font-weight:700;letter-spacing:4px}
+.visit-head h2{margin:14px 0 0;font:400 clamp(36px,5vw,70px)/1 Georgia,serif}
+.gallery-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;padding:0 8px 8px}
+
+/* Latest trips on the home page */
+.latest{background:#0b1114;color:#fff;padding:8vh 4vw}
+.latest .section-head p{color:#9aa6aa}
+.latest h2{font:400 clamp(36px,5vw,70px)/1 Georgia,serif;margin:0}
+.cards.latest-cards{grid-template-columns:repeat(4,1fr)}
+.latest-cards .card{height:30vw;max-height:460px}
+.latest-cards .card h3{font-size:clamp(24px,2.6vw,40px);letter-spacing:-1px}
+.card-date{display:table;margin-bottom:10px;padding:5px 9px;background:#e5a044;color:#0b1114;font-size:10px;font-weight:700;letter-spacing:2px}
+@media(max-width:900px){.cards.latest-cards{grid-template-columns:repeat(2,1fr)}.latest-cards .card{height:52vw}}
+@media(max-width:760px){.gallery-grid{grid-template-columns:1fr}.visit-nav{padding:18px 7vw}.latest-cards .card h3{font-size:22px}}
