@@ -1667,79 +1667,91 @@
     "cover": "assets/hoover-dam-01.webp",
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-11-12",
+    "updated": "2026-07-31",
     "photos": [
       {
         "src": "assets/hoover-dam-01.webp",
         "alt": "Hoover Dam from the Mike O'Callaghan–Pat Tillman Memorial Bridge",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-02.webp",
         "alt": "Intake towers on Lake Mead",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-03.webp",
         "alt": "Lake Mead and the bathtub ring above the intake towers",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-04.webp",
         "alt": "The Winged Figures of the Republic and the dedication monument",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-05.webp",
         "alt": "The crest road and the Hoover Dam exhibit building",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-06.webp",
         "alt": "America 250 banner and the bypass bridge from the dam crest",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-07.webp",
         "alt": "The Arizona-side tower and the memorial bridge",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-08.webp",
         "alt": "At Hoover Dam, the bridge and Black Canyon behind",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-09.webp",
         "alt": "Black Canyon and the Colorado River below the dam",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-10.webp",
         "alt": "Looking straight down the face of the dam",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-11.webp",
         "alt": "Generator hall in the power plant",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       },
       {
         "src": "assets/hoover-dam-12.webp",
         "alt": "Inside a penstock tunnel",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "July 2026"
       }
     ]
   },
