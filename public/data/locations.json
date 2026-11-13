@@ -487,9 +487,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇱🇧",
     "countryCode": "LB",
-    "updated": "2018-04-21"
+    "updated": "2018-04-21",
+    "flagAsset": "assets/flags/lb.svg"
   },
   {
     "slug": "bethlehem",
@@ -779,9 +779,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇧🇪",
     "countryCode": "BE",
-    "updated": "2024-04-20"
+    "updated": "2024-04-20",
+    "flagAsset": "assets/flags/be.svg"
   },
   {
     "slug": "busan",
@@ -821,7 +821,7 @@
     ],
     "countryCode": "KR",
     "updated": "2026-04-22",
-    "flag": "🇰🇷"
+    "flagAsset": "assets/flags/kr.svg"
   },
   {
     "slug": "california",
@@ -1469,9 +1469,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇩🇰",
     "countryCode": "DK",
-    "updated": "2026-06-16"
+    "updated": "2026-06-16",
+    "flagAsset": "assets/flags/dk.svg"
   },
   {
     "slug": "dead-sea",
@@ -2271,9 +2271,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇹🇷",
     "countryCode": "TR",
-    "updated": "2019-08-12"
+    "updated": "2019-08-12",
+    "flagAsset": "assets/flags/tr.svg"
   },
   {
     "slug": "jerusalem",
@@ -2840,9 +2840,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇬🇱",
     "countryCode": "GL",
-    "updated": "2026-06-15"
+    "updated": "2026-06-15",
+    "flagAsset": "assets/flags/gl.svg"
   },
   {
     "slug": "oahu",
@@ -3001,9 +3001,9 @@
         "kind": "photo"
       }
     ],
-    "flag": "🇫🇷",
     "countryCode": "FR",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "flagAsset": "assets/flags/fr.svg"
   },
   {
     "slug": "petra",
