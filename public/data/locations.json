@@ -2101,6 +2101,230 @@
     "updated": "2024-12-15"
   },
   {
+    "slug": "dublin",
+    "name": "Dublin",
+    "region": "Ireland",
+    "kicker": "DUBLIN",
+    "cover": "assets/dublin-03.webp",
+    "photos": [
+      {
+        "src": "assets/dublin-01.webp",
+        "alt": "Aviva Stadium before Iowa State vs K-State",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.3351,
+          -6.22828
+        ]
+      },
+      {
+        "src": "assets/dublin-02.webp",
+        "alt": "Band on the field at Aviva Stadium",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.33498,
+          -6.22806
+        ]
+      },
+      {
+        "src": "assets/dublin-03.webp",
+        "alt": "Final: Iowa State 24, K-State 21",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.33488,
+          -6.22774
+        ]
+      },
+      {
+        "src": "assets/dublin-04.webp",
+        "alt": "Iowa State celebrating on the field",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.33483,
+          -6.22814
+        ]
+      },
+      {
+        "src": "assets/dublin-05.webp",
+        "alt": "Cyclone fans pouring out of the stadium",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.33421,
+          -6.22794
+        ]
+      },
+      {
+        "src": "assets/dublin-06.webp",
+        "alt": "The Iowa State crew in Dublin",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025"
+      },
+      {
+        "src": "assets/dublin-07.webp",
+        "alt": "Selfie in The Temple Bar",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025"
+      },
+      {
+        "src": "assets/dublin-08.webp",
+        "alt": "Live music in The Temple Bar",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34547,
+          -6.2642
+        ]
+      },
+      {
+        "src": "assets/dublin-20.mp4",
+        "alt": "Live music in a Temple Bar pub",
+        "class": "",
+        "kind": "video",
+        "visit": "August 2025",
+        "gps": [
+          53.3452,
+          -6.2627
+        ]
+      },
+      {
+        "src": "assets/dublin-09.webp",
+        "alt": "Cobbled lane in Temple Bar",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34443,
+          -6.26435
+        ]
+      },
+      {
+        "src": "assets/dublin-10.webp",
+        "alt": "The Temple Bar pub",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34553,
+          -6.26429
+        ]
+      },
+      {
+        "src": "assets/dublin-11.webp",
+        "alt": "Oliver St. John Gogarty with a horse and carriage",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34573,
+          -6.26177
+        ]
+      },
+      {
+        "src": "assets/dublin-12.webp",
+        "alt": "Dame Street toward Trinity College",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34401,
+          -6.26829
+        ]
+      },
+      {
+        "src": "assets/dublin-13.webp",
+        "alt": "Powers whiskey barrel lights",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34521,
+          -6.26264
+        ]
+      },
+      {
+        "src": "assets/dublin-14.webp",
+        "alt": "Powers John's Lane Distillery sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34521,
+          -6.26275
+        ]
+      },
+      {
+        "src": "assets/dublin-15.webp",
+        "alt": "Guinness Storehouse, St. James's Gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34224,
+          -6.28366
+        ]
+      },
+      {
+        "src": "assets/dublin-16.webp",
+        "alt": "Horse carriages by the Guinness Storehouse",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34221,
+          -6.2836
+        ]
+      },
+      {
+        "src": "assets/dublin-17.webp",
+        "alt": "Dublin from the Gravity Bar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34186,
+          -6.28637
+        ]
+      },
+      {
+        "src": "assets/dublin-18.webp",
+        "alt": "Iowa State banner on a Guinness pub",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.34383,
+          -6.26368
+        ]
+      },
+      {
+        "src": "assets/dublin-19.webp",
+        "alt": "Temple Bar at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2025",
+        "gps": [
+          53.3438,
+          -6.26381
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/ie.svg",
+    "countryCode": "IE",
+    "updated": "2025-08-24"
+  },
+  {
     "slug": "guangzhou-foshan",
     "name": "Guangzhou & Foshan",
     "region": "China",
@@ -3121,6 +3345,101 @@
         "gps": [
           36.12011,
           -115.16192
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-08.webp",
+        "alt": "Welcome to Fabulous Las Vegas sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.08184,
+          -115.17255
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-09.webp",
+        "alt": "The group at Michael Jackson ONE",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2025"
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-10.webp",
+        "alt": "At the Michael Jackson ONE poster, Mandalay Bay",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.09295,
+          -115.17623
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-16.mp4",
+        "alt": "Drag brunch",
+        "class": "",
+        "kind": "video",
+        "visit": "July 2025",
+        "gps": [
+          36.115,
+          -115.1301
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-11.webp",
+        "alt": "Drag brunch performer",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.11508,
+          -115.1301
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-12.webp",
+        "alt": "Drag brunch finale",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.11503,
+          -115.13007
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-13.webp",
+        "alt": "Golden Nugget, Fremont Street",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.17095,
+          -115.14453
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-14.webp",
+        "alt": "Under the Fremont Street canopy",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.17162,
+          -115.14602
+        ]
+      },
+      {
+        "src": "assets/las-vegas-jul-2025-15.webp",
+        "alt": "Fremont Street Experience canopy",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2025",
+        "gps": [
+          36.17128,
+          -115.14553
         ]
       }
     ],
@@ -4695,6 +5014,72 @@
         "gps": [
           31.23628,
           121.47083
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-10.webp",
+        "alt": "Goose Island brewhouse",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22925,
+          121.45506
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-11.webp",
+        "alt": "Beer flight at Goose Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22924,
+          121.45504
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-12.webp",
+        "alt": "Brewing tanks at Goose Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22926,
+          121.45503
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-13.webp",
+        "alt": "Street toward the Oriental Pearl Tower",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22926,
+          121.45503
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-14.webp",
+        "alt": "Street food skewers on the grill",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22932,
+          121.48673
+        ]
+      },
+      {
+        "src": "assets/shanghai-apr-2025-15.webp",
+        "alt": "Squid skewers at a food stall",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          31.22941,
+          121.48671
         ]
       }
     ],
