@@ -2277,6 +2277,67 @@
     "countryCode": "ZA"
   },
   {
+    "slug": "las-vegas",
+    "name": "Las Vegas",
+    "region": "Nevada, USA",
+    "kicker": "LAS VEGAS",
+    "cover": "assets/las-vegas-04.webp",
+    "photos": [
+      {
+        "src": "assets/las-vegas-01.webp",
+        "alt": "Gwen Stefani wax figure at Madame Tussauds, the Venetian",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-02.webp",
+        "alt": "At the No Doubt arch before the show, Sphere",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-03.webp",
+        "alt": "Crowd filling the Sphere atrium before No Doubt",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-04.webp",
+        "alt": "No Doubt at the Sphere: Anaheim, California 1987",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-05.webp",
+        "alt": "No Doubt on the Sphere screen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-07.mp4",
+        "alt": "Gwen Stefani performing with No Doubt at the Sphere",
+        "class": "wide",
+        "kind": "video",
+        "visit": "May 2026"
+      },
+      {
+        "src": "assets/las-vegas-06.webp",
+        "alt": "Scrapbook pages on the Sphere screen during No Doubt",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2026"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2026-05-13"
+  },
+  {
     "slug": "london",
     "name": "London",
     "region": "United Kingdom",
