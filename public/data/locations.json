@@ -7,50 +7,69 @@
     "cover": "assets/addis-ababa-05.webp",
     "photos": [
       {
+        "src": "assets/addis-ababa-2019-08.webp",
+        "alt": "Ethiopian Airlines jets at Bole Airport",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          8.97655,
+          38.79111
+        ]
+      },
+      {
         "src": "assets/addis-ababa-01.webp",
         "alt": "Traditional Ethiopian meal served on injera in Addis Ababa",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-02.webp",
         "alt": "Haile Selassie statue with students at the National Museum of Ethiopia",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-03.webp",
         "alt": "Plaque describing the Haile Selassie statue at the National Museum of Ethiopia",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-04.webp",
         "alt": "Haile Selassie giving directions to students, National Museum of Ethiopia",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-05.webp",
         "alt": "Entrance to the National Museum of Ethiopia in Addis Ababa",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-06.webp",
         "alt": "Street market in Addis Ababa",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       },
       {
         "src": "assets/addis-ababa-07.webp",
         "alt": "Busy outdoor market street in Addis Ababa",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2018"
       }
     ],
     "flagAsset": "assets/flags/et.svg",
-    "countryCode": "ET"
+    "countryCode": "ET",
+    "updated": "2019-04-03"
   },
   {
     "slug": "alaska",
@@ -3010,55 +3029,64 @@
         "src": "assets/cape-town-01.webp",
         "alt": "Kiteboarding at Bloubergstrand with Table Mountain across the bay",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-02.webp",
         "alt": "Kitesurfers off Cape Town with Table Mountain in the background",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-03.webp",
         "alt": "Windy kiteboarding beach in Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-04.webp",
         "alt": "Table Mountain from the V&A Waterfront in Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-05.webp",
         "alt": "Table Mountain cableway in Cape Town",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-06.webp",
         "alt": "Atlantic coast view from Table Mountain",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-08.webp",
         "alt": "Camps Bay beneath the mountains in Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-09.webp",
         "alt": "Sunset over the Atlantic in Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/cape-town-10.webp",
         "alt": "Historic church in central Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-c138a885-4a6c-4385-a087-8c843e5fd663.jpeg",
@@ -3068,7 +3096,8 @@
         "gps": [
           -33.89103,
           18.40158
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-76006257-f66d-42cb-acce-7c8feec5685c.jpeg",
@@ -3078,7 +3107,8 @@
         "gps": [
           -33.89046,
           18.40287
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-9ba2bbd2-4819-441b-a5d7-84ea6f6fcb3f.jpeg",
@@ -3088,7 +3118,8 @@
         "gps": [
           -33.89313,
           18.39975
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-20108f3d-d086-42bf-847d-e2c5a9d82b41.jpeg",
@@ -3098,7 +3129,8 @@
         "gps": [
           -33.91051,
           18.38941
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-a7516d55-ae69-43ce-a3da-e7c705d726c2.jpeg",
@@ -3108,7 +3140,8 @@
         "gps": [
           -33.9579,
           18.40424
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-b8bee899-1570-4786-9677-81889274a019.mov",
@@ -3118,7 +3151,8 @@
         "gps": [
           -33.8197,
           18.475
-        ]
+        ],
+        "visit": "February 2022"
       },
       {
         "src": "assets/original-634855a5-78c8-4b9a-8ea0-1cc953d9713f.jpeg",
@@ -3128,12 +3162,322 @@
         "gps": [
           -33.95304,
           18.40298
+        ],
+        "visit": "February 2022"
+      },
+      {
+        "src": "assets/cape-town-2022-17.webp",
+        "alt": "V&A Waterfront with Table Mountain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.90619,
+          18.42184
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-18.webp",
+        "alt": "Seals lounging on the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.90345,
+          18.42232
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-19.webp",
+        "alt": "Table Mountain cableway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95234,
+          18.40296
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-20.webp",
+        "alt": "Top of the cableway",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95646,
+          18.40292
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-21.webp",
+        "alt": "Selfie on Table Mountain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95847,
+          18.40337
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-22.webp",
+        "alt": "Sitting on top of Table Mountain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95941,
+          18.40471
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-23.webp",
+        "alt": "Lion's Head from Table Mountain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95792,
+          18.40419
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-24.webp",
+        "alt": "Camps Bay and the Twelve Apostles",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.95278,
+          18.37484
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-25.webp",
+        "alt": "Paraglider over Sea Point",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.91139,
+          18.38851
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-26.webp",
+        "alt": "Sunset cruise",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.88906,
+          18.44503
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-27.webp",
+        "alt": "Table Mountain from the water at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.88969,
+          18.40676
+        ]
+      },
+      {
+        "src": "assets/cape-town-2022-28.webp",
+        "alt": "Cape Town City Hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -33.91946,
+          18.41964
         ]
       }
     ],
     "flagAsset": "assets/flags/za.png",
     "countryCode": "ZA",
-    "updated": "2022-02-26"
+    "updated": "2022-02-27"
+  },
+  {
+    "slug": "chengdu",
+    "name": "Chengdu & Leshan",
+    "region": "China",
+    "kicker": "SICHUAN",
+    "cover": "assets/chengdu-01.webp",
+    "photos": [
+      {
+        "src": "assets/chengdu-01.webp",
+        "alt": "Giant panda at the Chengdu Research Base",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.73761,
+          104.14033
+        ]
+      },
+      {
+        "src": "assets/chengdu-02.webp",
+        "alt": "Panda selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.73716,
+          104.1408
+        ]
+      },
+      {
+        "src": "assets/chengdu-03.webp",
+        "alt": "Panda up a tree",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.73716,
+          104.1408
+        ]
+      },
+      {
+        "src": "assets/chengdu-04.webp",
+        "alt": "Red panda",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.73971,
+          104.13924
+        ]
+      },
+      {
+        "src": "assets/chengdu-05.webp",
+        "alt": "Pandas in the enclosure",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.73973,
+          104.14131
+        ]
+      },
+      {
+        "src": "assets/chengdu-06.webp",
+        "alt": "Kuanzhai Alley gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.66605,
+          104.05217
+        ]
+      },
+      {
+        "src": "assets/chengdu-07.webp",
+        "alt": "Kuanzhai Alley crowds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.66656,
+          104.05116
+        ]
+      },
+      {
+        "src": "assets/chengdu-08.webp",
+        "alt": "Long-spout tea pouring",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.66655,
+          104.04958
+        ]
+      },
+      {
+        "src": "assets/chengdu-09.webp",
+        "alt": "Sichuan opera face-changing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          30.66654,
+          104.04961
+        ]
+      },
+      {
+        "src": "assets/chengdu-10.webp",
+        "alt": "Pavilion lit up at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.57203,
+          103.77102
+        ]
+      },
+      {
+        "src": "assets/chengdu-11.webp",
+        "alt": "Life-jacket selfie on the Leshan boat",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.55524,
+          103.76734
+        ]
+      },
+      {
+        "src": "assets/chengdu-12.webp",
+        "alt": "Leshan Giant Buddha",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.54663,
+          103.76867
+        ]
+      },
+      {
+        "src": "assets/chengdu-13.webp",
+        "alt": "The Giant Buddha from the river",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.54631,
+          103.76835
+        ]
+      },
+      {
+        "src": "assets/chengdu-14.webp",
+        "alt": "Sichuan dinner",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.55854,
+          103.76184
+        ]
+      },
+      {
+        "src": "assets/chengdu-15.webp",
+        "alt": "Lantern street in Leshan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          29.57357,
+          103.77264
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN",
+    "updated": "2017-04-08"
   },
   {
     "slug": "chicago",
@@ -5083,6 +5427,106 @@
     "flagAsset": "assets/flags/ie.svg",
     "countryCode": "IE",
     "updated": "2025-08-24"
+  },
+  {
+    "slug": "el-alamein",
+    "name": "El Alamein",
+    "region": "Egypt",
+    "kicker": "EL ALAMEIN",
+    "cover": "assets/el-alamein-01.webp",
+    "photos": [
+      {
+        "src": "assets/el-alamein-01.webp",
+        "alt": "Marina on the Mediterranean",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.96148,
+          28.76349
+        ]
+      },
+      {
+        "src": "assets/el-alamein-02.webp",
+        "alt": "At the marina",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.96149,
+          28.76353
+        ]
+      },
+      {
+        "src": "assets/el-alamein-03.webp",
+        "alt": "Turquoise surf on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.83603,
+          28.99156
+        ]
+      },
+      {
+        "src": "assets/el-alamein-04.webp",
+        "alt": "Yachts in the marina",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.96361,
+          28.76218
+        ]
+      },
+      {
+        "src": "assets/el-alamein-05.webp",
+        "alt": "Gateway to the sea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.96144,
+          28.76338
+        ]
+      },
+      {
+        "src": "assets/el-alamein-06.webp",
+        "alt": "Mosque on the drive in",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.84329,
+          28.94664
+        ]
+      },
+      {
+        "src": "assets/el-alamein-07.webp",
+        "alt": "New Alamein towers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.84967,
+          28.91502
+        ]
+      },
+      {
+        "src": "assets/el-alamein-08.webp",
+        "alt": "Palms on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.83668,
+          28.99125
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/eg.svg",
+    "countryCode": "EG",
+    "updated": "2023-08-12"
   },
   {
     "slug": "guangzhou-foshan",
@@ -7063,53 +7507,150 @@
         "src": "assets/johannesburg-01.webp",
         "alt": "Springbok near Johannesburg",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-02.webp",
         "alt": "Zebras near Johannesburg",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-03.webp",
         "alt": "Zebras by the water near Johannesburg",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-04.webp",
         "alt": "Zebras grazing by the water near Johannesburg",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-05.webp",
         "alt": "Stone dam and waterfall near Johannesburg",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-06.webp",
         "alt": "Lake and countryside near Johannesburg",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-07.webp",
         "alt": "Horse in the countryside near Johannesburg",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
       },
       {
         "src": "assets/johannesburg-08.webp",
         "alt": "Braai near Johannesburg",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2022"
+      },
+      {
+        "src": "assets/johannesburg-2022-09.webp",
+        "alt": "Thatched chalet by the dam",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -25.96056,
+          27.85759
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-10.webp",
+        "alt": "Springbok on the lawn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -25.96104,
+          27.85778
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-11.webp",
+        "alt": "Zebras by the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -25.96207,
+          27.85488
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-12.webp",
+        "alt": "Giraffe among the chalets",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -25.96188,
+          27.8588
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-13.webp",
+        "alt": "Dam spillway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -25.95749,
+          27.85815
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-14.webp",
+        "alt": "Horse grazing at the farm",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -26.0391,
+          27.68892
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-15.webp",
+        "alt": "Highveld sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -26.03977,
+          27.6902
+        ]
+      },
+      {
+        "src": "assets/johannesburg-2022-16.webp",
+        "alt": "Braai selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2022",
+        "gps": [
+          -26.03982,
+          27.6903
+        ]
       }
     ],
     "flagAsset": "assets/flags/za.png",
-    "countryCode": "ZA"
+    "countryCode": "ZA",
+    "updated": "2022-02-25"
   },
   {
     "slug": "kuala-lumpur",
@@ -9693,6 +10234,161 @@
     "flagAsset": "assets/flags/do.svg",
     "countryCode": "DO",
     "updated": "2020-02-27"
+  },
+  {
+    "slug": "qinghai",
+    "name": "Xining & Qinghai Lake",
+    "region": "China",
+    "kicker": "QINGHAI",
+    "cover": "assets/qinghai-01.webp",
+    "photos": [
+      {
+        "src": "assets/qinghai-01.webp",
+        "alt": "Qinghai Lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.58694,
+          100.49821
+        ]
+      },
+      {
+        "src": "assets/qinghai-02.webp",
+        "alt": "Hand-pulled noodles in Xining",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.63006,
+          101.7476
+        ]
+      },
+      {
+        "src": "assets/qinghai-03.webp",
+        "alt": "Bactrian camel at the zoo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.62602,
+          101.73382
+        ]
+      },
+      {
+        "src": "assets/qinghai-04.webp",
+        "alt": "Xining in autumn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.62524,
+          101.73134
+        ]
+      },
+      {
+        "src": "assets/qinghai-05.webp",
+        "alt": "Stupas at Kumbum Monastery",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.49011,
+          101.56709
+        ]
+      },
+      {
+        "src": "assets/qinghai-06.webp",
+        "alt": "Kumbum Monastery courtyard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.48738,
+          101.56509
+        ]
+      },
+      {
+        "src": "assets/qinghai-07.webp",
+        "alt": "High grasslands on the way to the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.44465,
+          100.86378
+        ]
+      },
+      {
+        "src": "assets/qinghai-08.webp",
+        "alt": "Qinghai Lake shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.57921,
+          100.49496
+        ]
+      },
+      {
+        "src": "assets/qinghai-09.webp",
+        "alt": "Prayer flags and stupa by the lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.5848,
+          100.49481
+        ]
+      },
+      {
+        "src": "assets/qinghai-10.webp",
+        "alt": "Prayer wheels",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.58489,
+          100.49474
+        ]
+      },
+      {
+        "src": "assets/qinghai-11.webp",
+        "alt": "Snowy mountains on the plateau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.57929,
+          100.4948
+        ]
+      },
+      {
+        "src": "assets/qinghai-12.webp",
+        "alt": "By the lake under the flag",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.55207,
+          100.57876
+        ]
+      },
+      {
+        "src": "assets/qinghai-13.webp",
+        "alt": "Mountains at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2017",
+        "gps": [
+          36.46884,
+          101.14339
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN",
+    "updated": "2017-10-27"
   },
   {
     "slug": "queensland",
