@@ -4944,6 +4944,286 @@
     "updated": "2019-01-14"
   },
   {
+    "slug": "lake-tahoe",
+    "name": "Lake Tahoe",
+    "region": "California & Nevada",
+    "kicker": "LAKE TAHOE",
+    "cover": "assets/lake-tahoe-jul-2017-10.webp",
+    "photos": [
+      {
+        "src": "assets/lake-tahoe-dec-2017-16.webp",
+        "alt": "Paddleboard over clear water, Sand Harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.2216,
+          -119.9303
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-17.webp",
+        "alt": "Paddleboards on the rocks",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.22144,
+          -119.92884
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-18.webp",
+        "alt": "Paddleboarders at sunrise",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.23855,
+          -119.94623
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-19.webp",
+        "alt": "Morning on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.23881,
+          -119.94648
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-20.webp",
+        "alt": "Sun through the clouds over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.23854,
+          -119.94607
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-21.webp",
+        "alt": "Winter sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.23847,
+          -119.94595
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-22.webp",
+        "alt": "Selfie on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.23844,
+          -119.94604
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-23.webp",
+        "alt": "Drinks with friends",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.25019,
+          -119.95567
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-dec-2017-24.webp",
+        "alt": "Snowy overlook",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.25798,
+          -119.90199
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-10.webp",
+        "alt": "Turquoise water at Sand Harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.22106,
+          -119.92876
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-11.webp",
+        "alt": "Clear water and pines, Sand Harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.22105,
+          -119.92876
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-12.webp",
+        "alt": "Summer on the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.23828,
+          -119.94555
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-13.webp",
+        "alt": "Out on the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.23825,
+          -119.95036
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-14.webp",
+        "alt": "On the dock",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.23741,
+          -119.94419
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-jul-2017-15.webp",
+        "alt": "Sunset from the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.23759,
+          -119.94396
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-02.webp",
+        "alt": "Fresh snow above the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.24759,
+          -119.92183
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-03.webp",
+        "alt": "Snowed-in cabins",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.23759,
+          -120.02786
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-04.webp",
+        "alt": "Driving between snow walls",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.25347,
+          -119.92495
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-05.webp",
+        "alt": "Mount Rose Highway in winter",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.32036,
+          -119.90214
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-06.webp",
+        "alt": "Snowy pass on the Mount Rose Highway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.31386,
+          -119.89723
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-07.webp",
+        "alt": "Winter view over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.23689,
+          -120.02839
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-08.webp",
+        "alt": "A friend and a dog at the bar",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.25389,
+          -119.92312
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-feb-2017-09.webp",
+        "alt": "Après with friends",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.2501,
+          -119.95569
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-01.webp",
+        "alt": "On a snowy deck above the lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2016",
+        "gps": [
+          39.24759,
+          -119.92228
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2017-12-29",
+    "stateFlags": [
+      "assets/flags/us-ca.webp",
+      "assets/flags/us-nv.webp"
+    ]
+  },
+  {
     "slug": "las-vegas",
     "name": "Las Vegas",
     "region": "Nevada, USA",
