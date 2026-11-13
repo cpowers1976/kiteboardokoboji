@@ -22,12 +22,17 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
     if (!r.ok) throw Error();
     const ls = await r.json();
 
-    // Home page: all locations, newest "updated" first; undated ones after, A–Z
+    // Home page: all locations. South Padre Island and Iowa Great Lakes pinned first,
+    // then newest "updated" first, then undated ones A–Z. Dated cards get a date tag.
+    const PINNED = ['south-padre-island', 'iowa-great-lakes'];
+    const rank = l => PINNED.includes(l.slug) ? PINNED.indexOf(l.slug) : PINNED.length;
+    const dateTag = l => l.updated ? '<span class="card-date">' + (l.home ? 'HOME · ' : '') + esc(shortDate(l.updated)) + '</span>' : '';
     const cards = document.querySelector('#locationCards');
     if (cards) cards.innerHTML = [...ls].sort((a, b) =>
-      a.updated && b.updated ? b.updated.localeCompare(a.updated)
-      : a.updated ? -1 : b.updated ? 1 : a.name.localeCompare(b.name)
-    ).map(l => card(l)).join('');
+      rank(a) - rank(b)
+      || (a.updated && b.updated ? b.updated.localeCompare(a.updated)
+      : a.updated ? -1 : b.updated ? 1 : a.name.localeCompare(b.name))
+    ).map(l => card(l, dateTag(l))).join('');
 
     // Home page: the 4 most recently updated locations.
     // Locations with "home": true (Dickinson County, Iowa) are photos from home, not trips.
