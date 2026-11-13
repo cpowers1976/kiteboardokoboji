@@ -5351,6 +5351,315 @@
     "updated": "2023-05-20"
   },
   {
+    "slug": "hanoi",
+    "name": "Hanoi",
+    "region": "Vietnam",
+    "kicker": "HANOI",
+    "cover": "assets/hanoi-01.webp",
+    "photos": [
+      {
+        "src": "assets/hanoi-2023-20.webp",
+        "alt": "Old Quarter lit up at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.03231,
+          105.85082
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-21.webp",
+        "alt": "Night selfie in the Old Quarter",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.03229,
+          105.85126
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-22.webp",
+        "alt": "Night market crowds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.03472,
+          105.85226
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-23.webp",
+        "alt": "Leafy Old Quarter street",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.03447,
+          105.85048
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-24.webp",
+        "alt": "Street market produce",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.03294,
+          105.85316
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-25.webp",
+        "alt": "Spread of Vietnamese dishes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.0159,
+          105.81599
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-26.webp",
+        "alt": "Banh mi cart",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.02364,
+          105.8185
+        ]
+      },
+      {
+        "src": "assets/hanoi-2023-27.webp",
+        "alt": "Evening traffic",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          21.01771,
+          105.81567
+        ]
+      },
+      {
+        "src": "assets/hanoi-jul-2016-17.webp",
+        "alt": "Cooking at a street-food stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          21.03038,
+          105.84896
+        ]
+      },
+      {
+        "src": "assets/hanoi-jul-2016-18.webp",
+        "alt": "Pho with herbs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          21.03064,
+          105.84875
+        ]
+      },
+      {
+        "src": "assets/hanoi-jul-2016-19.webp",
+        "alt": "Iced coffee",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          21.02902,
+          105.84983
+        ]
+      },
+      {
+        "src": "assets/hanoi-01.webp",
+        "alt": "Hoan Kiem Lake at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.02607,
+          105.85279
+        ]
+      },
+      {
+        "src": "assets/hanoi-02.webp",
+        "alt": "Temple gate in the Old Quarter",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03091,
+          105.85335
+        ]
+      },
+      {
+        "src": "assets/hanoi-03.webp",
+        "alt": "Hoan Kiem Lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03163,
+          105.85198
+        ]
+      },
+      {
+        "src": "assets/hanoi-04.webp",
+        "alt": "Old Quarter crossroads",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03176,
+          105.85146
+        ]
+      },
+      {
+        "src": "assets/hanoi-05.webp",
+        "alt": "Tangle of wires over the street",
+        "class": "",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03412,
+          105.85158
+        ]
+      },
+      {
+        "src": "assets/hanoi-06.webp",
+        "alt": "Bowl of pho",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03537,
+          105.85339
+        ]
+      },
+      {
+        "src": "assets/hanoi-07.webp",
+        "alt": "Scooter traffic at rush hour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.02347,
+          105.81987
+        ]
+      },
+      {
+        "src": "assets/hanoi-08.webp",
+        "alt": "Coffee shop with roasters",
+        "class": "",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03552,
+          105.85056
+        ]
+      },
+      {
+        "src": "assets/hanoi-09.webp",
+        "alt": "Vietnamese drip coffee",
+        "class": "",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03501,
+          105.85021
+        ]
+      },
+      {
+        "src": "assets/hanoi-10.webp",
+        "alt": "Beer street at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03526,
+          105.85207
+        ]
+      },
+      {
+        "src": "assets/hanoi-11.webp",
+        "alt": "Selfie at the Ho Chi Minh Mausoleum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03716,
+          105.83534
+        ]
+      },
+      {
+        "src": "assets/hanoi-12.webp",
+        "alt": "Street vendor with a shoulder pole",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.03543,
+          105.84887
+        ]
+      },
+      {
+        "src": "assets/hanoi-13.webp",
+        "alt": "St. Joseph's Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.02907,
+          105.84938
+        ]
+      },
+      {
+        "src": "assets/hanoi-14.webp",
+        "alt": "Tran Quoc Pagoda on West Lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.04506,
+          105.83759
+        ]
+      },
+      {
+        "src": "assets/hanoi-15.webp",
+        "alt": "Hoa Lo Prison",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.02534,
+          105.84634
+        ]
+      },
+      {
+        "src": "assets/hanoi-16.webp",
+        "alt": "Photos inside Hoa Lo Prison",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February – March 2016",
+        "gps": [
+          21.02517,
+          105.84631
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2023-05-20"
+  },
+  {
     "slug": "ho-chi-minh-city",
     "name": "Ho Chi Minh City",
     "region": "Vietnam",
