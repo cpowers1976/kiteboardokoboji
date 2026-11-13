@@ -6169,6 +6169,157 @@
     "updated": "2026-06-28"
   },
   {
+    "slug": "xian",
+    "name": "Xi'an",
+    "region": "China",
+    "kicker": "TERRACOTTA ARMY",
+    "cover": "assets/xian-01.webp",
+    "photos": [
+      {
+        "src": "assets/xian-01.webp",
+        "alt": "Pit 1, Terracotta Army",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38513,
+          109.2747
+        ]
+      },
+      {
+        "src": "assets/xian-02.webp",
+        "alt": "In Pit 1 with a colleague",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025"
+      },
+      {
+        "src": "assets/xian-03.webp",
+        "alt": "Emperor Qinshihuang's Mausoleum Site Museum",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.39102,
+          109.2791
+        ]
+      },
+      {
+        "src": "assets/xian-04.webp",
+        "alt": "Rows of warriors in Pit 1",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38505,
+          109.27365
+        ]
+      },
+      {
+        "src": "assets/xian-05.webp",
+        "alt": "Warriors up close",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38494,
+          109.27356
+        ]
+      },
+      {
+        "src": "assets/xian-06.webp",
+        "alt": "Excavation and restoration area",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38506,
+          109.27261
+        ]
+      },
+      {
+        "src": "assets/xian-07.webp",
+        "alt": "Restored warriors lined up",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38506,
+          109.27248
+        ]
+      },
+      {
+        "src": "assets/xian-08.webp",
+        "alt": "Pit 3, the command post",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38572,
+          109.27212
+        ]
+      },
+      {
+        "src": "assets/xian-09.webp",
+        "alt": "Officers in Pit 3",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38566,
+          109.27261
+        ]
+      },
+      {
+        "src": "assets/xian-10.webp",
+        "alt": "Kneeling archer",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38589,
+          109.27398
+        ]
+      },
+      {
+        "src": "assets/xian-11.webp",
+        "alt": "Standing officer",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38609,
+          109.27408
+        ]
+      },
+      {
+        "src": "assets/xian-12.webp",
+        "alt": "Terracotta horse",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38596,
+          109.27407
+        ]
+      },
+      {
+        "src": "assets/xian-13.webp",
+        "alt": "Horses on display",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2025",
+        "gps": [
+          34.38626,
+          109.27567
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN",
+    "updated": "2025-04-18"
+  },
+  {
     "slug": "yellowstone",
     "name": "Yellowstone",
     "region": "United States",
