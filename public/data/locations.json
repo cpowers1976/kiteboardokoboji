@@ -3772,6 +3772,227 @@
     "countryCode": "ZA"
   },
   {
+    "slug": "kuala-lumpur",
+    "name": "Kuala Lumpur",
+    "region": "Malaysia",
+    "kicker": "KUALA LUMPUR",
+    "cover": "assets/kuala-lumpur-01.webp",
+    "photos": [
+      {
+        "src": "assets/kuala-lumpur-2019-11.webp",
+        "alt": "Neon-lit bar in Chinatown",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.14097,
+          101.69809
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-12.webp",
+        "alt": "Claypot dinner",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.14429,
+          101.69861
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-13.webp",
+        "alt": "Hidden doorway in Chinatown",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.14297,
+          101.6987
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-14.webp",
+        "alt": "Old China Cafe",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.14127,
+          101.69727
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-15.webp",
+        "alt": "Shophouses on Jalan Petaling",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.14127,
+          101.69721
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-16.webp",
+        "alt": "Fruit stalls at Chow Kit Market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.16374,
+          101.69974
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-17.webp",
+        "alt": "Stink beans hanging at Chow Kit",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.16388,
+          101.70019
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-18.webp",
+        "alt": "Durian stall at Chow Kit",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.16391,
+          101.70035
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2019-19.webp",
+        "alt": "Trying durian",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2019",
+        "gps": [
+          3.16396,
+          101.70023
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2018-09.webp",
+        "alt": "Petronas Towers from KLCC Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          3.15511,
+          101.71471
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-2018-10.webp",
+        "alt": "Selfie in KL Forest Eco Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          3.15093,
+          101.70164
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-01.webp",
+        "alt": "Petronas Twin Towers",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.15615,
+          101.71371
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-02.webp",
+        "alt": "Looking up the Petronas Towers",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.1584,
+          101.71172
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-03.webp",
+        "alt": "View from the Petronas Towers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.15812,
+          101.7121
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-04.webp",
+        "alt": "Rooftop view to the Petronas Towers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.15117,
+          101.70985
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-05.webp",
+        "alt": "Petaling Street gate, Chinatown",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.14252,
+          101.69785
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-06.webp",
+        "alt": "Under the lanterns on Petaling Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.14275,
+          101.69778
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-07.webp",
+        "alt": "Street food smoke on Jalan Alor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.14729,
+          101.71065
+        ]
+      },
+      {
+        "src": "assets/kuala-lumpur-08.webp",
+        "alt": "Samosas at a street stall",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          3.1473,
+          101.71059
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/my.svg",
+    "countryCode": "MY",
+    "updated": "2019-01-14"
+  },
+  {
     "slug": "las-vegas",
     "name": "Las Vegas",
     "region": "Nevada, USA",
@@ -3902,8 +4123,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.11508,
-          -115.1301
+          3.14097,
+          101.69809
         ]
       },
       {
@@ -3946,8 +4167,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.17128,
-          -115.14553
+          3.14297,
+          101.6987
         ]
       }
     ],
@@ -5793,6 +6014,73 @@
     "flagAsset": "assets/flags/cn.png",
     "countryCode": "CN",
     "updated": "2025-12-10"
+  },
+  {
+    "slug": "singapore",
+    "name": "Singapore",
+    "region": "Singapore",
+    "kicker": "SINGAPORE",
+    "cover": "assets/singapore-2018-04.webp",
+    "photos": [
+      {
+        "src": "assets/singapore-2023-05.webp",
+        "alt": "Roast duck and char siu hanging in a stall window",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          1.30742,
+          103.85672
+        ]
+      },
+      {
+        "src": "assets/singapore-2018-04.webp",
+        "alt": "Singapore skyline at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2018",
+        "gps": [
+          1.3211,
+          103.84284
+        ]
+      },
+      {
+        "src": "assets/singapore-01.webp",
+        "alt": "Chili crab",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          1.28913,
+          103.84477
+        ]
+      },
+      {
+        "src": "assets/singapore-02.webp",
+        "alt": "View over Singapore from the hotel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          1.30468,
+          103.8327
+        ]
+      },
+      {
+        "src": "assets/singapore-03.webp",
+        "alt": "Hong Xiang Hainanese Chicken Rice",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2016",
+        "gps": [
+          1.28031,
+          103.84482
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/sg.svg",
+    "countryCode": "SG",
+    "updated": "2023-05-23"
   },
   {
     "slug": "south-africa",
