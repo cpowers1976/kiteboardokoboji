@@ -5430,59 +5430,160 @@
         "src": "assets/mauritius-01.webp",
         "alt": "Mauritius gecko",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20529,
+          57.78982
+        ]
       },
       {
         "src": "assets/mauritius-02.webp",
         "alt": "Lagoon and palm trees in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20583,
+          57.79019
+        ]
       },
       {
         "src": "assets/mauritius-03.webp",
         "alt": "Turquoise lagoon and boats in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20585,
+          57.79017
+        ]
       },
       {
         "src": "assets/mauritius-04.webp",
         "alt": "Kiteboarding in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79013
+        ]
       },
       {
         "src": "assets/mauritius-05.webp",
         "alt": "Beach and lagoon in Mauritius",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79004
+        ]
       },
       {
         "src": "assets/mauritius-06.webp",
         "alt": "Beachfront resort in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20524,
+          57.78996
+        ]
       },
       {
         "src": "assets/mauritius-07.webp",
         "alt": "Sunset over the lagoon in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79016
+        ]
       },
       {
         "src": "assets/mauritius-08.webp",
         "alt": "Sunset selfie in Mauritius",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79015
+        ]
       },
       {
         "src": "assets/mauritius-09.webp",
         "alt": "Palm-lined beach and lagoon in Mauritius",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.2059,
+          57.79011
+        ]
+      },
+      {
+        "src": "assets/mauritius-10.webp",
+        "alt": "Thatched umbrellas above the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79025
+        ]
+      },
+      {
+        "src": "assets/mauritius-11.webp",
+        "alt": "Afterglow over the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20586,
+          57.79018
+        ]
+      },
+      {
+        "src": "assets/mauritius-12.webp",
+        "alt": "Rocky shoreline at low tide",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.20536,
+          57.78984
+        ]
+      },
+      {
+        "src": "assets/mauritius-13.webp",
+        "alt": "Reflections on the wet sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.19906,
+          57.78308
+        ]
+      },
+      {
+        "src": "assets/mauritius-14.webp",
+        "alt": "Beach walk along the seagrass",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2024",
+        "gps": [
+          -20.21528,
+          57.79385
+        ]
       }
     ],
     "flagAsset": "assets/flags/mu.svg",
-    "countryCode": "MU"
+    "countryCode": "MU",
+    "updated": "2024-06-03"
   },
   {
     "slug": "miami",
