@@ -6651,6 +6651,205 @@
     "updated": "2019-11-09"
   },
   {
+    "slug": "western-australia",
+    "name": "Western Australia",
+    "region": "Australia",
+    "kicker": "WESTERN AUSTRALIA",
+    "cover": "assets/western-australia-01.webp",
+    "photos": [
+      {
+        "src": "assets/western-australia-01.webp",
+        "alt": "Turquoise water at Lancelin",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -31.01472,
+          115.32766
+        ]
+      },
+      {
+        "src": "assets/western-australia-02.webp",
+        "alt": "Perth skyline from the Swan River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -31.96055,
+          115.85732
+        ]
+      },
+      {
+        "src": "assets/western-australia-03.webp",
+        "alt": "On the ferry down the Swan River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -31.96179,
+          115.8529
+        ]
+      },
+      {
+        "src": "assets/western-australia-04.webp",
+        "alt": "WA Maritime Museum, Fremantle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -32.05425,
+          115.73711
+        ]
+      },
+      {
+        "src": "assets/western-australia-05.webp",
+        "alt": "Australia II, WA Maritime Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -32.05449,
+          115.73947
+        ]
+      },
+      {
+        "src": "assets/western-australia-06.webp",
+        "alt": "Lookout over the coast near Lancelin",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -31.00582,
+          115.32579
+        ]
+      },
+      {
+        "src": "assets/western-australia-07.webp",
+        "alt": "Wildflowers in the coastal heath",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.92768,
+          115.36388
+        ]
+      },
+      {
+        "src": "assets/western-australia-08.webp",
+        "alt": "Pulled over on the red dirt",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.71335,
+          115.17057
+        ]
+      },
+      {
+        "src": "assets/western-australia-09.webp",
+        "alt": "Indian Ocean Drive",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.71336,
+          115.1705
+        ]
+      },
+      {
+        "src": "assets/western-australia-10.webp",
+        "alt": "Thirsty Point, Cervantes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.50901,
+          115.06017
+        ]
+      },
+      {
+        "src": "assets/western-australia-11.webp",
+        "alt": "Surf rolling in at Cervantes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.30229,
+          115.03635
+        ]
+      },
+      {
+        "src": "assets/western-australia-12.webp",
+        "alt": "Hangover Bay, Nambung National Park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.59057,
+          115.12016
+        ]
+      },
+      {
+        "src": "assets/western-australia-13.webp",
+        "alt": "Kangaroo crossing sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.59332,
+          115.11815
+        ]
+      },
+      {
+        "src": "assets/western-australia-14.webp",
+        "alt": "Selfie on the Jurien Bay jetty",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.30158,
+          115.03581
+        ]
+      },
+      {
+        "src": "assets/western-australia-15.webp",
+        "alt": "Jurien Bay from the jetty",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.30158,
+          115.03581
+        ]
+      },
+      {
+        "src": "assets/western-australia-16.webp",
+        "alt": "Grass trees",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -30.78625,
+          115.25944
+        ]
+      },
+      {
+        "src": "assets/western-australia-17.webp",
+        "alt": "Rock arch on the coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -31.49895,
+          115.58356
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/au.png",
+    "countryCode": "AU",
+    "updated": "2016-07-17"
+  },
+  {
     "slug": "windsor-surrey",
     "name": "Windsor & Surrey",
     "region": "England",
