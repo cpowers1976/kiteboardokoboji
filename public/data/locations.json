@@ -2834,6 +2834,172 @@
     "countryCode": "KH"
   },
   {
+    "slug": "cancun",
+    "name": "Cancún",
+    "region": "Mexico",
+    "kicker": "CANCÚN",
+    "cover": "assets/cancun-01.webp",
+    "photos": [
+      {
+        "src": "assets/cancun-01.webp",
+        "alt": "Cancún beach from the hotel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.08552,
+          -86.77064
+        ]
+      },
+      {
+        "src": "assets/cancun-02.webp",
+        "alt": "Morning over the hotel zone",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.08542,
+          -86.77061
+        ]
+      },
+      {
+        "src": "assets/cancun-03.webp",
+        "alt": "Cancún sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.0863,
+          -86.77067
+        ]
+      },
+      {
+        "src": "assets/cancun-04.webp",
+        "alt": "Infinity pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17767,
+          -86.80704
+        ]
+      },
+      {
+        "src": "assets/cancun-05.webp",
+        "alt": "\"Inhale sky, exhale dreams\"",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.1775,
+          -86.8072
+        ]
+      },
+      {
+        "src": "assets/cancun-06.webp",
+        "alt": "Drinks by the pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17779,
+          -86.8067
+        ]
+      },
+      {
+        "src": "assets/cancun-07.webp",
+        "alt": "Ferry to Isla Mujeres",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.25441,
+          -86.74651
+        ]
+      },
+      {
+        "src": "assets/cancun-08.webp",
+        "alt": "Turquoise water on the ferry",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.23844,
+          -86.76415
+        ]
+      },
+      {
+        "src": "assets/cancun-09.webp",
+        "alt": "Coffee on Isla Mujeres",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.18327,
+          -86.80856
+        ]
+      },
+      {
+        "src": "assets/cancun-10.webp",
+        "alt": "Water trampoline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17734,
+          -86.80637
+        ]
+      },
+      {
+        "src": "assets/cancun-11.webp",
+        "alt": "Sunset sail",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17026,
+          -86.80284
+        ]
+      },
+      {
+        "src": "assets/cancun-12.webp",
+        "alt": "Fun on the catamaran",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17828,
+          -86.80583
+        ]
+      },
+      {
+        "src": "assets/cancun-13.webp",
+        "alt": "#DreamsVista",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17762,
+          -86.80734
+        ]
+      },
+      {
+        "src": "assets/cancun-14.webp",
+        "alt": "The coast from the rooftop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2023",
+        "gps": [
+          21.17766,
+          -86.80696
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/mx.png",
+    "countryCode": "MX",
+    "updated": "2023-02-09"
+  },
+  {
     "slug": "cape-town",
     "name": "Cape Town",
     "region": "South Africa",
@@ -2985,6 +3151,17 @@
         "gps": [
           41.88558,
           -87.62784
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-marquee.webp",
+        "alt": "John Mellencamp, Live and In Person — Sold Out",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88539,
+          -87.62779
         ]
       },
       {
@@ -5019,6 +5196,161 @@
     "updated": "2026-04-24"
   },
   {
+    "slug": "ha-long-bay",
+    "name": "Ha Long Bay",
+    "region": "Vietnam",
+    "kicker": "HA LONG BAY",
+    "cover": "assets/ha-long-bay-01.webp",
+    "photos": [
+      {
+        "src": "assets/ha-long-bay-01.webp",
+        "alt": "Ha Long Bay from the island lookout",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85946,
+          107.08031
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-02.webp",
+        "alt": "Our boat in the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.92169,
+          106.99136
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-03.webp",
+        "alt": "Limestone karst rising from the bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.88457,
+          107.03714
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-04.webp",
+        "alt": "Selfie among the karsts",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.87014,
+          107.05704
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-05.webp",
+        "alt": "Selfie at the lookout",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85949,
+          107.08028
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-06.webp",
+        "alt": "Beach on Ti Top Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85879,
+          107.08066
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-07.webp",
+        "alt": "Inside the cave",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.84391,
+          107.09139
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-08.webp",
+        "alt": "Boats below the cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.84581,
+          107.09048
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-09.webp",
+        "alt": "Rowboat ride",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85434,
+          107.09461
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-10.webp",
+        "alt": "Through the cave to the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85334,
+          107.09479
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-11.webp",
+        "alt": "Rowboats in the hidden lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.85284,
+          107.09531
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-12.webp",
+        "alt": "Tall karst pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.90031,
+          107.02803
+        ]
+      },
+      {
+        "src": "assets/ha-long-bay-13.webp",
+        "alt": "Karsts at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          20.90179,
+          107.01569
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2023-05-20"
+  },
+  {
     "slug": "ho-chi-minh-city",
     "name": "Ho Chi Minh City",
     "region": "Vietnam",
@@ -6738,8 +7070,8 @@
         "kind": "photo",
         "visit": "December 2017",
         "gps": [
-          39.23855,
-          -119.94623
+          21.1777,
+          -86.80697
         ]
       },
       {
@@ -6749,8 +7081,8 @@
         "kind": "photo",
         "visit": "December 2017",
         "gps": [
-          39.23881,
-          -119.94648
+          21.17734,
+          -86.80637
         ]
       },
       {
@@ -6793,8 +7125,8 @@
         "kind": "photo",
         "visit": "December 2017",
         "gps": [
-          39.25019,
-          -119.95567
+          21.17731,
+          -86.80721
         ]
       },
       {
@@ -7903,6 +8235,150 @@
     "countryCode": "RU"
   },
   {
+    "slug": "mui-ne",
+    "name": "Mui Ne",
+    "region": "Vietnam",
+    "kicker": "MUI NE",
+    "cover": "assets/mui-ne-01.webp",
+    "photos": [
+      {
+        "src": "assets/mui-ne-nov-2018-10.webp",
+        "alt": "Grilled lobster",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.95341,
+          108.21678
+        ]
+      },
+      {
+        "src": "assets/mui-ne-nov-2018-11.webp",
+        "alt": "Empty beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.94373,
+          108.19776
+        ]
+      },
+      {
+        "src": "assets/mui-ne-nov-2018-12.webp",
+        "alt": "Mui Ne beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.94443,
+          108.19965
+        ]
+      },
+      {
+        "src": "assets/mui-ne-mar-2018-06.webp",
+        "alt": "Garden path at the resort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2018",
+        "gps": [
+          10.94483,
+          108.19748
+        ]
+      },
+      {
+        "src": "assets/mui-ne-mar-2018-07.webp",
+        "alt": "Kites at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2018",
+        "gps": [
+          10.94362,
+          108.19777
+        ]
+      },
+      {
+        "src": "assets/mui-ne-mar-2018-08.webp",
+        "alt": "Kiteboarding off the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2018",
+        "gps": [
+          10.94364,
+          108.19845
+        ]
+      },
+      {
+        "src": "assets/mui-ne-mar-2018-09.webp",
+        "alt": "Beach loungers at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2018",
+        "gps": [
+          10.94616,
+          108.20184
+        ]
+      },
+      {
+        "src": "assets/mui-ne-01.webp",
+        "alt": "Kites over Mui Ne beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          10.94143,
+          108.19434
+        ]
+      },
+      {
+        "src": "assets/mui-ne-02.webp",
+        "alt": "Fishing boats in the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          10.94027,
+          108.13879
+        ]
+      },
+      {
+        "src": "assets/mui-ne-03.webp",
+        "alt": "Mui Ne coastline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          10.94903,
+          108.1997
+        ]
+      },
+      {
+        "src": "assets/mui-ne-04.webp",
+        "alt": "Kites rigged on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          10.94578,
+          108.20179
+        ]
+      },
+      {
+        "src": "assets/mui-ne-05.webp",
+        "alt": "Kiteboarders on the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2018",
+        "gps": [
+          10.94578,
+          108.20177
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2018-11-09"
+  },
+  {
     "slug": "nha-trang",
     "name": "Nha Trang",
     "region": "Vietnam",
@@ -8810,6 +9286,106 @@
     "updated": "2019-11-08"
   },
   {
+    "slug": "punta-cana",
+    "name": "Punta Cana",
+    "region": "Dominican Republic",
+    "kicker": "PUNTA CANA",
+    "cover": "assets/punta-cana-01.webp",
+    "photos": [
+      {
+        "src": "assets/punta-cana-01.webp",
+        "alt": "Sunrise on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73488,
+          -68.46856
+        ]
+      },
+      {
+        "src": "assets/punta-cana-02.webp",
+        "alt": "Turquoise surf",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73498,
+          -68.46741
+        ]
+      },
+      {
+        "src": "assets/punta-cana-03.webp",
+        "alt": "Morning walk on the sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73488,
+          -68.46856
+        ]
+      },
+      {
+        "src": "assets/punta-cana-04.webp",
+        "alt": "Palms along the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73474,
+          -68.46649
+        ]
+      },
+      {
+        "src": "assets/punta-cana-05.webp",
+        "alt": "The resort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73274,
+          -68.46889
+        ]
+      },
+      {
+        "src": "assets/punta-cana-06.webp",
+        "alt": "Resort lit up at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73273,
+          -68.46886
+        ]
+      },
+      {
+        "src": "assets/punta-cana-07.webp",
+        "alt": "Selfie at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.73263,
+          -68.46884
+        ]
+      },
+      {
+        "src": "assets/punta-cana-08.webp",
+        "alt": "Souvenir market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          18.72623,
+          -68.471
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/do.svg",
+    "countryCode": "DO",
+    "updated": "2020-02-27"
+  },
+  {
     "slug": "queensland",
     "name": "Queensland",
     "region": "Australia",
@@ -9016,50 +9592,179 @@
     "cover": "assets/roatan-03.webp",
     "photos": [
       {
+        "src": "assets/roatan-2025-08.webp",
+        "alt": "Turquoise water off West Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27478,
+          -86.60027
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-09.webp",
+        "alt": "Beach selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27496,
+          -86.59929
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-10.webp",
+        "alt": "Boat ride along the coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27384,
+          -86.59993
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-11.webp",
+        "alt": "I ♥ Roatán",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.30075,
+          -86.59422
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-12.webp",
+        "alt": "Cocktails",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.30377,
+          -86.5941
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-13.webp",
+        "alt": "Agouti on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27524,
+          -86.59933
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-14.webp",
+        "alt": "West Bay Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27523,
+          -86.59924
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-15.webp",
+        "alt": "Sunset selfie",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27519,
+          -86.59932
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-16.webp",
+        "alt": "Catamaran off the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27494,
+          -86.59942
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-17.webp",
+        "alt": "Sun through the sea grape",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27419,
+          -86.59939
+        ]
+      },
+      {
+        "src": "assets/roatan-2025-18.webp",
+        "alt": "Sunset over the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2025 · West Bay",
+        "gps": [
+          16.27419,
+          -86.59954
+        ]
+      },
+      {
         "src": "assets/roatan-01.webp",
         "alt": "Roatán, Honduras",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-02.webp",
         "alt": "Beach in Roatán, Honduras",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-03.webp",
         "alt": "Turquoise water and boats in Roatán, Honduras",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-04.webp",
         "alt": "Roatán waterfront, Honduras",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-05.webp",
         "alt": "Sunset in Roatán, Honduras",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-06.webp",
         "alt": "Beach scene in Roatán, Honduras",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/roatan-07.webp",
         "alt": "Caribbean sunset in Roatán, Honduras",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/hn.png",
-    "countryCode": "HN"
+    "countryCode": "HN",
+    "updated": "2025-02-12"
   },
   {
     "slug": "romania",
