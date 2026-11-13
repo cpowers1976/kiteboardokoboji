@@ -2697,6 +2697,219 @@
     "updated": "2022-02-26"
   },
   {
+    "slug": "chicago",
+    "name": "Chicago",
+    "region": "Illinois, USA",
+    "kicker": "CHICAGO",
+    "cover": "assets/chicago-2023-07.webp",
+    "photos": [
+      {
+        "src": "assets/chicago-2023-07.webp",
+        "alt": "Chicago Theatre marquee at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88558,
+          -87.62784
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-08.webp",
+        "alt": "John Mellencamp, Live and In Person",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88519,
+          -87.62768
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-09.webp",
+        "alt": "Chicago River and skyline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88841,
+          -87.61047
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-10.webp",
+        "alt": "On the river boat tour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.8884,
+          -87.61034
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-11.webp",
+        "alt": "Outside the theatre on State Street",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88456,
+          -87.628
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-12.webp",
+        "alt": "The theatre lobby",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88537,
+          -87.62796
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-13.webp",
+        "alt": "Selfie in the lobby",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88535,
+          -87.62793
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-14.webp",
+        "alt": "With the concert poster",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88532,
+          -87.62794
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-15.webp",
+        "alt": "Inside the Chicago Theatre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88552,
+          -87.62711
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-16.webp",
+        "alt": "At the show",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88565,
+          -87.62724
+        ]
+      },
+      {
+        "src": "assets/chicago-2023-17.webp",
+        "alt": "John Mellencamp on stage",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.88565,
+          -87.62724
+        ]
+      },
+      {
+        "src": "assets/chicago-v1.mp4",
+        "alt": "John Mellencamp live",
+        "class": "",
+        "kind": "video",
+        "visit": "April 2023 · John Mellencamp at the Chicago Theatre",
+        "gps": [
+          41.8857,
+          -87.6272
+        ]
+      },
+      {
+        "src": "assets/chicago-01.webp",
+        "alt": "Downtown Chicago at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.89214,
+          -87.62485
+        ]
+      },
+      {
+        "src": "assets/chicago-02.webp",
+        "alt": "Skyscrapers from up high",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.89243,
+          -87.62417
+        ]
+      },
+      {
+        "src": "assets/chicago-03.webp",
+        "alt": "Flying over Chicago",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.96542,
+          -87.65262
+        ]
+      },
+      {
+        "src": "assets/chicago-04.webp",
+        "alt": "Oysters at the airport",
+        "class": "",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.97684,
+          -87.91077
+        ]
+      },
+      {
+        "src": "assets/chicago-05.webp",
+        "alt": "Selfie in Lincoln Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.96192,
+          -87.66238
+        ]
+      },
+      {
+        "src": "assets/chicago-06.webp",
+        "alt": "United Million Miler coin",
+        "class": "",
+        "kind": "photo",
+        "visit": "2016 – 2022",
+        "gps": [
+          41.97831,
+          -87.91081
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2023-04-15",
+    "stateFlags": [
+      "assets/flags/us-il.webp"
+    ]
+  },
+  {
     "slug": "chile",
     "name": "Chile",
     "region": "Santiago, Andes & Valparaíso",
@@ -6803,8 +7016,8 @@
         "kind": "photo",
         "visit": "January 2026",
         "gps": [
-          25.80983,
-          -80.3378
+          41.98061,
+          -87.90684
         ]
       }
     ],
@@ -9525,6 +9738,106 @@
     "flagAsset": "assets/flags/jp.svg",
     "countryCode": "JP",
     "updated": "2025-04-16"
+  },
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "region": "Canada",
+    "kicker": "TORONTO",
+    "cover": "assets/toronto-01.webp",
+    "photos": [
+      {
+        "src": "assets/toronto-01.webp",
+        "alt": "Toronto skyline from the harbour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.63248,
+          -79.38322
+        ]
+      },
+      {
+        "src": "assets/toronto-02.webp",
+        "alt": "CN Tower from the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.63638,
+          -79.37431
+        ]
+      },
+      {
+        "src": "assets/toronto-03.webp",
+        "alt": "Path along the Toronto Islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.61573,
+          -79.37455
+        ]
+      },
+      {
+        "src": "assets/toronto-04.webp",
+        "alt": "Lake Ontario shoreline on the islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.61634,
+          -79.37181
+        ]
+      },
+      {
+        "src": "assets/toronto-05.webp",
+        "alt": "CN Tower from the waterfront",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.63791,
+          -79.38307
+        ]
+      },
+      {
+        "src": "assets/toronto-06.webp",
+        "alt": "Ferry ride back to the city",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.63049,
+          -79.38547
+        ]
+      },
+      {
+        "src": "assets/toronto-07.webp",
+        "alt": "Dinner downtown",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.64763,
+          -79.38839
+        ]
+      },
+      {
+        "src": "assets/toronto-08.webp",
+        "alt": "Wings and a beer",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2025",
+        "gps": [
+          43.64789,
+          -79.38848
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/ca.svg",
+    "countryCode": "CA",
+    "updated": "2025-06-25"
   },
   {
     "slug": "wadi-rum",
