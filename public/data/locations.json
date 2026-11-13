@@ -3190,6 +3190,303 @@
     "cover": "assets/chile-andes-15.webp",
     "photos": [
       {
+        "src": "assets/chile-valpo-35.webp",
+        "alt": "Vineyard in the Casablanca Valley",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31873,
+          -71.43616
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-36.webp",
+        "alt": "Signpost in the vines",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31878,
+          -71.43607
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-37.webp",
+        "alt": "Grapes on the vine",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31879,
+          -71.43626
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-38.webp",
+        "alt": "Barrel room",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31898,
+          -71.43556
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-39.webp",
+        "alt": "Wine tasting",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31886,
+          -71.43536
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-40.webp",
+        "alt": "Flags over the winery",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.31853,
+          -71.4354
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-41.webp",
+        "alt": "Plaza Sotomayor, Valparaíso",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.03854,
+          -71.62836
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-42.webp",
+        "alt": "Boats in Valparaíso harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.03736,
+          -71.62714
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-43.webp",
+        "alt": "Painted alley in Valparaíso",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.03984,
+          -71.62992
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-44.webp",
+        "alt": "Street art in Valparaíso",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.04077,
+          -71.62823
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-45.webp",
+        "alt": "Wildfire smoke rising over Valparaíso",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.0436,
+          -71.62766
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-46.webp",
+        "alt": "Selfie above Valparaíso",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.04383,
+          -71.62671
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-47.webp",
+        "alt": "Funicular down the hill",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.04093,
+          -71.62646
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-48.webp",
+        "alt": "Beach in Viña del Mar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.02246,
+          -71.56837
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-49.webp",
+        "alt": "Beach selfie with smoke in the sky",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.02273,
+          -71.56899
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-50.webp",
+        "alt": "At the Flower Clock, Viña del Mar",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.02338,
+          -71.56732
+        ]
+      },
+      {
+        "src": "assets/chile-valpo-51.webp",
+        "alt": "Moai at the Fonck Museum",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Casablanca wine country, Valparaíso & Viña del Mar",
+        "gps": [
+          -33.01971,
+          -71.55002
+        ]
+      },
+      {
+        "src": "assets/chile-andes-11.webp",
+        "alt": "Waterfall in Cajón del Maipo",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83278,
+          -70.11691
+        ]
+      },
+      {
+        "src": "assets/chile-andes-12.webp",
+        "alt": "Waterfall selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83272,
+          -70.11691
+        ]
+      },
+      {
+        "src": "assets/chile-andes-13.webp",
+        "alt": "Snowy Andes peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83151,
+          -70.11669
+        ]
+      },
+      {
+        "src": "assets/chile-andes-14.webp",
+        "alt": "Selfie in the high Andes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83136,
+          -70.11677
+        ]
+      },
+      {
+        "src": "assets/chile-andes-15.webp",
+        "alt": "Termas Valle de Colina hot springs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85264,
+          -69.98119
+        ]
+      },
+      {
+        "src": "assets/chile-andes-16.webp",
+        "alt": "Mineral-stained hot spring",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85278,
+          -69.98109
+        ]
+      },
+      {
+        "src": "assets/chile-andes-17.webp",
+        "alt": "Soaking in the hot springs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85279,
+          -69.98113
+        ]
+      },
+      {
+        "src": "assets/chile-andes-18.webp",
+        "alt": "Alpenglow on the peaks",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.81889,
+          -70.02122
+        ]
+      },
+      {
+        "src": "assets/chile-andes-19.webp",
+        "alt": "Sunset selfie in the Andes",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.81884,
+          -70.02124
+        ]
+      },
+      {
+        "src": "assets/chile-andes-20.webp",
+        "alt": "Dusk from the lodge deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83056,
+          -70.05869
+        ]
+      },
+      {
         "src": "assets/chile-santiago-21.webp",
         "alt": "Murals in Bellavista",
         "class": "wide",
@@ -3344,189 +3641,79 @@
         ]
       },
       {
-        "src": "assets/chile-andes-11.webp",
-        "alt": "Waterfall in Cajón del Maipo",
-        "class": "",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.83278,
-          -70.11691
-        ]
-      },
-      {
-        "src": "assets/chile-andes-12.webp",
-        "alt": "Waterfall selfie",
-        "class": "",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.83272,
-          -70.11691
-        ]
-      },
-      {
-        "src": "assets/chile-andes-13.webp",
-        "alt": "Snowy Andes peak",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.83151,
-          -70.11669
-        ]
-      },
-      {
-        "src": "assets/chile-andes-14.webp",
-        "alt": "Selfie in the high Andes",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.83136,
-          -70.11677
-        ]
-      },
-      {
-        "src": "assets/chile-andes-15.webp",
-        "alt": "Termas Valle de Colina hot springs",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.85264,
-          -69.98119
-        ]
-      },
-      {
-        "src": "assets/chile-andes-16.webp",
-        "alt": "Mineral-stained hot spring",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.85278,
-          -69.98109
-        ]
-      },
-      {
-        "src": "assets/chile-andes-17.webp",
-        "alt": "Soaking in the hot springs",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.85279,
-          -69.98113
-        ]
-      },
-      {
-        "src": "assets/chile-andes-18.webp",
-        "alt": "Alpenglow on the peaks",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.81889,
-          -70.02122
-        ]
-      },
-      {
-        "src": "assets/chile-andes-19.webp",
-        "alt": "Sunset selfie in the Andes",
-        "class": "",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.81884,
-          -70.02124
-        ]
-      },
-      {
-        "src": "assets/chile-andes-20.webp",
-        "alt": "Dusk from the lodge deck",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
-        "gps": [
-          -33.83056,
-          -70.05869
-        ]
-      },
-      {
         "src": "assets/chile-01.webp",
         "alt": "Street mural in Santiago, Chile",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-02.webp",
         "alt": "Green hills and mountains around Santiago, Chile",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-03.webp",
         "alt": "In the Andes mountains near Santiago, Chile",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-04.webp",
         "alt": "Vineyard in Chilean wine country",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-05.webp",
         "alt": "Wine barrels at a Chilean winery",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-06.webp",
         "alt": "Casas del Bosque winery in Chile",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-07.webp",
         "alt": "Colorful street art in Valparaíso, Chile",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-08.webp",
         "alt": "View across Valparaíso, Chile",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-09.webp",
         "alt": "Beach on the Chilean coast near Valparaíso",
         "class": "",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       },
       {
         "src": "assets/chile-10.webp",
         "alt": "Historic church interior in Santiago, Chile",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2024 · Santiago, wine country & Valparaíso"
+        "visit": "February 2024 · More from the trip"
       }
     ],
     "flagAsset": "assets/flags/cl.png",
     "countryCode": "CL",
-    "updated": "2024-02-02"
+    "updated": "2024-02-03"
   },
   {
     "slug": "china",
