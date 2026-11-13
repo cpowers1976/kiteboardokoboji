@@ -3296,6 +3296,337 @@
     "updated": "2026-04-24"
   },
   {
+    "slug": "ho-chi-minh-city",
+    "name": "Ho Chi Minh City",
+    "region": "Vietnam",
+    "kicker": "SAIGON",
+    "cover": "assets/ho-chi-minh-city-2017-18.webp",
+    "photos": [
+      {
+        "src": "assets/ho-chi-minh-city-2019-28.webp",
+        "alt": "Crispy fried squid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          10.80332,
+          106.66597
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2019-29.webp",
+        "alt": "Street drink vendor",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          10.81341,
+          106.66652
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2018-24.webp",
+        "alt": "Bun Cha Ha Noi",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.81326,
+          106.66813
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2018-25.webp",
+        "alt": "Bun cha with herbs",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.81331,
+          106.66809
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2018-26.webp",
+        "alt": "Basket of fresh baguettes",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.76591,
+          106.6946
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2018-27.webp",
+        "alt": "Flag-waving crowd on the street at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          10.77107,
+          106.69405
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-18.webp",
+        "alt": "Saigon River from Bitexco Tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77169,
+          106.70434
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-19.webp",
+        "alt": "The river bend from the Skydeck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77171,
+          106.70433
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-20.webp",
+        "alt": "Saigon River view",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77463,
+          106.70646
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-21.webp",
+        "alt": "Chinook helicopter at the War Remnants Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77938,
+          106.69257
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-22.webp",
+        "alt": "Tank at the War Remnants Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77935,
+          106.69261
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-2017-23.webp",
+        "alt": "Banh mi",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017",
+        "gps": [
+          10.77348,
+          106.70272
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-01.webp",
+        "alt": "Neon night on Bui Vien Street",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76706,
+          106.69322
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-02.webp",
+        "alt": "Making a friend at the market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76785,
+          106.69373
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-03.webp",
+        "alt": "Tangle of power lines over a side street",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76493,
+          106.69501
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-04.webp",
+        "alt": "Riding through District 1 on a scooter tour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.77344,
+          106.70583
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-05.webp",
+        "alt": "Seafood skewers on ice",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.73951,
+          106.70551
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-06.webp",
+        "alt": "Bowls of snails and shellfish",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.73401,
+          106.70197
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-07.webp",
+        "alt": "Shellfish on the grill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.73403,
+          106.70197
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-08.webp",
+        "alt": "Fresh banh mi in the oven",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76589,
+          106.69467
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-09.webp",
+        "alt": "Banh mi cart at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76673,
+          106.68854
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-10.webp",
+        "alt": "City Hall lit up at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.77594,
+          106.70154
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-11.webp",
+        "alt": "Ho Chi Minh statue at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.77589,
+          106.70154
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-12.webp",
+        "alt": "Rice paper drying in the sun",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.89119,
+          106.58864
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-13.webp",
+        "alt": "Dirt biking through a rubber plantation",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          11.01038,
+          106.54398
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-14.webp",
+        "alt": "Helmet selfie on the dirt bikes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          11.01335,
+          106.54267
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-15.webp",
+        "alt": "Cu Chi Tunnels",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          11.01577,
+          106.53287
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-16.webp",
+        "alt": "Lunch after the ride",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          11.03799,
+          106.48583
+        ]
+      },
+      {
+        "src": "assets/ho-chi-minh-city-17.webp",
+        "alt": "Selfie with a friend",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016",
+        "gps": [
+          10.76646,
+          106.69493
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2019-11-06"
+  },
+  {
     "slug": "hoi-an",
     "name": "Hoi An",
     "region": "Vietnam",
