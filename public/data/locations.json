@@ -1402,6 +1402,39 @@
     "updated": "2025-12-05"
   },
   {
+    "slug": "cologne",
+    "name": "Cologne",
+    "region": "Germany",
+    "kicker": "COLOGNE",
+    "cover": "assets/cologne-02.webp",
+    "photos": [
+      {
+        "src": "assets/cologne-01.webp",
+        "alt": "Love locks on the Hohenzollern Bridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/cologne-02.webp",
+        "alt": "Cologne Cathedral",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/cologne-03.webp",
+        "alt": "Cologne Cathedral from the side",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2026"
+      }
+    ],
+    "flagAsset": "assets/flags/de.svg",
+    "countryCode": "DE",
+    "updated": "2026-04-12"
+  },
+  {
     "slug": "copenhagen",
     "name": "Copenhagen",
     "region": "Denmark",
@@ -2926,79 +2959,155 @@
         "src": "assets/original-06ff9d5c-c8ef-4559-a570-bb1269bc350e.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-26bb205b-fa2f-4268-a15b-2f36ffec0ae4.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-70fbfd85-5a42-4c71-a15d-d532bbc7a41c.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-e3e426b4-4304-4e8b-a32f-69eb3d39ab82.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-f4cdf56c-9dca-43fc-88ee-c218a1aa4859.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-fdfc6447-4ffa-4a5f-a73a-646400f23432.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-51bfcace-2e42-4377-9d8c-636371e5786a.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-9dc310a1-25b6-4a66-9023-7eeac5912007.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-18878bf6-d687-4e7b-ad7b-19a4effe1aa6.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-ce9a2391-7a0d-4966-9e33-9123c7396d15.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-80e06189-39e6-43ba-b45e-50f9d0722569.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-81dbd339-1cfb-4707-a6a2-260c7ed3bc72.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
       },
       {
         "src": "assets/original-256879c7-9e1b-4a5c-9b41-6d08fee33e33.jpeg",
         "alt": "",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-14.webp",
+        "alt": "Selfie over the rooftops from Sacré-Cœur",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-15.webp",
+        "alt": "Crowds on the steps below Sacré-Cœur",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-16.webp",
+        "alt": "Busy street in Montmartre",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-17.webp",
+        "alt": "Stairs down from Montmartre",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-18.webp",
+        "alt": "Fountain and obelisk, Place de la Concorde",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-19.webp",
+        "alt": "Houseboats on the Seine",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-20.webp",
+        "alt": "Musée d'Orsay",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-21.webp",
+        "alt": "The Seine and the Louvre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2026"
+      },
+      {
+        "src": "assets/paris-apr-2026-22.webp",
+        "alt": "The Louvre pyramid",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026"
       }
     ],
     "countryCode": "FR",
