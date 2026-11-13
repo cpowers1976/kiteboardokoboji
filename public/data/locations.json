@@ -3228,6 +3228,139 @@
     "updated": "2026-04-24"
   },
   {
+    "slug": "hoi-an",
+    "name": "Hoi An",
+    "region": "Vietnam",
+    "kicker": "HOI AN",
+    "cover": "assets/hoi-an-01.webp",
+    "photos": [
+      {
+        "src": "assets/hoi-an-01.webp",
+        "alt": "Boats on the Thu Bon River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87637,
+          108.32658
+        ]
+      },
+      {
+        "src": "assets/hoi-an-02.webp",
+        "alt": "Old Town street with cyclos",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87656,
+          108.32822
+        ]
+      },
+      {
+        "src": "assets/hoi-an-03.webp",
+        "alt": "River boat in the Old Town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87605,
+          108.32678
+        ]
+      },
+      {
+        "src": "assets/hoi-an-04.webp",
+        "alt": "Bougainvillea over an Old Town street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87696,
+          108.32654
+        ]
+      },
+      {
+        "src": "assets/hoi-an-05.webp",
+        "alt": "Cyclo under the lanterns",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87702,
+          108.32735
+        ]
+      },
+      {
+        "src": "assets/hoi-an-06.webp",
+        "alt": "Dive boat heading out to the Cham Islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.87842,
+          108.38762
+        ]
+      },
+      {
+        "src": "assets/hoi-an-07.webp",
+        "alt": "Rocky shore of the Cham Islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.90838,
+          108.53339
+        ]
+      },
+      {
+        "src": "assets/hoi-an-08.webp",
+        "alt": "Quiet beach on the Cham Islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.94201,
+          108.51273
+        ]
+      },
+      {
+        "src": "assets/hoi-an-09.webp",
+        "alt": "Palm-lined beach, Cham Islands",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.94224,
+          108.51265
+        ]
+      },
+      {
+        "src": "assets/hoi-an-10.webp",
+        "alt": "Dive crew on the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.94245,
+          108.51254
+        ]
+      },
+      {
+        "src": "assets/hoi-an-11.webp",
+        "alt": "Leaving the Cham Islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          15.94217,
+          108.51142
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2019-04-09"
+  },
+  {
     "slug": "hoover-dam",
     "name": "Hoover Dam",
     "region": "United States",
@@ -5162,6 +5295,95 @@
     ],
     "flagAsset": "assets/flags/ru.png",
     "countryCode": "RU"
+  },
+  {
+    "slug": "nha-trang",
+    "name": "Nha Trang",
+    "region": "Vietnam",
+    "kicker": "NHA TRANG",
+    "cover": "assets/nha-trang-04.webp",
+    "photos": [
+      {
+        "src": "assets/nha-trang-01.webp",
+        "alt": "Fishing harbour, Nha Trang",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.20473,
+          109.21608
+        ]
+      },
+      {
+        "src": "assets/nha-trang-02.webp",
+        "alt": "Cable car over Nha Trang Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.20464,
+          109.21613
+        ]
+      },
+      {
+        "src": "assets/nha-trang-03.webp",
+        "alt": "Out on Nha Trang Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.20431,
+          109.23074
+        ]
+      },
+      {
+        "src": "assets/nha-trang-04.webp",
+        "alt": "Rocky island on the way to the dive site",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.16343,
+          109.30553
+        ]
+      },
+      {
+        "src": "assets/nha-trang-05.webp",
+        "alt": "Cliffs and boulders on the island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.1864,
+          109.25358
+        ]
+      },
+      {
+        "src": "assets/nha-trang-06.webp",
+        "alt": "Dive boat at the island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.16389,
+          109.29951
+        ]
+      },
+      {
+        "src": "assets/nha-trang-07.webp",
+        "alt": "Green island coastline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          12.15394,
+          109.23102
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2019-11-02"
   },
   {
     "slug": "nuuk",
