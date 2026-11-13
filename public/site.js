@@ -13,8 +13,22 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
   + (p.kind === 'video'
     ? '<video src="' + esc(p.src) + '" muted playsinline preload="metadata"></video><span class="video-play">▶</span>'
     : '<img src="' + esc(p.src) + '" alt="' + esc(p.alt || l.name) + '" loading="lazy">')
-  + (p.alt ? '<figcaption>' + esc(p.alt) + '</figcaption>' : '')
+  + ((p.alt || mapUrl(p, l)) ? '<figcaption>' + esc(p.alt) + mapLink(p, l) + '</figcaption>' : '')
   + '</figure>';
+
+// Google Maps link: exact spot from the photo's GPS, otherwise the place itself.
+// Not shown for home spots (South Padre Island, Iowa Great Lakes).
+const NO_MAP = ['south-padre-island', 'iowa-great-lakes'];
+const mapUrl = (p, l) => {
+  if (l.home || NO_MAP.includes(l.slug)) return '';
+  if (p.gps) return 'https://www.google.com/maps/search/?api=1&query=' + p.gps[0] + ',' + p.gps[1];
+  if (!l.countryCode) return '';
+  return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(l.name + ', ' + l.region);
+};
+const mapLink = (p, l) => {
+  const u = mapUrl(p, l);
+  return u ? ' <a class="map-link" href="' + u + '" target="_blank" rel="noopener">MAP ↗</a>' : '';
+};
 
 (async () => {
   try {
@@ -84,12 +98,12 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
       el.alt = p.alt || l.name;
       if (p.kind === 'video') { el.controls = true; el.playsInline = true; }
       view.append(el);
-      d.querySelector('p').textContent = p.alt || '';
+      d.querySelector('p').innerHTML = esc(p.alt) + mapLink(p, l);
       d.showModal();
     };
     gallery.querySelectorAll('figure').forEach(f => {
-      f.onclick = () => open(f);
-      f.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(f); } };
+      f.onclick = e => { if (!e.target.closest('.map-link')) open(f); };
+      f.onkeydown = e => { if (e.target.closest('.map-link')) return; if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(f); } };
     });
     d.addEventListener('close', () => { const video = d.querySelector('video'); if (video) video.pause(); });
   } catch {
