@@ -653,71 +653,269 @@
     "name": "Argentina",
     "region": "Buenos Aires",
     "kicker": "BUENOS AIRES",
-    "cover": "assets/argentina-02.webp",
+    "cover": "assets/argentina-2024-25.webp",
     "photos": [
+      {
+        "src": "assets/argentina-2024-11.webp",
+        "alt": "Casa Rosada, Plaza de Mayo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.60812,
+          -58.36865
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-12.webp",
+        "alt": "Pirámide de Mayo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.60834,
+          -58.37237
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-13.webp",
+        "alt": "Selfie at the Casa Rosada",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.60834,
+          -58.37154
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-14.webp",
+        "alt": "The Obelisco",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.60417,
+          -58.38094
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-15.webp",
+        "alt": "Puerto Madero",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.59826,
+          -58.36622
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-16.webp",
+        "alt": "Puerto Madero at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.60569,
+          -58.36629
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-17.webp",
+        "alt": "San Telmo church",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.61225,
+          -58.37206
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-18.webp",
+        "alt": "Parrilla grill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.61189,
+          -58.37223
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-19.webp",
+        "alt": "San Telmo Sunday market",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.61661,
+          -58.3716
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-20.webp",
+        "alt": "Mafalda street art",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.59985,
+          -58.37535
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-21.webp",
+        "alt": "Recoleta Cemetery lane",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.58727,
+          -58.39249
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-22.webp",
+        "alt": "Mausoleums in Recoleta",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.58843,
+          -58.39314
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-23.webp",
+        "alt": "Beer with a view",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.58871,
+          -58.39253
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-24.webp",
+        "alt": "La Bombonera",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.63396,
+          -58.36697
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-25.webp",
+        "alt": "Caminito, La Boca",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.63932,
+          -58.36282
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-26.webp",
+        "alt": "La Boca murals",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.63971,
+          -58.3627
+        ]
+      },
+      {
+        "src": "assets/argentina-2024-27.webp",
+        "alt": "Bife de chorizo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024",
+        "gps": [
+          -34.59722,
+          -58.37981
+        ]
+      },
       {
         "src": "assets/argentina-01.webp",
         "alt": "Steak and Malbec in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-02.webp",
         "alt": "Argentine flag in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-03.webp",
         "alt": "Fruit stand in Buenos Aires",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-04.webp",
         "alt": "Street market in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-05.webp",
         "alt": "Recoleta Cemetery in Buenos Aires",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-06.webp",
         "alt": "Colorful street art in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-07.webp",
         "alt": "Buenos Aires architecture and street life",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-08.webp",
         "alt": "Outdoor café and colorful buildings in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-09.webp",
         "alt": "La Boca in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       },
       {
         "src": "assets/argentina-10.webp",
         "alt": "Craft beer bar in Buenos Aires",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2024"
       }
     ],
     "flagAsset": "assets/flags/ar.svg",
-    "countryCode": "AR"
+    "countryCode": "AR",
+    "updated": "2024-01-31"
   },
   {
     "slug": "australia",
@@ -1973,125 +2171,200 @@
     "name": "Brazil",
     "region": "Brazil",
     "kicker": "BRAZIL",
-    "cover": "assets/brazil-01.webp",
+    "cover": "assets/brazil-2024-20.webp",
     "photos": [
+      {
+        "src": "assets/brazil-2024-20.webp",
+        "alt": "São Paulo skyline under a big sky",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024 · São Paulo",
+        "gps": [
+          -19.94294,
+          -43.92267
+        ]
+      },
+      {
+        "src": "assets/brazil-2024-21.webp",
+        "alt": "Caipirinha",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024 · São Paulo",
+        "gps": [
+          -23.49691,
+          -46.84943
+        ]
+      },
+      {
+        "src": "assets/brazil-2024-22.webp",
+        "alt": "Feijoada lunch",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2024 · São Paulo",
+        "gps": [
+          -23.4703,
+          -46.86653
+        ]
+      },
+      {
+        "src": "assets/brazil-2024-23.webp",
+        "alt": "Party under the tent",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024 · São Paulo",
+        "gps": [
+          -23.47047,
+          -46.86631
+        ]
+      },
+      {
+        "src": "assets/brazil-2024-24.webp",
+        "alt": "Bartender at the party",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2024 · São Paulo",
+        "gps": [
+          -23.47042,
+          -46.86634
+        ]
+      },
       {
         "src": "assets/brazil-01.webp",
         "alt": "Brazil travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-02.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-03.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-04.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-05.webp",
         "alt": "Brazil travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-06.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-07.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-08.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-09.webp",
         "alt": "Brazil travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-10.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-11.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-12.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-13.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-14.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-15.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-16.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-17.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-18.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/brazil-19.webp",
         "alt": "Brazil travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/br.png",
-    "countryCode": "BR"
+    "countryCode": "BR",
+    "updated": "2024-01-21"
   },
   {
     "slug": "brussels",
@@ -2914,71 +3187,346 @@
     "name": "Chile",
     "region": "Santiago, Andes & Valparaíso",
     "kicker": "CHILE",
-    "cover": "assets/chile-03.webp",
+    "cover": "assets/chile-andes-15.webp",
     "photos": [
+      {
+        "src": "assets/chile-santiago-21.webp",
+        "alt": "Murals in Bellavista",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43126,
+          -70.64189
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-22.webp",
+        "alt": "Street art in Bellavista",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43188,
+          -70.63604
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-23.webp",
+        "alt": "Painted house in Bellavista",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.4312,
+          -70.63706
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-24.webp",
+        "alt": "Funicular up Cerro San Cristóbal",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43004,
+          -70.63599
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-25.webp",
+        "alt": "Selfie at the Virgin statue",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.4254,
+          -70.63321
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-26.webp",
+        "alt": "Santiago from Cerro San Cristóbal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.42574,
+          -70.63206
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-27.webp",
+        "alt": "Cable car over the city",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.42199,
+          -70.6292
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-28.webp",
+        "alt": "Piscina Tupahue",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.41573,
+          -70.62275
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-29.webp",
+        "alt": "Chorrillana",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.4321,
+          -70.63609
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-30.webp",
+        "alt": "Selfie at the cathedral",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43781,
+          -70.65101
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-31.webp",
+        "alt": "Altar inside the cathedral",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43772,
+          -70.65226
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-32.webp",
+        "alt": "Mercado Central fruit stalls",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.43194,
+          -70.65034
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-33.webp",
+        "alt": "Chilean flag at the Palacio de La Moneda",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.44393,
+          -70.65367
+        ]
+      },
+      {
+        "src": "assets/chile-santiago-34.webp",
+        "alt": "Santiago from Cerro Santa Lucía",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Santiago",
+        "gps": [
+          -33.4403,
+          -70.64346
+        ]
+      },
+      {
+        "src": "assets/chile-andes-11.webp",
+        "alt": "Waterfall in Cajón del Maipo",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83278,
+          -70.11691
+        ]
+      },
+      {
+        "src": "assets/chile-andes-12.webp",
+        "alt": "Waterfall selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83272,
+          -70.11691
+        ]
+      },
+      {
+        "src": "assets/chile-andes-13.webp",
+        "alt": "Snowy Andes peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83151,
+          -70.11669
+        ]
+      },
+      {
+        "src": "assets/chile-andes-14.webp",
+        "alt": "Selfie in the high Andes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83136,
+          -70.11677
+        ]
+      },
+      {
+        "src": "assets/chile-andes-15.webp",
+        "alt": "Termas Valle de Colina hot springs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85264,
+          -69.98119
+        ]
+      },
+      {
+        "src": "assets/chile-andes-16.webp",
+        "alt": "Mineral-stained hot spring",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85278,
+          -69.98109
+        ]
+      },
+      {
+        "src": "assets/chile-andes-17.webp",
+        "alt": "Soaking in the hot springs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.85279,
+          -69.98113
+        ]
+      },
+      {
+        "src": "assets/chile-andes-18.webp",
+        "alt": "Alpenglow on the peaks",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.81889,
+          -70.02122
+        ]
+      },
+      {
+        "src": "assets/chile-andes-19.webp",
+        "alt": "Sunset selfie in the Andes",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.81884,
+          -70.02124
+        ]
+      },
+      {
+        "src": "assets/chile-andes-20.webp",
+        "alt": "Dusk from the lodge deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2024 · Cajón del Maipo & Termas Valle de Colina",
+        "gps": [
+          -33.83056,
+          -70.05869
+        ]
+      },
       {
         "src": "assets/chile-01.webp",
         "alt": "Street mural in Santiago, Chile",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-02.webp",
         "alt": "Green hills and mountains around Santiago, Chile",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-03.webp",
         "alt": "In the Andes mountains near Santiago, Chile",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-04.webp",
         "alt": "Vineyard in Chilean wine country",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-05.webp",
         "alt": "Wine barrels at a Chilean winery",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-06.webp",
         "alt": "Casas del Bosque winery in Chile",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-07.webp",
         "alt": "Colorful street art in Valparaíso, Chile",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-08.webp",
         "alt": "View across Valparaíso, Chile",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-09.webp",
         "alt": "Beach on the Chilean coast near Valparaíso",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       },
       {
         "src": "assets/chile-10.webp",
         "alt": "Historic church interior in Santiago, Chile",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "February 2024 · Santiago, wine country & Valparaíso"
       }
     ],
     "flagAsset": "assets/flags/cl.png",
-    "countryCode": "CL"
+    "countryCode": "CL",
+    "updated": "2024-02-02"
   },
   {
     "slug": "china",
@@ -5062,8 +5610,8 @@
         "kind": "photo",
         "visit": "December 2017 · Jakarta",
         "gps": [
-          -6.19922,
-          106.97525
+          -34.59826,
+          -58.36622
         ]
       },
       {
