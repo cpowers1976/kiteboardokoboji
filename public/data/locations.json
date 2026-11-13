@@ -2971,6 +2971,223 @@
     "updated": "2025-12-05"
   },
   {
+    "slug": "clearwater",
+    "name": "Clearwater",
+    "region": "Florida, USA",
+    "kicker": "CLEARWATER",
+    "cover": "assets/clearwater-2018-03.webp",
+    "photos": [
+      {
+        "src": "assets/clearwater-2019-07.webp",
+        "alt": "Palms along Clearwater Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2019",
+        "gps": [
+          27.97191,
+          -82.82964
+        ]
+      },
+      {
+        "src": "assets/clearwater-2018-03.webp",
+        "alt": "Sandbar off Clearwater Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018",
+        "gps": [
+          27.94969,
+          -82.81999
+        ]
+      },
+      {
+        "src": "assets/clearwater-2018-04.webp",
+        "alt": "Paddleboard on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018",
+        "gps": [
+          27.94266,
+          -82.8238
+        ]
+      },
+      {
+        "src": "assets/clearwater-2018-05.webp",
+        "alt": "Giant chess on Clearwater Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018",
+        "gps": [
+          27.97855,
+          -82.82887
+        ]
+      },
+      {
+        "src": "assets/clearwater-2018-06.webp",
+        "alt": "Clearwater at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018",
+        "gps": [
+          27.95319,
+          -82.82845
+        ]
+      },
+      {
+        "src": "assets/clearwater-01.webp",
+        "alt": "Sunset over the water, Tampa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2016 · Tampa",
+        "gps": [
+          27.94052,
+          -82.45437
+        ]
+      },
+      {
+        "src": "assets/clearwater-02.webp",
+        "alt": "Warning: Alligators",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2016 · Tampa",
+        "gps": [
+          27.94113,
+          -82.45253
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2019-02-24",
+    "stateFlags": [
+      "assets/flags/us-fl.webp"
+    ]
+  },
+  {
+    "slug": "cocoa-beach",
+    "name": "Cocoa Beach",
+    "region": "Florida, USA",
+    "kicker": "COCOA BEACH",
+    "cover": "assets/cocoa-beach-2022-03.webp",
+    "photos": [
+      {
+        "src": "assets/cocoa-beach-2022-03.webp",
+        "alt": "Cocoa Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.32176,
+          -80.60773
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-04.webp",
+        "alt": "Selfie on the boat",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.34154,
+          -80.65403
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-05.webp",
+        "alt": "Wake on the Banana River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.27981,
+          -80.64072
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-06.webp",
+        "alt": "Cruiser on the river",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.31228,
+          -80.65699
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-07.webp",
+        "alt": "Manatee by the dock",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.33498,
+          -80.66158
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-08.webp",
+        "alt": "Manatee surfacing",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.33498,
+          -80.66154
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-v1.mp4",
+        "alt": "Manatee swimming by",
+        "class": "",
+        "kind": "video",
+        "visit": "January 2022",
+        "gps": [
+          28.335,
+          -80.6616
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-2022-09.webp",
+        "alt": "Sunset at a waterfront bar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2022",
+        "gps": [
+          28.35738,
+          -80.61466
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-01.webp",
+        "alt": "The Wheel at ICON Park, Orlando",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2016 · Orlando",
+        "gps": [
+          28.44311,
+          -81.47002
+        ]
+      },
+      {
+        "src": "assets/cocoa-beach-02.webp",
+        "alt": "Orlando at dusk from the Wheel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2016 · Orlando",
+        "gps": [
+          28.44386,
+          -81.46831
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2022-01-15",
+    "stateFlags": [
+      "assets/flags/us-fl.webp"
+    ]
+  },
+  {
     "slug": "cologne",
     "name": "Cologne",
     "region": "Germany",
@@ -6159,8 +6376,8 @@
         "kind": "photo",
         "visit": "September 2025",
         "gps": [
-          38.70786,
-          -9.13677
+          27.97191,
+          -82.82964
         ]
       },
       {
