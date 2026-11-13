@@ -1911,32 +1911,93 @@
     "cover": "assets/india-01.webp",
     "photos": [
       {
+        "src": "assets/india-feb-2026-05.webp",
+        "alt": "Morning walk selfie with an auto-rickshaw, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-06.webp",
+        "alt": "Auto-rickshaw on the street, Ahmedabad",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-08.webp",
+        "alt": "Rooster on the sidewalk, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-09.webp",
+        "alt": "Pigeons feeding on the pavement, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-11.webp",
+        "alt": "Jain temple between the apartment blocks, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-12.webp",
+        "alt": "Langur monkey outside the ATM, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-13.webp",
+        "alt": "Selfie with a langur, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
+        "src": "assets/india-feb-2026-14.webp",
+        "alt": "Langur on a bench, Ahmedabad",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2026 · Ahmedabad"
+      },
+      {
         "src": "assets/india-01.webp",
         "alt": "India travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/india-02.webp",
         "alt": "India travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/india-03.webp",
         "alt": "India travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/india-04.webp",
         "alt": "India travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/in.png",
-    "countryCode": "IN"
+    "countryCode": "IN",
+    "updated": "2026-02-01"
   },
   {
     "slug": "indonesia",
@@ -2633,6 +2694,81 @@
     ],
     "flagAsset": "assets/flags/mu.svg",
     "countryCode": "MU"
+  },
+  {
+    "slug": "miami",
+    "name": "Miami",
+    "region": "Florida, USA",
+    "kicker": "MIAMI",
+    "cover": "assets/miami-01.webp",
+    "photos": [
+      {
+        "src": "assets/miami-01.webp",
+        "alt": "Art deco hotels lit up on Ocean Drive, South Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-02.webp",
+        "alt": "2026 National Championship sign at Lummus Park, South Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-03.webp",
+        "alt": "Selfie at Ball & Chain, Little Havana",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-04.webp",
+        "alt": "Inside Ball & Chain, Little Havana",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-09.mp4",
+        "alt": "Live band at Ball & Chain, Little Havana",
+        "class": "wide",
+        "kind": "video",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-05.webp",
+        "alt": "Cubaocho on Calle Ocho, Little Havana",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-06.webp",
+        "alt": "ASTM Committee E07 certificate of appreciation",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-07.webp",
+        "alt": "Pastry case full of pastelitos",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2026"
+      },
+      {
+        "src": "assets/miami-08.webp",
+        "alt": "Trump National Doral, Miami",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2026"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2026-01-21"
   },
   {
     "slug": "montevideo",
