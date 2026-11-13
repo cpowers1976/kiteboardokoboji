@@ -6,7 +6,9 @@ const slugify = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace
 const card = (l, extra) => '<a class="card" href="destination.html?place=' + encodeURIComponent(l.slug) + '">'
   + '<img src="' + esc(l.cover) + '" alt="' + esc(l.name) + '" loading="lazy"><div>'
   + (extra || '')
-  + '<small>' + (l.flagAsset ? '<img class="flag-img" src="' + esc(l.flagAsset) + '" alt=""> ' : esc(l.flag) + ' ') + esc(l.region) + '</small>'
+  + '<small>' + (l.flagAsset ? '<img class="flag-img" src="' + esc(l.flagAsset) + '" alt=""> ' : esc(l.flag) + ' ')
+  + (l.stateFlags || []).map(f => '<img class="flag-img" src="' + esc(f) + '" alt=""> ').join('')
+  + esc(l.region) + '</small>'
   + '<h3>' + esc(l.name) + '</h3></div></a>';
 
 const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" role="button" aria-label="Open ' + esc(p.alt || l.name) + '" data-index="' + i + '">'
