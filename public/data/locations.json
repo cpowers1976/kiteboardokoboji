@@ -53,6 +53,561 @@
     "countryCode": "ET"
   },
   {
+    "slug": "alaska",
+    "name": "Alaska",
+    "region": "Southeast Alaska",
+    "kicker": "ALASKA",
+    "cover": "assets/alaska-01.webp",
+    "photos": [
+      {
+        "src": "assets/alaska-2024-20.webp",
+        "alt": "Selfie at the Auke Bay ferry terminal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          58.38176,
+          -134.68747
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-21.webp",
+        "alt": "Flag flying on the ferry",
+        "class": "",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          58.06236,
+          -134.8914
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-22.webp",
+        "alt": "Ferry coming into Angoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.46833,
+          -134.56314
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-23.webp",
+        "alt": "Tenakee Springs from the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.77689,
+          -135.21388
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-24.webp",
+        "alt": "Boardwalk in Tenakee Springs",
+        "class": "",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.77954,
+          -135.20976
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-25.webp",
+        "alt": "Harbor selfie with a friend",
+        "class": "",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.77803,
+          -135.20526
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-26.webp",
+        "alt": "Mirror-calm harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.77764,
+          -135.20625
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-27.webp",
+        "alt": "Snowy peaks over Pelican",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.96037,
+          -136.22902
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-28.webp",
+        "alt": "Dock in Pelican",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.95991,
+          -136.22775
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-29.webp",
+        "alt": "Fishing boat at the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.9855,
+          -136.3786
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-30.webp",
+        "alt": "Glaciers along the outer coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          58.46073,
+          -137.35779
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-31.webp",
+        "alt": "Halibut hanging at the dock",
+        "class": "",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.95974,
+          -136.23062
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-32.webp",
+        "alt": "Pelican waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.95871,
+          -136.22999
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-33.webp",
+        "alt": "Crew in the galley",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.96019,
+          -136.22919
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-34.webp",
+        "alt": "Selfie with the boat dog",
+        "class": "",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.95985,
+          -136.23119
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-35.webp",
+        "alt": "Crew selfie on deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          57.95827,
+          -136.22804
+        ]
+      },
+      {
+        "src": "assets/alaska-2024-36.webp",
+        "alt": "Heading home",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June – July 2024 · By ferry to Tenakee & Pelican",
+        "gps": [
+          58.27959,
+          -135.89597
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-37.webp",
+        "alt": "Downtown Juneau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.29999,
+          -134.40485
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-38.webp",
+        "alt": "Islands below the floatplane",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.26318,
+          -134.91144
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-39.webp",
+        "alt": "Flying over clouds and peaks",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.03836,
+          -135.53619
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-40.webp",
+        "alt": "Waterfalls and snowfields from the air",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.91144,
+          -135.95236
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-41.webp",
+        "alt": "Fjord and tidal flats",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.90845,
+          -136.14238
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-42.webp",
+        "alt": "Green islands in the inlet",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.91276,
+          -136.16663
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-43.webp",
+        "alt": "Floatplane at the dock in Pelican",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.95955,
+          -136.22884
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-44.webp",
+        "alt": "Halibut selfie",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.69484,
+          -136.2216
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-45.webp",
+        "alt": "Holding up a halibut",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.69479,
+          -136.22159
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-46.webp",
+        "alt": "Peak over the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.69478,
+          -136.22131
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-47.webp",
+        "alt": "Midnight sun over the islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.69526,
+          -136.22182
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-48.webp",
+        "alt": "Mist and reflections",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          57.9503,
+          -136.37544
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-49.webp",
+        "alt": "Crew on the deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.19621,
+          -136.39415
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-50.webp",
+        "alt": "Selfie on the fishing boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.1962,
+          -136.39409
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-51.webp",
+        "alt": "The Pavlof",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.19584,
+          -136.39449
+        ]
+      },
+      {
+        "src": "assets/alaska-2022-52.webp",
+        "alt": "Snowy peaks heading back to Juneau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2022 · Floatplane to Pelican & the Pavlof",
+        "gps": [
+          58.35596,
+          -134.74837
+        ]
+      },
+      {
+        "src": "assets/alaska-01.webp",
+        "alt": "Islands of Icy Strait from the floatplane",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-02.webp",
+        "alt": "Juneau waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.29911,
+          -134.4066
+        ]
+      },
+      {
+        "src": "assets/alaska-03.webp",
+        "alt": "Boarding the floatplane in Juneau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.35967,
+          -134.58449
+        ]
+      },
+      {
+        "src": "assets/alaska-04.webp",
+        "alt": "Flying out over Juneau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.34398,
+          -134.59993
+        ]
+      },
+      {
+        "src": "assets/alaska-05.webp",
+        "alt": "Forested island from the air",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-06.webp",
+        "alt": "Fishing boats in Elfin Cove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.19559,
+          -136.347
+        ]
+      },
+      {
+        "src": "assets/alaska-07.webp",
+        "alt": "Boardwalk through Elfin Cove",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.19488,
+          -136.34636
+        ]
+      },
+      {
+        "src": "assets/alaska-08.webp",
+        "alt": "Elfin Cove post office",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.19367,
+          -136.34538
+        ]
+      },
+      {
+        "src": "assets/alaska-09.webp",
+        "alt": "Houses on stilts, Elfin Cove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.19363,
+          -136.34511
+        ]
+      },
+      {
+        "src": "assets/alaska-10.webp",
+        "alt": "Fishing boat on calm water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-11.webp",
+        "alt": "Showing off the catch",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-12.webp",
+        "alt": "A good day of fishing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-13.webp",
+        "alt": "Filleting on deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.00442,
+          -136.76961
+        ]
+      },
+      {
+        "src": "assets/alaska-14.webp",
+        "alt": "Rocky islet in the strait",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-15.webp",
+        "alt": "Glassy water and green hills",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.19768,
+          -136.34987
+        ]
+      },
+      {
+        "src": "assets/alaska-16.webp",
+        "alt": "The lodge at Elfin Cove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-17.webp",
+        "alt": "Floatplane at the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove"
+      },
+      {
+        "src": "assets/alaska-18.webp",
+        "alt": "Mountains and glaciers flying into Juneau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.34011,
+          -134.64072
+        ]
+      },
+      {
+        "src": "assets/alaska-19.webp",
+        "alt": "Mendenhall wetlands from the air",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2019 · Juneau & Elfin Cove",
+        "gps": [
+          58.34399,
+          -134.58569
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2024-07-06",
+    "stateFlags": [
+      "assets/flags/us-ak.webp"
+    ]
+  },
+  {
     "slug": "amman",
     "name": "Amman",
     "region": "Jordan",
@@ -2977,8 +3532,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.3351,
-          -6.22828
+          57.85527,
+          -136.42151
         ]
       },
       {
@@ -2988,8 +3543,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.33498,
-          -6.22806
+          58.19607,
+          -136.39419
         ]
       },
       {
@@ -2999,8 +3554,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.33488,
-          -6.22774
+          58.19621,
+          -136.39416
         ]
       },
       {
@@ -3021,8 +3576,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.33421,
-          -6.22794
+          58.19595,
+          -136.39444
         ]
       },
       {
@@ -3068,8 +3623,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.34443,
-          -6.26435
+          58.19573,
+          -136.39446
         ]
       },
       {
@@ -3079,8 +3634,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.34553,
-          -6.26429
+          58.2621,
+          -135.47464
         ]
       },
       {
@@ -3134,8 +3689,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.34224,
-          -6.28366
+          58.2149,
+          -135.12821
         ]
       },
       {
@@ -3156,8 +3711,8 @@
         "kind": "photo",
         "visit": "August 2025",
         "gps": [
-          53.34186,
-          -6.28637
+          58.38084,
+          -134.66589
         ]
       },
       {
@@ -3916,8 +4471,8 @@
         "kind": "photo",
         "visit": "February 2026 · Ahmedabad",
         "gps": [
-          23.03364,
-          72.56042
+          58.30056,
+          -134.40553
         ]
       },
       {
@@ -3927,8 +4482,8 @@
         "kind": "photo",
         "visit": "February 2026 · Ahmedabad",
         "gps": [
-          23.02543,
-          72.55651
+          58.29647,
+          -134.40231
         ]
       },
       {
@@ -3949,8 +4504,8 @@
         "kind": "photo",
         "visit": "February 2026 · Ahmedabad",
         "gps": [
-          23.02569,
-          72.55637
+          58.34441,
+          -134.5851
         ]
       },
       {
@@ -4747,8 +5302,8 @@
         "kind": "photo",
         "visit": "January 2019",
         "gps": [
-          3.14429,
-          101.69861
+          57.91586,
+          -136.17276
         ]
       },
       {
@@ -4758,8 +5313,8 @@
         "kind": "photo",
         "visit": "January 2019",
         "gps": [
-          3.14297,
-          101.6987
+          57.95823,
+          -136.22936
         ]
       },
       {
@@ -4951,6 +5506,17 @@
     "cover": "assets/lake-tahoe-jul-2017-10.webp",
     "photos": [
       {
+        "src": "assets/lake-tahoe-chase-05.webp",
+        "alt": "Never Forget Chase Powers",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2023",
+        "gps": [
+          39.25085,
+          -119.96149
+        ]
+      },
+      {
         "src": "assets/lake-tahoe-dec-2017-16.webp",
         "alt": "Paddleboard over clear water, Sand Harbor",
         "class": "wide",
@@ -5050,6 +5616,17 @@
         ]
       },
       {
+        "src": "assets/lake-tahoe-chase-04.webp",
+        "alt": "A Jägermeister for Chase above the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017",
+        "gps": [
+          39.24753,
+          -119.92216
+        ]
+      },
+      {
         "src": "assets/lake-tahoe-jul-2017-10.webp",
         "alt": "Turquoise water at Sand Harbor",
         "class": "wide",
@@ -5084,7 +5661,7 @@
       },
       {
         "src": "assets/lake-tahoe-jul-2017-13.webp",
-        "alt": "Out on the boat",
+        "alt": "Out on the boat — Never Forget Chase Powers",
         "class": "wide",
         "kind": "photo",
         "visit": "July 2017",
@@ -5113,6 +5690,17 @@
         "gps": [
           39.23759,
           -119.94396
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-chase-03.webp",
+        "alt": "Jägermeister bottle signed by Chase",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2017",
+        "gps": [
+          39.25068,
+          -119.96127
         ]
       },
       {
@@ -5204,8 +5792,19 @@
         ]
       },
       {
+        "src": "assets/lake-tahoe-chase-02.webp",
+        "alt": "Chase at the lodge",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          39.25399,
+          -119.92291
+        ]
+      },
+      {
         "src": "assets/lake-tahoe-01.webp",
-        "alt": "On a snowy deck above the lake",
+        "alt": "Chase on a snowy deck above the lake",
         "class": "",
         "kind": "photo",
         "visit": "December 2016",
@@ -5213,11 +5812,22 @@
           39.24759,
           -119.92228
         ]
+      },
+      {
+        "src": "assets/lake-tahoe-chase-01.webp",
+        "alt": "Chase on the deck above the lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2016",
+        "gps": [
+          39.24757,
+          -119.9224
+        ]
       }
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2017-12-29",
+    "updated": "2023-05-06",
     "stateFlags": [
       "assets/flags/us-ca.webp",
       "assets/flags/us-nv.webp"
@@ -5314,8 +5924,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.08184,
-          -115.17255
+          57.90974,
+          -136.01581
         ]
       },
       {
@@ -5323,7 +5933,11 @@
         "alt": "The group at Michael Jackson ONE",
         "class": "",
         "kind": "photo",
-        "visit": "July 2025"
+        "visit": "July 2025",
+        "gps": [
+          57.9106,
+          -136.01921
+        ]
       },
       {
         "src": "assets/las-vegas-jul-2025-10.webp",
@@ -5332,8 +5946,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.09295,
-          -115.17623
+          57.9109,
+          -135.96422
         ]
       },
       {
@@ -5365,8 +5979,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.11503,
-          -115.13007
+          57.90915,
+          -136.1281
         ]
       },
       {
@@ -5376,8 +5990,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.17095,
-          -115.14453
+          57.90881,
+          -136.13216
         ]
       },
       {
@@ -5387,8 +6001,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          36.17162,
-          -115.14602
+          57.91276,
+          -136.16663
         ]
       },
       {
@@ -5398,8 +6012,8 @@
         "kind": "photo",
         "visit": "July 2025",
         "gps": [
-          3.14297,
-          101.6987
+          57.95823,
+          -136.22936
         ]
       }
     ],
