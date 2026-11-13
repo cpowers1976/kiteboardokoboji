@@ -3087,29 +3087,77 @@
     "name": "Indonesia",
     "region": "Indonesia",
     "kicker": "INDONESIA",
-    "cover": "assets/indonesia-01.webp",
+    "cover": "assets/indonesia-may-2023-07.webp",
     "photos": [
+      {
+        "src": "assets/indonesia-may-2023-06.webp",
+        "alt": "Padang lunch with a host, Jakarta",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023 · Jakarta",
+        "gps": [
+          -6.22828,
+          107.00165
+        ]
+      },
+      {
+        "src": "assets/indonesia-may-2023-07.webp",
+        "alt": "The full Padang spread",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2023 · Jakarta",
+        "gps": [
+          -6.22823,
+          107.00169
+        ]
+      },
+      {
+        "src": "assets/indonesia-dec-2017-04.webp",
+        "alt": "Padang dishes stacked in the window, Jakarta",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2017 · Jakarta",
+        "gps": [
+          -6.19923,
+          106.97529
+        ]
+      },
+      {
+        "src": "assets/indonesia-dec-2017-05.webp",
+        "alt": "Spicy grilled fish",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2017 · Jakarta",
+        "gps": [
+          -6.19922,
+          106.97525
+        ]
+      },
       {
         "src": "assets/indonesia-01.webp",
         "alt": "Indonesia travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/indonesia-03.webp",
         "alt": "Indonesia travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/indonesia-04.webp",
         "alt": "Indonesia travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/id.png",
-    "countryCode": "ID"
+    "countryCode": "ID",
+    "updated": "2023-05-22"
   },
   {
     "slug": "iowa-great-lakes",
@@ -5299,6 +5347,205 @@
     "flagAsset": "assets/flags/jo.svg",
     "countryCode": "JO",
     "updated": "2019-11-08"
+  },
+  {
+    "slug": "queensland",
+    "name": "Queensland",
+    "region": "Australia",
+    "kicker": "QUEENSLAND",
+    "cover": "assets/queensland-01.webp",
+    "photos": [
+      {
+        "src": "assets/queensland-01.webp",
+        "alt": "Holding a koala at Australia Zoo",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83808,
+          152.96149
+        ]
+      },
+      {
+        "src": "assets/queensland-02.webp",
+        "alt": "Koala cuddle at Australia Zoo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83812,
+          152.96142
+        ]
+      },
+      {
+        "src": "assets/queensland-03.webp",
+        "alt": "Kangaroos on the lawn, Australia Zoo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.8389,
+          152.96112
+        ]
+      },
+      {
+        "src": "assets/queensland-04.webp",
+        "alt": "A kangaroo getting a scratch",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.8396,
+          152.96211
+        ]
+      },
+      {
+        "src": "assets/queensland-05.webp",
+        "alt": "Feeding a kangaroo",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83948,
+          152.9628
+        ]
+      },
+      {
+        "src": "assets/queensland-06.webp",
+        "alt": "Giant tortoise",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83757,
+          152.95997
+        ]
+      },
+      {
+        "src": "assets/queensland-07.webp",
+        "alt": "Komodo dragon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83679,
+          152.95944
+        ]
+      },
+      {
+        "src": "assets/queensland-08.webp",
+        "alt": "Crocodile in its pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83794,
+          152.95909
+        ]
+      },
+      {
+        "src": "assets/queensland-09.webp",
+        "alt": "Cassowary",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.83894,
+          152.95926
+        ]
+      },
+      {
+        "src": "assets/queensland-10.webp",
+        "alt": "Rhinos grazing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -26.8345,
+          152.96483
+        ]
+      },
+      {
+        "src": "assets/queensland-11.webp",
+        "alt": "Giant bottle at the Bundaberg Rum distillery",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -24.85355,
+          152.36725
+        ]
+      },
+      {
+        "src": "assets/queensland-12.webp",
+        "alt": "Beach at Bargara",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -24.81431,
+          152.46443
+        ]
+      },
+      {
+        "src": "assets/queensland-13.webp",
+        "alt": "Crossing the Tropic of Capricorn, Rockhampton",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -23.39979,
+          150.50534
+        ]
+      },
+      {
+        "src": "assets/queensland-14.webp",
+        "alt": "Rocky coast at Emu Park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -23.25619,
+          150.82923
+        ]
+      },
+      {
+        "src": "assets/queensland-15.webp",
+        "alt": "The bay at Airlie Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -20.26852,
+          148.72035
+        ]
+      },
+      {
+        "src": "assets/queensland-16.webp",
+        "alt": "Airlie Beach at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -20.26796,
+          148.71568
+        ]
+      },
+      {
+        "src": "assets/queensland-17.webp",
+        "alt": "\"Chase the sun\" neon, Airlie Beach",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -20.26808,
+          148.71698
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/au.png",
+    "countryCode": "AU",
+    "updated": "2017-01-07"
   },
   {
     "slug": "roatan",
