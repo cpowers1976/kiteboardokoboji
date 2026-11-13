@@ -169,59 +169,442 @@
     "name": "Australia",
     "region": "Sydney and the coast",
     "kicker": "PACIFIC",
-    "cover": "assets/bondi-1.webp",
+    "cover": "assets/australia-2017-18.webp",
     "photos": [
+      {
+        "src": "assets/australia-2020-25.webp",
+        "alt": "Opera House and Harbour Bridge from Mrs Macquarie's Chair",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85923,
+          151.22179
+        ]
+      },
+      {
+        "src": "assets/australia-2020-26.webp",
+        "alt": "Selfie with the Opera House and Bridge",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85928,
+          151.22177
+        ]
+      },
+      {
+        "src": "assets/australia-2020-27.webp",
+        "alt": "Opera House sails up close",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85748,
+          151.21542
+        ]
+      },
+      {
+        "src": "assets/australia-2020-28.webp",
+        "alt": "The Opera House tiles",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.8573,
+          151.21521
+        ]
+      },
+      {
+        "src": "assets/australia-2020-29.webp",
+        "alt": "Walking to the Opera House through the gardens",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85754,
+          151.21507
+        ]
+      },
+      {
+        "src": "assets/australia-2020-30.webp",
+        "alt": "Harbour Bridge at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85723,
+          151.21437
+        ]
+      },
+      {
+        "src": "assets/australia-2020-31.webp",
+        "alt": "City skyline at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.8573,
+          151.21436
+        ]
+      },
+      {
+        "src": "assets/australia-2020-32.webp",
+        "alt": "Opera House at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.85845,
+          151.2137
+        ]
+      },
+      {
+        "src": "assets/australia-2020-33.webp",
+        "alt": "Terrace houses",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.87618,
+          151.19661
+        ]
+      },
+      {
+        "src": "assets/australia-2020-34.webp",
+        "alt": "The resident cockatoo at the pub",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.88133,
+          151.19252
+        ]
+      },
+      {
+        "src": "assets/australia-2020-35.webp",
+        "alt": "Oysters and a beer",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.87672,
+          151.19682
+        ]
+      },
+      {
+        "src": "assets/australia-2020-36.webp",
+        "alt": "Anzac Memorial, Hyde Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.87528,
+          151.21042
+        ]
+      },
+      {
+        "src": "assets/australia-2020-37.webp",
+        "alt": "Archibald Fountain, Hyde Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.87087,
+          151.2119
+        ]
+      },
+      {
+        "src": "assets/australia-2020-38.webp",
+        "alt": "State Library of New South Wales",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.86565,
+          151.21295
+        ]
+      },
+      {
+        "src": "assets/australia-2020-39.webp",
+        "alt": "\"Please don't touch, I bite!\" at the Royal Botanic Garden",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.86605,
+          151.21484
+        ]
+      },
+      {
+        "src": "assets/australia-2020-40.webp",
+        "alt": "Venus flytraps, Royal Botanic Garden",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.86599,
+          151.21489
+        ]
+      },
+      {
+        "src": "assets/australia-2020-41.webp",
+        "alt": "Manly Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.7973,
+          151.28841
+        ]
+      },
+      {
+        "src": "assets/australia-2020-42.webp",
+        "alt": "Out on the harbour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2020",
+        "gps": [
+          -33.84896,
+          151.28073
+        ]
+      },
+      {
+        "src": "assets/australia-2017-18.webp",
+        "alt": "Sydney Opera House on a blue-sky day",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.85897,
+          151.21585
+        ]
+      },
+      {
+        "src": "assets/australia-2017-19.webp",
+        "alt": "Selfie at Bondi Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.89188,
+          151.27475
+        ]
+      },
+      {
+        "src": "assets/australia-2017-20.webp",
+        "alt": "Summer crowds at Bondi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.89175,
+          151.27638
+        ]
+      },
+      {
+        "src": "assets/australia-2017-21.webp",
+        "alt": "Bondi to Coogee coastal walk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.89746,
+          151.27479
+        ]
+      },
+      {
+        "src": "assets/australia-2017-22.webp",
+        "alt": "Sandstone cliffs on the coastal walk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.8983,
+          151.27635
+        ]
+      },
+      {
+        "src": "assets/australia-2017-23.webp",
+        "alt": "Kites over Botany Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.97272,
+          151.15158
+        ]
+      },
+      {
+        "src": "assets/australia-2017-24.webp",
+        "alt": "Sydney Harbour Bridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          -33.85854,
+          151.21346
+        ]
+      },
+      {
+        "src": "assets/australia-2016-09.webp",
+        "alt": "Rainy day at Bondi",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.89192,
+          151.27367
+        ]
+      },
+      {
+        "src": "assets/australia-2016-10.webp",
+        "alt": "With a colleague at Bondi Pavilion",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.89069,
+          151.27675
+        ]
+      },
+      {
+        "src": "assets/australia-2016-11.webp",
+        "alt": "Bondi Beach in the rain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.89051,
+          151.27714
+        ]
+      },
+      {
+        "src": "assets/australia-2016-12.webp",
+        "alt": "Umbrellas out at Circular Quay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85801,
+          151.21433
+        ]
+      },
+      {
+        "src": "assets/australia-2016-13.webp",
+        "alt": "Sydney Opera House sails",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85731,
+          151.21556
+        ]
+      },
+      {
+        "src": "assets/australia-2016-14.webp",
+        "alt": "On the Opera House forecourt",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85764,
+          151.21501
+        ]
+      },
+      {
+        "src": "assets/australia-2016-15.webp",
+        "alt": "Rainbow lorikeets at a cafe table",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85701,
+          151.2146
+        ]
+      },
+      {
+        "src": "assets/australia-2016-16.webp",
+        "alt": "Selfie across from the Opera House",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85501,
+          151.21017
+        ]
+      },
+      {
+        "src": "assets/australia-2016-17.webp",
+        "alt": "Ferry passing the Opera House",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2016",
+        "gps": [
+          -33.85592,
+          151.20969
+        ]
+      },
       {
         "src": "assets/bondi-1.webp",
         "alt": "Bondi, Sydney",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/bondi-2.webp",
         "alt": "Sydney coast",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/australia-beach.webp",
         "alt": "Australia beach",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/aus-4.webp",
         "alt": "Australia archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/aus-5.webp",
         "alt": "Australia archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/aus-6.webp",
         "alt": "Australia archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/aus-7.webp",
         "alt": "Australia archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/aus-8.webp",
         "alt": "Australia archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/au.png",
-    "countryCode": "AU"
+    "countryCode": "AU",
+    "updated": "2020-03-15"
   },
   {
     "slug": "bahrain",
