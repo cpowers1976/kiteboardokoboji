@@ -1791,7 +1791,10 @@
       }
     ],
     "flagAsset": "assets/flags/us.png",
-    "countryCode": "US"
+    "countryCode": "US",
+    "stateFlags": [
+      "assets/flags/us-ca.webp"
+    ]
   },
   {
     "slug": "cambodia",
@@ -3853,6 +3856,10 @@
         "kind": "photo",
         "visit": "July 2026"
       }
+    ],
+    "stateFlags": [
+      "assets/flags/us-nv.webp",
+      "assets/flags/us-az.webp"
     ]
   },
   {
@@ -4298,7 +4305,10 @@
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
     "updated": "2026-10-11",
-    "home": true
+    "home": true,
+    "stateFlags": [
+      "assets/flags/us-ia.webp"
+    ]
   },
   {
     "slug": "istanbul",
@@ -5115,7 +5125,10 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-05-13"
+    "updated": "2026-05-13",
+    "stateFlags": [
+      "assets/flags/us-nv.webp"
+    ]
   },
   {
     "slug": "lisbon",
@@ -5416,8 +5429,11 @@
         "kind": "photo"
       }
     ],
-    "flagAsset": "assets/flag-hawaii.svg",
-    "countryCode": "US"
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "stateFlags": [
+      "assets/flags/us-hi.webp"
+    ]
   },
   {
     "slug": "mauritius",
@@ -5683,7 +5699,10 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-01-21"
+    "updated": "2026-01-21",
+    "stateFlags": [
+      "assets/flags/us-fl.webp"
+    ]
   },
   {
     "slug": "montevideo",
@@ -6161,8 +6180,11 @@
         "kind": "photo"
       }
     ],
-    "flagAsset": "assets/flag-hawaii.svg",
-    "countryCode": "US"
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "stateFlags": [
+      "assets/flags/us-hi.webp"
+    ]
   },
   {
     "slug": "paris",
@@ -7622,7 +7644,10 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-11-12"
+    "updated": "2026-11-12",
+    "stateFlags": [
+      "assets/flags/us-tx.webp"
+    ]
   },
   {
     "slug": "sweden",
@@ -9573,6 +9598,9 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2015-05-03"
+    "updated": "2015-05-03",
+    "stateFlags": [
+      "assets/flags/us-wy.webp"
+    ]
   }
 ]
