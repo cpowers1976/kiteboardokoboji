@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 7" role="img" aria-label="Flag of Jordan">
-<rect width="14" height="7" fill="#fff"/>
-<rect width="14" height="7/3" fill="#000"/>
-<rect y="4.6666667" width="14" height="2.3333333" fill="#007a3d"/>
+<rect width="14" height="2.3333" fill="#000"/>
+<rect y="2.3333" width="14" height="2.3334" fill="#fff"/>
+<rect y="4.6667" width="14" height="2.3333" fill="#007a3d"/>
 <path d="M0 0L7 3.5 0 7Z" fill="#ce1126"/>
-<path d="M2.05 3.5l.24-.08-.07-.24.2.15.15-.2v.25l.25-.01-.2.15.16.19-.24-.08-.06.24-.08-.24-.24.09.14-.2-.2-.14.25.01z" fill="#fff"/>
+<polygon points="2.450,2.950 2.558,3.275 2.880,3.157 2.694,3.444 2.986,3.622 2.645,3.656 2.689,3.996 2.450,3.750 2.211,3.996 2.255,3.656 1.914,3.622 2.206,3.444 2.020,3.157 2.342,3.275" fill="#fff"/>
 </svg>
