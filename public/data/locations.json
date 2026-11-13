@@ -677,6 +677,282 @@
     "countryCode": "MX"
   },
   {
+    "slug": "bali",
+    "name": "Bali",
+    "region": "Indonesia",
+    "kicker": "BALI",
+    "cover": "assets/bali-nov-2017-09.webp",
+    "photos": [
+      {
+        "src": "assets/bali-nov-2017-09.webp",
+        "alt": "Sea cliffs off Nusa Penida",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.79478,
+          115.52676
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-10.webp",
+        "alt": "Green cliffs and blue water, Nusa Penida",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.73421,
+          115.36183
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-11.webp",
+        "alt": "Fiery sunset over the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.69375,
+          115.15903
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-12.webp",
+        "alt": "Sanur Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.7101,
+          115.25917
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-13.webp",
+        "alt": "Morning boats off Sanur",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.70393,
+          115.26448
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-14.webp",
+        "alt": "Babi guling on the grill",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.70718,
+          115.25622
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-15.webp",
+        "alt": "Fast boats waiting at Sanur",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.67522,
+          115.26404
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-16.webp",
+        "alt": "Crystal-clear water on the way to Nusa Lembongan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.67694,
+          115.44023
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-17.webp",
+        "alt": "Temple-lined street on Nusa Lembongan",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.67817,
+          115.4474
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-18.webp",
+        "alt": "Boats at the Lembongan mangroves",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.66683,
+          115.46714
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-19.webp",
+        "alt": "View over Nusa Lembongan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.68093,
+          115.44617
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-20.webp",
+        "alt": "Statue in the Sacred Monkey Forest, Ubud",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.51764,
+          115.25927
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-21.webp",
+        "alt": "Monkey on a mossy statue, Ubud",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.51862,
+          115.25819
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-22.webp",
+        "alt": "Temple in the Sacred Monkey Forest",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.51872,
+          115.25813
+        ]
+      },
+      {
+        "src": "assets/bali-nov-2017-23.webp",
+        "alt": "Low tide at Sanur",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2017 · Sanur, the islands & Ubud",
+        "gps": [
+          -8.70768,
+          115.26483
+        ]
+      },
+      {
+        "src": "assets/bali-01.webp",
+        "alt": "Umbrellas on Kuta Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69305,
+          115.15858
+        ]
+      },
+      {
+        "src": "assets/bali-02.webp",
+        "alt": "Selfie on Kuta Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69303,
+          115.1584
+        ]
+      },
+      {
+        "src": "assets/bali-03.webp",
+        "alt": "Beanbags on the sand at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69691,
+          115.1611
+        ]
+      },
+      {
+        "src": "assets/bali-04.webp",
+        "alt": "Temple procession through the street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.68334,
+          115.16651
+        ]
+      },
+      {
+        "src": "assets/bali-v1.mp4",
+        "alt": "Temple procession with gamelan",
+        "class": "",
+        "kind": "video",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.6834,
+          115.1666
+        ]
+      },
+      {
+        "src": "assets/bali-05.webp",
+        "alt": "Carved temple gate",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.68452,
+          115.1666
+        ]
+      },
+      {
+        "src": "assets/bali-06.webp",
+        "alt": "Canang sari offering on the sidewalk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69054,
+          115.16763
+        ]
+      },
+      {
+        "src": "assets/bali-07.webp",
+        "alt": "Sunset over Kuta Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69823,
+          115.16181
+        ]
+      },
+      {
+        "src": "assets/bali-08.webp",
+        "alt": "Sunset bar on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2017 · Kuta",
+        "gps": [
+          -8.69591,
+          115.16025
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/id.png",
+    "countryCode": "ID",
+    "updated": "2017-11-05"
+  },
+  {
     "slug": "beirut",
     "name": "Beirut",
     "region": "Lebanon",
@@ -2224,6 +2500,139 @@
     "countryCode": "DK",
     "updated": "2026-06-16",
     "flagAsset": "assets/flags/dk.svg"
+  },
+  {
+    "slug": "da-nang",
+    "name": "Da Nang",
+    "region": "Vietnam",
+    "kicker": "DA NANG",
+    "cover": "assets/da-nang-01.webp",
+    "photos": [
+      {
+        "src": "assets/da-nang-01.webp",
+        "alt": "My Khe Beach from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.04939,
+          108.24869
+        ]
+      },
+      {
+        "src": "assets/da-nang-02.webp",
+        "alt": "My Khe Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05311,
+          108.24874
+        ]
+      },
+      {
+        "src": "assets/da-nang-03.webp",
+        "alt": "Clear water at My Khe",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05369,
+          108.24873
+        ]
+      },
+      {
+        "src": "assets/da-nang-04.webp",
+        "alt": "Evening on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05027,
+          108.24926
+        ]
+      },
+      {
+        "src": "assets/da-nang-05.webp",
+        "alt": "Lantern-lit alley",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05893,
+          108.21705
+        ]
+      },
+      {
+        "src": "assets/da-nang-06.webp",
+        "alt": "Banh Xeo Ba Duong",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05885,
+          108.21613
+        ]
+      },
+      {
+        "src": "assets/da-nang-07.webp",
+        "alt": "Banh xeo and fresh herbs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05884,
+          108.21609
+        ]
+      },
+      {
+        "src": "assets/da-nang-08.webp",
+        "alt": "The kitchen at Ba Duong",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05883,
+          108.21613
+        ]
+      },
+      {
+        "src": "assets/da-nang-09.webp",
+        "alt": "Banh Mi Ba Lan cart",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05961,
+          108.22198
+        ]
+      },
+      {
+        "src": "assets/da-nang-10.webp",
+        "alt": "Iced drinks at a street stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.06529,
+          108.2201
+        ]
+      },
+      {
+        "src": "assets/da-nang-11.webp",
+        "alt": "With friends in Da Nang",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          16.05616,
+          108.24603
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/vn.svg",
+    "countryCode": "VN",
+    "updated": "2019-04-09"
   },
   {
     "slug": "dead-sea",
@@ -5852,8 +6261,8 @@
         "kind": "photo",
         "visit": "December 2025",
         "gps": [
-          31.16743,
-          121.39243
+          35.6985,
+          139.77234
         ]
       },
       {
@@ -5874,8 +6283,8 @@
         "kind": "photo",
         "visit": "December 2025",
         "gps": [
-          31.23653,
-          121.47057
+          35.69972,
+          139.7731
         ]
       },
       {
@@ -5907,8 +6316,8 @@
         "kind": "photo",
         "visit": "December 2025",
         "gps": [
-          31.23629,
-          121.471
+          35.69977,
+          139.77336
         ]
       },
       {
@@ -7076,6 +7485,182 @@
         "gps": [
           35.693,
           139.70329
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-14.webp",
+        "alt": "Pond at Shinjuku Gyoen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.68584,
+          139.70576
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-15.webp",
+        "alt": "Pavilion in Shinjuku Gyoen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.68498,
+          139.70869
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-16.webp",
+        "alt": "Garden path, Shinjuku Gyoen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.68584,
+          139.70576
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-17.webp",
+        "alt": "Tonkotsu ramen, Shibuya",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.65901,
+          139.69833
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-18.webp",
+        "alt": "Shabu-shabu dinner",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.69842,
+          139.77234
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-19.webp",
+        "alt": "Trying pachinko in Akihabara",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.69756,
+          139.77313
+        ]
+      },
+      {
+        "src": "assets/tokyo-2019-20.webp",
+        "alt": "Rows of pachinko machines",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2019",
+        "gps": [
+          35.69759,
+          139.77309
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-05.webp",
+        "alt": "Tsukiji Outer Market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66499,
+          139.77002
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-06.webp",
+        "alt": "Fresh oyster at Tsukiji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66554,
+          139.76996
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-07.webp",
+        "alt": "Trays of sashimi for sale",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66543,
+          139.7697
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-08.webp",
+        "alt": "Cutting tuna at a market stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66568,
+          139.77007
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-09.webp",
+        "alt": "Tuna sashimi to go",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66287,
+          139.76916
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-10.webp",
+        "alt": "Grilling scallops at a stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66561,
+          139.77002
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-11.webp",
+        "alt": "Grilled scallop in the shell",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66559,
+          139.76991
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-12.webp",
+        "alt": "Crowded food stall at Tsukiji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.66264,
+          139.76894
+        ]
+      },
+      {
+        "src": "assets/tokyo-2016-13.webp",
+        "alt": "Street in Shinjuku",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2016 · Tsukiji",
+        "gps": [
+          35.69417,
+          139.70111
         ]
       }
     ],
