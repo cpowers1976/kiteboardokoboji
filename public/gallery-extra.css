@@ -24,3 +24,4 @@
 .card-date{display:table;margin-bottom:10px;padding:5px 9px;background:#e5a044;color:#0b1114;font-size:10px;font-weight:700;letter-spacing:2px}
 @media(max-width:900px){.cards.latest-cards{grid-template-columns:repeat(2,1fr)}.latest-cards .card{height:52vw}}
 @media(max-width:760px){.gallery-grid{grid-template-columns:1fr}.visit-nav{padding:18px 7vw}.latest-cards .card h3{font-size:22px}}
+.map-link{pointer-events:auto;color:#e5a044;font-weight:700;letter-spacing:1px;text-decoration:none;white-space:nowrap;margin-left:6px}.map-link:hover{text-decoration:underline}
