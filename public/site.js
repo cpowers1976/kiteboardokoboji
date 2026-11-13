@@ -22,9 +22,12 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
     if (!r.ok) throw Error();
     const ls = await r.json();
 
-    // Home page: all locations
+    // Home page: all locations, newest "updated" first; undated ones after, A–Z
     const cards = document.querySelector('#locationCards');
-    if (cards) cards.innerHTML = ls.map(l => card(l)).join('');
+    if (cards) cards.innerHTML = [...ls].sort((a, b) =>
+      a.updated && b.updated ? b.updated.localeCompare(a.updated)
+      : a.updated ? -1 : b.updated ? 1 : a.name.localeCompare(b.name)
+    ).map(l => card(l)).join('');
 
     // Home page: the 4 most recently updated locations.
     // Locations with "home": true (Dickinson County, Iowa) are photos from home, not trips.
