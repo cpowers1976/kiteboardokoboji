@@ -16778,5 +16778,136 @@
     "stateFlags": [
       "assets/flags/us-la.webp"
     ]
+  },
+  {
+    "slug": "jamaica",
+    "name": "Jamaica",
+    "region": "Jamaica",
+    "kicker": "NEGRIL, JAMAICA",
+    "cover": "assets/jamaica-01.webp",
+    "photos": [
+      {
+        "src": "assets/jamaica-01.webp",
+        "alt": "Palms on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-02.webp",
+        "alt": "Seven miles of sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-03.webp",
+        "alt": "Balcony over the resort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-04.webp",
+        "alt": "Coastline on the drive in",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-05.webp",
+        "alt": "Under sail on the catamaran",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-06.webp",
+        "alt": "Catamaran crew and passengers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-07.webp",
+        "alt": "Beach stop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-08.webp",
+        "alt": "Snorkeling over the reef",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-09.webp",
+        "alt": "Coral up close",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-10.webp",
+        "alt": "Swimming below the cliffs",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-11.webp",
+        "alt": "Sea cave in the cliffs",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-12.webp",
+        "alt": "Cliffs on the west end",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-13.webp",
+        "alt": "Swimming in the cove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-14.webp",
+        "alt": "Sunset crowd at the cliffside bar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-15.webp",
+        "alt": "Sun dropping into the Caribbean",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-16.webp",
+        "alt": "Last light",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      },
+      {
+        "src": "assets/jamaica-17.webp",
+        "alt": "Dinner spot",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2006"
+      }
+    ],
+    "flagAsset": "assets/flags/jm.svg",
+    "countryCode": "JM",
+    "updated": "2006-12-09"
   }
 ]
