@@ -7024,7 +7024,7 @@
     "name": "Hong Kong",
     "region": "Hong Kong",
     "kicker": "HONG KONG",
-    "cover": "assets/hong-kong-01.webp",
+    "cover": "assets/hong-kong-peak.webp",
     "photos": [
       {
         "src": "assets/hong-kong-2026-27.webp",
@@ -7068,6 +7068,17 @@
         "gps": [
           22.27977,
           114.15321
+        ]
+      },
+      {
+        "src": "assets/hong-kong-cemetery.webp",
+        "alt": "Hillside cemetery on the way to the trail",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.25952,
+          114.24098
         ]
       },
       {
@@ -7192,14 +7203,14 @@
         ]
       },
       {
-        "src": "assets/hong-kong-01.webp",
+        "src": "assets/hong-kong-peak.webp",
         "alt": "Hong Kong from Victoria Peak",
         "class": "wide",
         "kind": "photo",
         "visit": "November 2015",
         "gps": [
-          22.27146,
-          114.14987
+          22.27135,
+          114.14983
         ]
       },
       {
@@ -7208,6 +7219,17 @@
         "class": "wide",
         "kind": "photo",
         "visit": "November 2015"
+      },
+      {
+        "src": "assets/hong-kong-fish-farms.webp",
+        "alt": "Selfie above the fish farms",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.20814,
+          114.12587
+        ]
       },
       {
         "src": "assets/hong-kong-02.webp",
@@ -7316,6 +7338,17 @@
         ]
       },
       {
+        "src": "assets/hong-kong-cable-car-view.webp",
+        "alt": "Cable cars over Tung Chung Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.28781,
+          113.92807
+        ]
+      },
+      {
         "src": "assets/hong-kong-10.webp",
         "alt": "Ngong Ping gateway",
         "class": "wide",
@@ -7368,6 +7401,17 @@
         "gps": [
           22.25417,
           113.90491
+        ]
+      },
+      {
+        "src": "assets/hong-kong-buddha-friends.webp",
+        "alt": "Friends below the Big Buddha",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.2542,
+          113.90499
         ]
       },
       {
