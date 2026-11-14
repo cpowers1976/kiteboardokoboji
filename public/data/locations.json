@@ -16567,5 +16567,216 @@
     "flagAsset": "assets/flags/no.svg",
     "countryCode": "NO",
     "updated": "2014-12-13"
+  },
+  {
+    "slug": "kaohsiung",
+    "name": "Kaohsiung",
+    "region": "Taiwan",
+    "kicker": "KAOHSIUNG, TAIWAN",
+    "cover": "assets/kaohsiung-01.webp",
+    "photos": [
+      {
+        "src": "assets/kaohsiung-01.webp",
+        "alt": "Dragon and Tiger Pagodas on Lotus Pond",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2014"
+      },
+      {
+        "src": "assets/kaohsiung-02.webp",
+        "alt": "Lotus Pond at dawn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2014"
+      },
+      {
+        "src": "assets/kaohsiung-03.webp",
+        "alt": "Temple across from the pond",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2014"
+      },
+      {
+        "src": "assets/kaohsiung-04.webp",
+        "alt": "Clouds on the flight out",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2014"
+      }
+    ],
+    "flagAsset": "assets/flags/tw.svg",
+    "countryCode": "TW",
+    "updated": "2014-10-29"
+  },
+  {
+    "slug": "newport",
+    "name": "Newport",
+    "region": "Rhode Island",
+    "kicker": "NEWPORT, RHODE ISLAND",
+    "cover": "assets/newport-01.webp",
+    "photos": [
+      {
+        "src": "assets/newport-01.webp",
+        "alt": "Cliff Walk above the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/newport-02.webp",
+        "alt": "Mansions along the Cliff Walk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/newport-03.webp",
+        "alt": "Rocky shoreline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/newport-04.webp",
+        "alt": "Easton Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/newport-05.webp",
+        "alt": "Beach below the mansions",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/newport-06.webp",
+        "alt": "Seawall and the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2008-04-19",
+    "stateFlags": [
+      "assets/flags/us-ri.webp"
+    ]
+  },
+  {
+    "slug": "salt-lake-city",
+    "name": "Salt Lake City",
+    "region": "Utah",
+    "kicker": "SALT LAKE CITY, UTAH",
+    "cover": "assets/salt-lake-city-01.webp",
+    "photos": [
+      {
+        "src": "assets/salt-lake-city-01.webp",
+        "alt": "Salt Lake Temple",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2008"
+      },
+      {
+        "src": "assets/salt-lake-city-02.webp",
+        "alt": "Temple Square gardens",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2008"
+      },
+      {
+        "src": "assets/salt-lake-city-03.webp",
+        "alt": "Temple Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2008"
+      },
+      {
+        "src": "assets/salt-lake-city-04.webp",
+        "alt": "Wasatch Mountains over town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2008"
+      },
+      {
+        "src": "assets/salt-lake-city-05.webp",
+        "alt": "Up the canyon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2008"
+      },
+      {
+        "src": "assets/salt-lake-city-06.webp",
+        "alt": "Waterfall in the canyon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2008"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2008-06-04",
+    "stateFlags": [
+      "assets/flags/us-ut.webp"
+    ]
+  },
+  {
+    "slug": "new-orleans",
+    "name": "New Orleans",
+    "region": "Louisiana",
+    "kicker": "NEW ORLEANS, LOUISIANA",
+    "cover": "assets/new-orleans-04.webp",
+    "photos": [
+      {
+        "src": "assets/new-orleans-01.webp",
+        "alt": "Bourbon Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/new-orleans-02.webp",
+        "alt": "Masks on for the parade",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/new-orleans-03.webp",
+        "alt": "French Quarter balconies",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/new-orleans-04.webp",
+        "alt": "Parade night in the Quarter",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/new-orleans-05.webp",
+        "alt": "Floats rolling by",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/new-orleans-06.webp",
+        "alt": "Masked crew on Bourbon Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2015-01-16",
+    "stateFlags": [
+      "assets/flags/us-la.webp"
+    ]
   }
 ]
