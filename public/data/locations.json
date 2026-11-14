@@ -9635,6 +9635,17 @@
         "class": "",
         "kind": "photo",
         "visit": "February 2026"
+      },
+      {
+        "src": "assets/ahmedabad-2017-01.webp",
+        "alt": "Langur monkeys in the shade, Ahmedabad",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2017",
+        "gps": [
+          23.02386,
+          72.56677
+        ]
       }
     ]
   },
@@ -27336,6 +27347,1057 @@
     "flagAsset": "assets/flags/in.png",
     "countryCode": "IN",
     "updated": "2023-06-25",
+    "parent": "india"
+  },
+  {
+    "slug": "agra",
+    "name": "Agra",
+    "region": "Uttar Pradesh, India",
+    "kicker": "INDIA",
+    "cover": "assets/agra-2018-06.webp",
+    "photos": [
+      {
+        "src": "assets/agra-2018-01.webp",
+        "alt": "The Great Gate of the Taj Mahal at sunrise",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17107,
+          78.04134
+        ]
+      },
+      {
+        "src": "assets/agra-2018-02.webp",
+        "alt": "At the Great Gate of the Taj Mahal",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17108,
+          78.04211
+        ]
+      },
+      {
+        "src": "assets/agra-2018-03.webp",
+        "alt": "Calligraphy inlaid around the gate arch",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17158,
+          78.04202
+        ]
+      },
+      {
+        "src": "assets/agra-2018-04.webp",
+        "alt": "First view of the Taj Mahal down the water channel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17194,
+          78.04209
+        ]
+      },
+      {
+        "src": "assets/agra-2018-05.webp",
+        "alt": "Selfie with the Taj Mahal",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17188,
+          78.04207
+        ]
+      },
+      {
+        "src": "assets/agra-2018-06.webp",
+        "alt": "The Taj Mahal reflected in the long pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.1719,
+          78.04214
+        ]
+      },
+      {
+        "src": "assets/agra-2018-07.webp",
+        "alt": "The Taj Mahal in the early morning light",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17191,
+          78.04212
+        ]
+      },
+      {
+        "src": "assets/agra-2018-08.webp",
+        "alt": "Holding the dome, the classic Taj Mahal pose",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17244,
+          78.04191
+        ]
+      },
+      {
+        "src": "assets/agra-2018-09.webp",
+        "alt": "The Taj Mahal from the flower gardens",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17346,
+          78.04235
+        ]
+      },
+      {
+        "src": "assets/agra-2018-10.webp",
+        "alt": "The Taj Mahal framed by trees",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17289,
+          78.04312
+        ]
+      },
+      {
+        "src": "assets/agra-2018-11.webp",
+        "alt": "Red sandstone mosque beside the Taj Mahal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17393,
+          78.04188
+        ]
+      },
+      {
+        "src": "assets/agra-2018-12.webp",
+        "alt": "Star-patterned paving on the terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17451,
+          78.04177
+        ]
+      },
+      {
+        "src": "assets/agra-2018-13.webp",
+        "alt": "Looking back to the Great Gate along the water channel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17476,
+          78.04163
+        ]
+      },
+      {
+        "src": "assets/agra-2018-14.webp",
+        "alt": "Carved arch on the mausoleum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17455,
+          78.04192
+        ]
+      },
+      {
+        "src": "assets/agra-2018-15.webp",
+        "alt": "Flowers inlaid in the marble",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17466,
+          78.04217
+        ]
+      },
+      {
+        "src": "assets/agra-2018-16.webp",
+        "alt": "The Yamuna River from the Taj Mahal terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17539,
+          78.04207
+        ]
+      },
+      {
+        "src": "assets/agra-2018-17.webp",
+        "alt": "Sunrise behind a minaret",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17546,
+          78.04177
+        ]
+      },
+      {
+        "src": "assets/agra-2018-18.webp",
+        "alt": "Marble facade of the mausoleum",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17462,
+          78.04258
+        ]
+      },
+      {
+        "src": "assets/agra-2018-19.webp",
+        "alt": "Minaret and dome",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17451,
+          78.04288
+        ]
+      },
+      {
+        "src": "assets/agra-2018-20.webp",
+        "alt": "The Taj Mahal from the garden lawns",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17456,
+          78.04289
+        ]
+      },
+      {
+        "src": "assets/agra-2018-21.webp",
+        "alt": "At the reflecting pool",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17297,
+          78.04229
+        ]
+      },
+      {
+        "src": "assets/agra-2018-22.webp",
+        "alt": "Red sandstone walls of Agra Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17623,
+          78.02208
+        ]
+      },
+      {
+        "src": "assets/agra-2018-23.webp",
+        "alt": "Ornate gateway inside Agra Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17651,
+          78.02204
+        ]
+      },
+      {
+        "src": "assets/agra-2018-24.webp",
+        "alt": "Palace courtyard inside Agra Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17684,
+          78.0226
+        ]
+      },
+      {
+        "src": "assets/agra-2018-25.webp",
+        "alt": "Geometric garden inside the fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17829,
+          78.02325
+        ]
+      },
+      {
+        "src": "assets/agra-2018-26.webp",
+        "alt": "Marble hall with carved arches",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17841,
+          78.02364
+        ]
+      },
+      {
+        "src": "assets/agra-2018-27.webp",
+        "alt": "Painted ceiling in the fort palace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17952,
+          78.02374
+        ]
+      },
+      {
+        "src": "assets/agra-2018-28.webp",
+        "alt": "Looking out through a scalloped marble arch",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17858,
+          78.02376
+        ]
+      },
+      {
+        "src": "assets/agra-2018-29.webp",
+        "alt": "The Taj Mahal in the haze, seen from Agra Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17669,
+          78.02256
+        ]
+      },
+      {
+        "src": "assets/agra-2018-30.webp",
+        "alt": "Marble lattice screen",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17872,
+          78.02336
+        ]
+      },
+      {
+        "src": "assets/agra-2018-31.webp",
+        "alt": "Inlaid marble pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17882,
+          78.02341
+        ]
+      },
+      {
+        "src": "assets/agra-2018-32.webp",
+        "alt": "Under the scalloped arches of the Diwan-i-Am",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.17912,
+          78.02271
+        ]
+      },
+      {
+        "src": "assets/agra-2018-33.webp",
+        "alt": "Marble inlay craftsman at work",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.16212,
+          78.05861
+        ]
+      },
+      {
+        "src": "assets/agra-2018-34.webp",
+        "alt": "Inlay work in progress with colored stones",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.16209,
+          78.05846
+        ]
+      },
+      {
+        "src": "assets/agra-2018-35.webp",
+        "alt": "The Taj Mahal from across the city",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018",
+        "gps": [
+          27.16127,
+          78.04416
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "updated": "2018-09-26",
+    "parent": "india"
+  },
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "region": "India",
+    "kicker": "INDIA",
+    "cover": "assets/delhi-2022-06.webp",
+    "photos": [
+      {
+        "src": "assets/delhi-2022-01.webp",
+        "alt": "Cycle-rickshaw ride through Old Delhi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65027,
+          77.23971
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-02.webp",
+        "alt": "Market stalls below the Jama Masjid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65059,
+          77.23843
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-03.webp",
+        "alt": "Climbing the steps to the Jama Masjid gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65091,
+          77.23435
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-04.webp",
+        "alt": "View over Old Delhi from the mosque steps",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65088,
+          77.2342
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-05.webp",
+        "alt": "Courtyard of the Jama Masjid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65085,
+          77.23367
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-06.webp",
+        "alt": "Prayer hall and domes of the Jama Masjid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65087,
+          77.23368
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-07.webp",
+        "alt": "Red sandstone gate seen from the courtyard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65085,
+          77.23357
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-08.webp",
+        "alt": "Arcades and corner pavilion of the mosque",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65098,
+          77.23417
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-09.webp",
+        "alt": "At the Jama Masjid gate",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65091,
+          77.23424
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-10.webp",
+        "alt": "Street market in Old Delhi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65404,
+          77.2348
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-11.webp",
+        "alt": "Crowded lane off Chandni Chowk",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65617,
+          77.23356
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-12.webp",
+        "alt": "Historic building on Chandni Chowk",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65625,
+          77.23256
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-13.webp",
+        "alt": "Street food on a griddle, Chandni Chowk",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65577,
+          77.23483
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-14.webp",
+        "alt": "Crowds in front of the Red Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65601,
+          77.23704
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-15.webp",
+        "alt": "Walls and gate of the Red Fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.65642,
+          77.23798
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-16.webp",
+        "alt": "Government buildings on Raisina Hill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.61244,
+          77.20868
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-17.webp",
+        "alt": "Lawns along Kartavya Path",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2022",
+        "gps": [
+          28.61413,
+          77.21207
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-01.webp",
+        "alt": "Riding the Delhi Metro",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.62322,
+          77.24308
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-02.webp",
+        "alt": "Akshardham temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.61638,
+          77.27972
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-03.webp",
+        "alt": "Walking up to the Lotus Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.55423,
+          77.26079
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-04.webp",
+        "alt": "Under the petals of the Lotus Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.55334,
+          77.25902
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-05.webp",
+        "alt": "Selfie at the Lotus Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.55289,
+          77.25861
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-06.webp",
+        "alt": "The Lotus Temple and its pools",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.55288,
+          77.25869
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-07.webp",
+        "alt": "Monkey on the sidewalk, Connaught Place",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.63079,
+          77.21549
+        ]
+      },
+      {
+        "src": "assets/delhi-2023-08.webp",
+        "alt": "Connaught Place in the evening",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          28.63045,
+          77.21518
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-18.webp",
+        "alt": "Pani puri being served at a street stall",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          28.63349,
+          77.20862
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-19.webp",
+        "alt": "Bowl of chaat with yogurt and chutneys",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          28.63318,
+          77.20846
+        ]
+      },
+      {
+        "src": "assets/delhi-2022-20.webp",
+        "alt": "Sweet shop counter",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          28.63349,
+          77.20862
+        ]
+      },
+      {
+        "src": "assets/delhi-2021-01.webp",
+        "alt": "Open kitchen with kebab skewers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2021",
+        "gps": [
+          28.59701,
+          77.17347
+        ]
+      },
+      {
+        "src": "assets/delhi-2021-02.webp",
+        "alt": "Chef with kebab skewers at the tandoor",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2021",
+        "gps": [
+          28.59694,
+          77.17345
+        ]
+      },
+      {
+        "src": "assets/delhi-2016-01.webp",
+        "alt": "Snake charmer, New Delhi",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2016",
+        "gps": [
+          28.60801,
+          77.22972
+        ]
+      },
+      {
+        "src": "assets/delhi-2016-02.webp",
+        "alt": "Posing with the snake charmer",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2016",
+        "gps": [
+          28.60801,
+          77.22974
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "updated": "2023-06-27",
+    "parent": "india"
+  },
+  {
+    "slug": "bhuj",
+    "name": "Bhuj & Kutch",
+    "region": "Gujarat, India",
+    "kicker": "INDIA",
+    "cover": "assets/bhuj-2022-07.webp",
+    "photos": [
+      {
+        "src": "assets/bhuj-2022-01.webp",
+        "alt": "Kutch Museum, Bhuj",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24905,
+          69.66601
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-02.webp",
+        "alt": "Stone sculptures in the museum courtyard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24883,
+          69.6662
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-03.webp",
+        "alt": "Old cannon in the museum garden",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24878,
+          69.6663
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-04.webp",
+        "alt": "Cow walking down the road",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24928,
+          69.66361
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-05.webp",
+        "alt": "Steps up to the Swaminarayan temple, Bhuj",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24618,
+          69.66471
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-06.webp",
+        "alt": "Carved marble footprints at the temple entrance",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24618,
+          69.66473
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-07.webp",
+        "alt": "White marble front of the temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24621,
+          69.66457
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-08.webp",
+        "alt": "View from the temple across the grounds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24626,
+          69.66455
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-09.webp",
+        "alt": "Inside the temple hall",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24627,
+          69.66448
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-10.webp",
+        "alt": "Carved marble arches",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24602,
+          69.66707
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-11.webp",
+        "alt": "Carved marble pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24629,
+          69.66421
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-12.webp",
+        "alt": "Inlaid marble floor with peacocks",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24278,
+          69.66965
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-13.webp",
+        "alt": "Carved dome and chandelier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24232,
+          69.67007
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-14.webp",
+        "alt": "Inlaid marble floor medallion",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24227,
+          69.6699
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-15.webp",
+        "alt": "Rows of carved marble columns",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24223,
+          69.67018
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-16.webp",
+        "alt": "The temple from the gardens",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24365,
+          69.66439
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-17.webp",
+        "alt": "Temple entrance gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24612,
+          69.66498
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-18.webp",
+        "alt": "Carved wooden door and stone pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.24608,
+          69.66526
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-19.webp",
+        "alt": "Cow in a village lane, Bhujodi",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.22272,
+          69.73781
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-20.webp",
+        "alt": "Textile shops in Bhujodi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.22286,
+          69.73771
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-21.webp",
+        "alt": "Main street of Bhujodi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.22276,
+          69.73779
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-22.webp",
+        "alt": "Street food stall at night, Anjar",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.07571,
+          70.10711
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-23.webp",
+        "alt": "Plate of pani puri, Anjar",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.07698,
+          70.10668
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-24.webp",
+        "alt": "Grilling tikka at a street stall, Anjar",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.07673,
+          70.10667
+        ]
+      },
+      {
+        "src": "assets/bhuj-2022-25.webp",
+        "alt": "Tikka skewers over the coals",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2022",
+        "gps": [
+          23.07696,
+          70.10669
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "updated": "2022-03-05",
     "parent": "india"
   }
 ]
