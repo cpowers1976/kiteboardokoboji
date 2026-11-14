@@ -9083,6 +9083,90 @@
           22.22075,
           114.21271
         ]
+      },
+      {
+        "src": "assets/hong-kong-2015b-01.webp",
+        "alt": "Hong Kong lights at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-02.webp",
+        "alt": "Skyline in the fog from the Peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-03.webp",
+        "alt": "Boats at Repulse Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-04.webp",
+        "alt": "Repulse Bay beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-05.webp",
+        "alt": "Stanley waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-06.webp",
+        "alt": "Victoria Harbour from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-07.webp",
+        "alt": "Harbour view from the hotel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-08.webp",
+        "alt": "Bamboo cages at the bird garden",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-09.webp",
+        "alt": "Songbirds for sale",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-10.webp",
+        "alt": "Street in Mong Kok",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-11.webp",
+        "alt": "Fruit stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
+      },
+      {
+        "src": "assets/hong-kong-2015b-12.webp",
+        "alt": "Fish at the wet market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2015"
       }
     ],
     "flagAsset": "assets/flags/hk.svg",
@@ -9504,6 +9588,50 @@
         "gps": [
           15.49276,
           73.77774
+        ]
+      },
+      {
+        "src": "assets/india-goa-2018-01.webp",
+        "alt": "Basilica of Bom Jesus, Old Goa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.50106,
+          73.91223
+        ]
+      },
+      {
+        "src": "assets/india-goa-2018-02.webp",
+        "alt": "Gilded altar in an Old Goa church",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.50347,
+          73.91051
+        ]
+      },
+      {
+        "src": "assets/india-goa-2018-03.webp",
+        "alt": "Church of St. Cajetan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.5053,
+          73.91443
+        ]
+      },
+      {
+        "src": "assets/india-goa-2018-04.webp",
+        "alt": "Spice stall at the night market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.57751,
+          73.76324
         ]
       },
       {
