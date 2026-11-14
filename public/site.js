@@ -22,7 +22,7 @@ const figure = (p, i, l) => '<figure class="' + esc(p.class) + '" tabindex="0" r
 // Not shown for home spots (South Padre Island, Iowa Great Lakes).
 const NO_MAP = ['south-padre-island', 'iowa-great-lakes'];
 const mapUrl = (p, l) => {
-  if (l.home || NO_MAP.includes(l.slug)) return '';
+  if (l.home || l.album || NO_MAP.includes(l.slug)) return '';
   if (p.gps) return 'https://www.google.com/maps/search/?api=1&query=' + p.gps[0] + ',' + p.gps[1];
   if (!l.countryCode) return '';
   return 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(l.name + ', ' + l.region);
@@ -36,7 +36,10 @@ const mapLink = (p, l) => {
   try {
     const r = await fetch('data/locations.json', { cache: 'no-cache' });
     if (!r.ok) throw Error();
-    const ls = await r.json();
+    const all = await r.json();
+    // Albums ("album": true, e.g. the Chase Powers memorial album) are reached from their
+    // parent page only: they are left out of the home page lists.
+    const ls = all.filter(l => !l.album);
 
     // Home page: all locations. South Padre Island and Iowa Great Lakes pinned first,
     // then newest "updated" first, then undated ones A–Z. Dated cards get a date tag.
@@ -62,7 +65,7 @@ const mapLink = (p, l) => {
     // Destination page
     const gallery = document.querySelector('#gallery');
     if (!gallery) return;
-    const l = ls.find(x => x.slug === new URLSearchParams(location.search).get('place')) || ls[0];
+    const l = all.find(x => x.slug === new URLSearchParams(location.search).get('place')) || ls[0];
     if (!l) return;
     document.title = l.name + ' — Kiteboard Okoboji';
     document.querySelector('#locationName').textContent = l.name;
@@ -75,8 +78,13 @@ const mapLink = (p, l) => {
     if (kids.length) gallery.insertAdjacentHTML('beforebegin', '<section class="subplaces"><div class="section-head"><h2>Cities.</h2><p>'
       + kids.length + ' places in ' + esc(l.name) + '. The photos below are from elsewhere around the country.</p></div>'
       + '<div class="cards">' + kids.map(k => card(k, k.updated ? '<span class="card-date">' + esc(shortDate(k.updated)) + '</span>' : '')).join('') + '</div></section>');
+    // Albums: a separate card above the gallery, e.g. "In memory" on Iowa Great Lakes.
+    const albums = all.filter(x => x.album && x.parent === l.slug);
+    if (albums.length) gallery.insertAdjacentHTML('beforebegin', '<section class="subplaces albums"><div class="cards">'
+      + albums.map(a => card(a, '<span class="card-date">' + esc(a.kicker) + '</span>')).join('') + '</div></section>');
     const hub = l.parent && ls.find(x => x.slug === l.parent);
-    if (hub) document.querySelector('#region').insertAdjacentHTML('afterend', '<p class="parent-link"><a href="destination.html?place=' + encodeURIComponent(hub.slug) + '">ALL OF ' + esc(hub.name.toUpperCase()) + ' →</a></p>');
+    if (hub) document.querySelector('#region').insertAdjacentHTML('afterend', '<p class="parent-link"><a href="destination.html?place=' + encodeURIComponent(hub.slug) + '">'
+      + (l.album ? '← BACK TO ' + esc(hub.name.toUpperCase()) : 'ALL OF ' + esc(hub.name.toUpperCase()) + ' →') + '</a></p>');
 
     // Group photos into visits (consecutive photos with the same "visit" label)
     const visits = [];
@@ -89,10 +97,10 @@ const mapLink = (p, l) => {
     if (visits.length > 1 || visits[0].name) {
       gallery.classList.add('visits');
       gallery.innerHTML = (visits.length > 1
-        ? '<nav class="visit-nav"><span>' + visits.length + (l.home ? ' SETS' : ' TRIPS') + '</span>' + visits.map(v => '<a href="#' + slugify(v.name) + '">' + esc(v.name) + '</a>').join('') + '</nav>'
+        ? '<nav class="visit-nav"><span>' + visits.length + (l.home || l.album ? ' SETS' : ' TRIPS') + '</span>' + visits.map(v => '<a href="#' + slugify(v.name) + '">' + esc(v.name) + '</a>').join('') + '</nav>'
         : '')
         + visits.map((v, n) => '<section class="visit" id="' + slugify(v.name) + '">'
-          + '<div class="visit-head"><small>' + (l.home ? 'FROM HOME' : n === 0 && visits.length > 1 ? 'LATEST TRIP' : 'TRIP ' + (visits.length - n) + ' OF ' + visits.length) + ' · ' + v.items.length + (v.items.length === 1 ? ' ITEM' : ' ITEMS') + '</small><h2>' + esc(v.name) + '</h2></div>'
+          + '<div class="visit-head"><small>' + (l.album ? 'MEMORIES' : l.home ? 'FROM HOME' : n === 0 && visits.length > 1 ? 'LATEST TRIP' : 'TRIP ' + (visits.length - n) + ' OF ' + visits.length) + ' · ' + v.items.length + (v.items.length === 1 ? ' ITEM' : ' ITEMS') + '</small><h2>' + esc(v.name) + '</h2></div>'
           + '<div class="gallery-grid">' + v.items.map(([p, i]) => figure(p, i, l)).join('') + '</div></section>').join('');
     } else {
       gallery.innerHTML = l.photos.map((p, i) => figure(p, i, l)).join('');

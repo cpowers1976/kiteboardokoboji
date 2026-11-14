@@ -12431,6 +12431,147 @@
     ]
   },
   {
+    "slug": "chase-powers",
+    "name": "Chase Powers",
+    "region": "Iowa Great Lakes",
+    "kicker": "IN MEMORY",
+    "cover": "assets/chase-powers-02.webp",
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "stateFlags": [
+      "assets/flags/us-ia.webp"
+    ],
+    "parent": "iowa-great-lakes",
+    "album": true,
+    "photos": [
+      {
+        "src": "assets/chase-powers-01.webp",
+        "alt": "Wakeboarding sequence on the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "On the water",
+        "tags": [
+          "wakeboarding"
+        ]
+      },
+      {
+        "src": "assets/chase-powers-02.webp",
+        "alt": "Wakeboarding, frame by frame",
+        "class": "",
+        "kind": "photo",
+        "visit": "On the water",
+        "tags": [
+          "wakeboarding"
+        ]
+      },
+      {
+        "src": "assets/chase-powers-03.webp",
+        "alt": "A summer day on the boat",
+        "class": "",
+        "kind": "photo",
+        "visit": "On the water"
+      },
+      {
+        "src": "assets/chase-powers-04.webp",
+        "alt": "Wake boat out on the lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "On the water"
+      },
+      {
+        "src": "assets/chase-powers-05.webp",
+        "alt": "Everyone up on the bow",
+        "class": "",
+        "kind": "photo",
+        "visit": "On the water"
+      },
+      {
+        "src": "assets/chase-powers-06.webp",
+        "alt": "Red wake boat on the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "On the water"
+      },
+      {
+        "src": "assets/chase-powers-07.webp",
+        "alt": "Boat day with friends",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "On the water"
+      },
+      {
+        "src": "assets/chase-powers-08.webp",
+        "alt": "Clear water at Lake Tahoe",
+        "class": "",
+        "kind": "photo",
+        "visit": "Lake Tahoe · January 2014"
+      },
+      {
+        "src": "assets/chase-powers-09.webp",
+        "alt": "Looking down to Lake Tahoe from the slopes",
+        "class": "",
+        "kind": "photo",
+        "visit": "Lake Tahoe · January 2014"
+      },
+      {
+        "src": "assets/chase-powers-10.webp",
+        "alt": "A night out, August 2011",
+        "class": "",
+        "kind": "photo",
+        "visit": "Nights out in Okoboji · August 2011"
+      },
+      {
+        "src": "assets/chase-powers-11.webp",
+        "alt": "My life is better than your vacation",
+        "class": "",
+        "kind": "photo",
+        "visit": "Nights out in Okoboji · August 2011"
+      },
+      {
+        "src": "assets/chase-powers-12.webp",
+        "alt": "Walking down the aisle by the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "Wedding by the lake · August 2010"
+      },
+      {
+        "src": "assets/chase-powers-13.webp",
+        "alt": "The wedding party on the shore",
+        "class": "",
+        "kind": "photo",
+        "visit": "Wedding by the lake · August 2010"
+      },
+      {
+        "src": "assets/chase-powers-14.webp",
+        "alt": "Night under the tent",
+        "class": "",
+        "kind": "photo",
+        "visit": "Wedding by the lake · August 2010"
+      },
+      {
+        "src": "assets/chase-powers-15.webp",
+        "alt": "Music under the tent",
+        "class": "",
+        "kind": "photo",
+        "visit": "Wedding by the lake · August 2010"
+      },
+      {
+        "src": "assets/chase-powers-16.webp",
+        "alt": "Late night under the tent",
+        "class": "",
+        "kind": "photo",
+        "visit": "Wedding by the lake · August 2010"
+      },
+      {
+        "src": "assets/chase-powers-17.webp",
+        "alt": "Dinner at the hibachi grill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "More memories"
+      }
+    ]
+  },
+  {
     "slug": "istanbul",
     "name": "Istanbul",
     "region": "Türkiye",

@@ -78,7 +78,7 @@
   map.addLayer(cluster);
 
   fetch('data/locations.json', { cache: 'no-cache' }).then(r => { if (!r.ok) throw Error(); return r.json(); }).then(ls => {
-    const places = ls.map(l => ({ l, at: pointFor(l) })).filter(p => p.at).sort((a, b) => a.l.name.localeCompare(b.l.name));
+    const places = ls.filter(l => !l.album).map(l => ({ l, at: pointFor(l) })).filter(p => p.at).sort((a, b) => a.l.name.localeCompare(b.l.name));
 
     places.forEach(p => {
       const l = p.l;
