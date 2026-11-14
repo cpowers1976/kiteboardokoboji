@@ -4286,7 +4286,10 @@
         "alt": "Kiteboarding at Bloubergstrand with Table Mountain across the bay",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2022"
+        "visit": "February 2022",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/cape-town-02.webp",
@@ -4300,7 +4303,10 @@
         "alt": "Windy kiteboarding beach in Cape Town",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2022"
+        "visit": "February 2022",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/cape-town-04.webp",
@@ -8679,14 +8685,20 @@
         "alt": "Kiteboarding on West Okoboji Lake",
         "class": "wide",
         "kind": "photo",
-        "visit": "October 2026"
+        "visit": "October 2026",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-okoboji-oct-2026-04.mp4",
         "alt": "Kiteboarding session on West Okoboji Lake",
         "class": "",
         "kind": "video",
-        "visit": "October 2026"
+        "visit": "October 2026",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-okoboji-oct-2026-02.webp",
@@ -8754,28 +8766,40 @@
         "alt": "Wake foiling behind the boat",
         "class": "",
         "kind": "photo",
-        "visit": "September 2025 · Foiling"
+        "visit": "September 2025 · Foiling",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-great-lakes-sep-2025-27.webp",
         "alt": "Up on the foil",
         "class": "",
         "kind": "photo",
-        "visit": "September 2025 · Foiling"
+        "visit": "September 2025 · Foiling",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-great-lakes-sep-2025-28.webp",
         "alt": "Foiling into the sun",
         "class": "",
         "kind": "photo",
-        "visit": "September 2025 · Foiling"
+        "visit": "September 2025 · Foiling",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-great-lakes-sep-2025-29.webp",
         "alt": "Riding the wake",
         "class": "",
         "kind": "photo",
-        "visit": "September 2025 · Foiling"
+        "visit": "September 2025 · Foiling",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/igl-2013-01.webp",
@@ -8835,7 +8859,10 @@
         "alt": "Kiteboarding on the Iowa Great Lakes",
         "class": "",
         "kind": "photo",
-        "visit": "Earlier photos"
+        "visit": "Earlier photos",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/iowa-okoboji-1.webp",
@@ -8899,6 +8926,166 @@
         "class": "",
         "kind": "photo",
         "visit": "Earlier photos"
+      },
+      {
+        "src": "assets/igl-kite-01.webp",
+        "alt": "Carving a heelside turn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-02.webp",
+        "alt": "Edging hard through the chop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-03.webp",
+        "alt": "Big air over the lake",
+        "class": "",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-04.webp",
+        "alt": "Jesse boosting",
+        "class": "",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-05.webp",
+        "alt": "Spray off a landing",
+        "class": "",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-06.webp",
+        "alt": "Riding past the lake houses",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-07.webp",
+        "alt": "Kite low over the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "Early kiteboarding days",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-08.webp",
+        "alt": "Powered up on West Okoboji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-09.webp",
+        "alt": "Throwing spray",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-10.webp",
+        "alt": "Getting air",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-11.webp",
+        "alt": "Planing along the shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-12.webp",
+        "alt": "Ripping past the trees",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-13.webp",
+        "alt": "Wipeout splash",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-14.webp",
+        "alt": "Riding toward the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-15.webp",
+        "alt": "Red kite and rider",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/igl-kite-16.webp",
+        "alt": "Kite in the sky",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2003 · Kiteboarding",
+        "tags": [
+          "kiteboarding"
+        ]
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -10866,6 +11053,9 @@
         "gps": [
           -20.20586,
           57.79013
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       },
       {
@@ -11108,6 +11298,9 @@
         "gps": [
           25.8035,
           -80.12367
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       },
       {
@@ -11119,6 +11312,9 @@
         "gps": [
           25.8035,
           -80.12367
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       },
       {
@@ -11130,6 +11326,9 @@
         "gps": [
           25.80367,
           -80.12417
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       }
     ],
@@ -11322,6 +11521,9 @@
         "gps": [
           10.94364,
           108.19845
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       },
       {
@@ -11388,6 +11590,9 @@
         "gps": [
           10.94578,
           108.20177
+        ],
+        "tags": [
+          "kiteboarding"
         ]
       }
     ],
@@ -13312,13 +13517,19 @@
         "src": "assets/capetown-1.webp",
         "alt": "Kiteboarding in Cape Town",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/capetown-2.webp",
         "alt": "Cape Town kiteboarding",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/capetown-3.webp",
@@ -13330,7 +13541,10 @@
         "src": "assets/capetown-4.webp",
         "alt": "Cape Town kiteboarding",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "tags": [
+          "kiteboarding"
+        ]
       },
       {
         "src": "assets/capetown-5.webp",
