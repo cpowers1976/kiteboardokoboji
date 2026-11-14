@@ -15616,5 +15616,160 @@
     "flagAsset": "assets/flags/se.png",
     "countryCode": "SE",
     "updated": "2022-08-14"
+  },
+  {
+    "slug": "warsaw",
+    "name": "Warsaw",
+    "region": "Poland",
+    "kicker": "WARSAW, POLAND",
+    "cover": "assets/warsaw-01.webp",
+    "photos": [
+      {
+        "src": "assets/warsaw-01.webp",
+        "alt": "Old Town Market Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.24931,
+          21.01228
+        ]
+      },
+      {
+        "src": "assets/warsaw-02.webp",
+        "alt": "Holy Cross Church",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.23856,
+          21.01752
+        ]
+      },
+      {
+        "src": "assets/warsaw-03.webp",
+        "alt": "Krakowskie Przedmieście",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.24357,
+          21.01437
+        ]
+      },
+      {
+        "src": "assets/warsaw-04.webp",
+        "alt": "Castle Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.24666,
+          21.01388
+        ]
+      },
+      {
+        "src": "assets/warsaw-05.webp",
+        "alt": "Colorful houses on the Market Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.24966,
+          21.01226
+        ]
+      },
+      {
+        "src": "assets/warsaw-06.webp",
+        "alt": "Pierogi in the Old Town",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          52.24509,
+          21.01389
+        ]
+      },
+      {
+        "src": "assets/warsaw-07.webp",
+        "alt": "Nowy Świat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.23349,
+          21.01952
+        ]
+      },
+      {
+        "src": "assets/warsaw-08.webp",
+        "alt": "Copernicus statue and Staszic Palace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.2383,
+          21.01799
+        ]
+      },
+      {
+        "src": "assets/warsaw-09.webp",
+        "alt": "Castle Square and Sigismund's Column",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.24661,
+          21.01391
+        ]
+      },
+      {
+        "src": "assets/warsaw-10.webp",
+        "alt": "Royal Castle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.24684,
+          21.01378
+        ]
+      },
+      {
+        "src": "assets/warsaw-11.webp",
+        "alt": "The Barbican",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.2507,
+          21.00967
+        ]
+      },
+      {
+        "src": "assets/warsaw-12.webp",
+        "alt": "Tyskie in the Old Town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.24962,
+          21.01214
+        ]
+      },
+      {
+        "src": "assets/warsaw-13.webp",
+        "alt": "Lunch in Warsaw",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          52.24496,
+          21.0138
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/pl.svg",
+    "countryCode": "PL",
+    "updated": "2023-08-18"
   }
 ]
