@@ -9004,6 +9004,17 @@
         ]
       },
       {
+        "src": "assets/igl-2013-01.webp",
+        "alt": "Trucks and four-wheelers out on the ice",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2013 · On the ice",
+        "gps": [
+          43.367,
+          -95.13617
+        ]
+      },
+      {
         "src": "assets/madison-01.webp",
         "alt": "Waterskiing",
         "class": "wide",
@@ -9051,17 +9062,6 @@
         "class": "wide",
         "kind": "photo",
         "visit": "September 2009 · Waterskiing on West Okoboji"
-      },
-      {
-        "src": "assets/igl-2013-01.webp",
-        "alt": "Trucks and four-wheelers out on the ice",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "January 2013 · On the ice",
-        "gps": [
-          43.367,
-          -95.13617
-        ]
       },
       {
         "src": "assets/okoboji-sunset-01.webp",
