@@ -24309,5 +24309,700 @@
     "stateFlags": [
       "assets/flags/us-tx.webp"
     ]
+  },
+  {
+    "slug": "athens",
+    "name": "Athens & Piraeus",
+    "region": "Greece",
+    "kicker": "ATHENS, GREECE",
+    "cover": "assets/athens-2024-30.webp",
+    "photos": [
+      {
+        "src": "assets/athens-2024-01.webp",
+        "alt": "Evripidou Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98006,
+          23.72598
+        ]
+      },
+      {
+        "src": "assets/athens-2024-02.webp",
+        "alt": "Deli on Evripidou Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98013,
+          23.7258
+        ]
+      },
+      {
+        "src": "assets/athens-2024-03.webp",
+        "alt": "Spices and dried goods",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98016,
+          23.72584
+        ]
+      },
+      {
+        "src": "assets/athens-2024-04.webp",
+        "alt": "Lunch with friends",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.9807,
+          23.7254
+        ]
+      },
+      {
+        "src": "assets/athens-2024-05.webp",
+        "alt": "Olive stalls at the Central Market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.9805,
+          23.72613
+        ]
+      },
+      {
+        "src": "assets/athens-2024-06.webp",
+        "alt": "Olives by the kilo",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98046,
+          23.72617
+        ]
+      },
+      {
+        "src": "assets/athens-2024-07.webp",
+        "alt": "Varvakios Central Market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98046,
+          23.72691
+        ]
+      },
+      {
+        "src": "assets/athens-2024-08.webp",
+        "alt": "Cured meats and cheese",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97975,
+          23.72751
+        ]
+      },
+      {
+        "src": "assets/athens-2024-09.webp",
+        "alt": "Souvlaki and grilled pita",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97987,
+          23.72796
+        ]
+      },
+      {
+        "src": "assets/athens-2024-10.webp",
+        "alt": "Fish market hall",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.98046,
+          23.72765
+        ]
+      },
+      {
+        "src": "assets/athens-2024-11.webp",
+        "alt": "Metropolitan Cathedral of Athens",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.9753,
+          23.72944
+        ]
+      },
+      {
+        "src": "assets/athens-2024-12.webp",
+        "alt": "Ermou Street",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97623,
+          23.72975
+        ]
+      },
+      {
+        "src": "assets/athens-2024-13.webp",
+        "alt": "Hellenic Parliament from Syntagma Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97572,
+          23.73444
+        ]
+      },
+      {
+        "src": "assets/athens-2024-14.webp",
+        "alt": "Monastiraki Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97661,
+          23.72582
+        ]
+      },
+      {
+        "src": "assets/athens-2024-15.webp",
+        "alt": "Raising a glass",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97771,
+          23.72534
+        ]
+      },
+      {
+        "src": "assets/athens-2024-16.webp",
+        "alt": "Evzones at the Tomb of the Unknown Soldier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97528,
+          23.73611
+        ]
+      },
+      {
+        "src": "assets/athens-2024-17.webp",
+        "alt": "Changing of the guard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97578,
+          23.73555
+        ]
+      },
+      {
+        "src": "assets/athens-2024-18.webp",
+        "alt": "Panathenaic Stadium",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.96949,
+          23.74053
+        ]
+      },
+      {
+        "src": "assets/athens-2024-19.webp",
+        "alt": "Zappeion Hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97097,
+          23.73642
+        ]
+      },
+      {
+        "src": "assets/athens-2024-20.webp",
+        "alt": "Zappeion columns",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97117,
+          23.73654
+        ]
+      },
+      {
+        "src": "assets/athens-2024-21.webp",
+        "alt": "At Hadrian's Arch",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97012,
+          23.73222
+        ]
+      },
+      {
+        "src": "assets/athens-2024-22.webp",
+        "alt": "Temple of Olympian Zeus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97004,
+          23.73238
+        ]
+      },
+      {
+        "src": "assets/athens-2024-23.webp",
+        "alt": "Odeon of Herodes Atticus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97036,
+          23.7248
+        ]
+      },
+      {
+        "src": "assets/athens-2024-24.webp",
+        "alt": "Inside the Odeon of Herodes Atticus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97063,
+          23.72444
+        ]
+      },
+      {
+        "src": "assets/athens-2024-25.webp",
+        "alt": "Feeding the neighborhood cats",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97575,
+          23.71957
+        ]
+      },
+      {
+        "src": "assets/athens-2024-26.webp",
+        "alt": "Looking down on the Odeon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97028,
+          23.72397
+        ]
+      },
+      {
+        "src": "assets/athens-2024-27.webp",
+        "alt": "Crowds at the Propylaea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97157,
+          23.72477
+        ]
+      },
+      {
+        "src": "assets/athens-2024-28.webp",
+        "alt": "Parthenon under restoration",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97152,
+          23.726
+        ]
+      },
+      {
+        "src": "assets/athens-2024-29.webp",
+        "alt": "Caryatids of the Erechtheion",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97174,
+          23.72628
+        ]
+      },
+      {
+        "src": "assets/athens-2024-30.webp",
+        "alt": "Parthenon columns",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97178,
+          23.72707
+        ]
+      },
+      {
+        "src": "assets/athens-2024-31.webp",
+        "alt": "At the Parthenon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97193,
+          23.72739
+        ]
+      },
+      {
+        "src": "assets/athens-2024-32.webp",
+        "alt": "Mount Lycabettus from the Acropolis",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97181,
+          23.72771
+        ]
+      },
+      {
+        "src": "assets/athens-2024-33.webp",
+        "alt": "Greek flag over the Acropolis",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97183,
+          23.72801
+        ]
+      },
+      {
+        "src": "assets/athens-2024-34.webp",
+        "alt": "Theatre of Dionysus from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97116,
+          23.72717
+        ]
+      },
+      {
+        "src": "assets/athens-2024-35.webp",
+        "alt": "Parthenon up close",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97114,
+          23.72643
+        ]
+      },
+      {
+        "src": "assets/athens-2024-36.webp",
+        "alt": "The Acropolis from Areopagus Hill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97226,
+          23.72339
+        ]
+      },
+      {
+        "src": "assets/athens-2024-37.webp",
+        "alt": "Ancient Agora from Areopagus Hill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97254,
+          23.72323
+        ]
+      },
+      {
+        "src": "assets/athens-2024-38.webp",
+        "alt": "Roman Agora and the Tower of the Winds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97454,
+          23.72682
+        ]
+      },
+      {
+        "src": "assets/athens-2024-39.webp",
+        "alt": "Lane in Plaka",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97488,
+          23.72528
+        ]
+      },
+      {
+        "src": "assets/athens-2024-40.webp",
+        "alt": "Mikrolimano harbor, Piraeus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.93853,
+          23.66126
+        ]
+      },
+      {
+        "src": "assets/athens-2024-41.webp",
+        "alt": "A friendly cat in Piraeus",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.93567,
+          23.6596
+        ]
+      },
+      {
+        "src": "assets/athens-2024-42.webp",
+        "alt": "Saronic Gulf from Piraeus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.93571,
+          23.65966
+        ]
+      },
+      {
+        "src": "assets/athens-2024-43.webp",
+        "alt": "Piraeus waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.93874,
+          23.66104
+        ]
+      },
+      {
+        "src": "assets/athens-2024-44.webp",
+        "alt": "Sandal workshop",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97679,
+          23.72225
+        ]
+      },
+      {
+        "src": "assets/athens-2024-45.webp",
+        "alt": "Ancient Agora below the Acropolis",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97544,
+          23.72343
+        ]
+      },
+      {
+        "src": "assets/athens-2024-46.webp",
+        "alt": "Church of the Holy Apostles",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97483,
+          23.72264
+        ]
+      },
+      {
+        "src": "assets/athens-2024-47.webp",
+        "alt": "Temple of Hephaestus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97487,
+          23.72249
+        ]
+      },
+      {
+        "src": "assets/athens-2024-48.webp",
+        "alt": "Tortoise in the Ancient Agora",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97535,
+          23.72325
+        ]
+      },
+      {
+        "src": "assets/athens-2024-49.webp",
+        "alt": "Stoa of Attalos",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2024",
+        "gps": [
+          37.97482,
+          23.72412
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/gr.svg",
+    "countryCode": "GR",
+    "updated": "2024-04-14"
+  },
+  {
+    "slug": "munich",
+    "name": "Munich",
+    "region": "Germany",
+    "kicker": "MUNICH, GERMANY",
+    "cover": "assets/munich-2024-06.webp",
+    "photos": [
+      {
+        "src": "assets/munich-2024-01.webp",
+        "alt": "New Town Hall on Marienplatz",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13711,
+          11.57597
+        ]
+      },
+      {
+        "src": "assets/munich-2024-02.webp",
+        "alt": "New Town Hall tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13716,
+          11.57464
+        ]
+      },
+      {
+        "src": "assets/munich-2024-03.webp",
+        "alt": "Oktoberfest crowds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13477,
+          11.55239
+        ]
+      },
+      {
+        "src": "assets/munich-2024-04.webp",
+        "alt": "On the Oktoberfest grounds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13139,
+          11.55066
+        ]
+      },
+      {
+        "src": "assets/munich-2024-05.webp",
+        "alt": "Liters of beer",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13191,
+          11.55013
+        ]
+      },
+      {
+        "src": "assets/munich-2024-06.webp",
+        "alt": "Inside a beer tent",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13189,
+          11.55013
+        ]
+      },
+      {
+        "src": "assets/munich-2024-07.webp",
+        "alt": "Beer delivery",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.13191,
+          11.55013
+        ]
+      },
+      {
+        "src": "assets/munich-2024-08.webp",
+        "alt": "Beer tent at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          48.132,
+          11.55039
+        ]
+      },
+      {
+        "src": "assets/munich-2023-01.webp",
+        "alt": "New Town Hall on Marienplatz",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          48.13701,
+          11.5757
+        ]
+      },
+      {
+        "src": "assets/munich-2023-02.webp",
+        "alt": "A liter at the Hofbräuhaus",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          48.13746,
+          11.58002
+        ]
+      },
+      {
+        "src": "assets/munich-2023-03.webp",
+        "alt": "Bavarian lunch",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          48.13755,
+          11.57981
+        ]
+      },
+      {
+        "src": "assets/munich-2023-04.webp",
+        "alt": "Marienplatz",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          48.13707,
+          11.57627
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/de.svg",
+    "countryCode": "DE",
+    "updated": "2024-09-22"
   }
 ]
