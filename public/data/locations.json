@@ -14389,6 +14389,62 @@
         ]
       },
       {
+        "src": "assets/shanghai-2014-01.webp",
+        "alt": "Old street below Shanghai Tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-02.webp",
+        "alt": "Temple courtyard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-03.webp",
+        "alt": "Market vegetables",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-04.webp",
+        "alt": "Morning wet market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-05.webp",
+        "alt": "Oriental Pearl Tower",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-06.webp",
+        "alt": "Huangpu River panorama",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-07.webp",
+        "alt": "Lujiazui skyline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/shanghai-2014-08.webp",
+        "alt": "The Bund from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
         "src": "assets/shanghai-old-01.webp",
         "alt": "Maglev at 301 km/h",
         "class": "wide",
@@ -16604,6 +16660,172 @@
     "flagAsset": "assets/flags/cn.png",
     "countryCode": "CN",
     "updated": "2025-04-18"
+  },
+  {
+    "slug": "beijing",
+    "name": "Beijing",
+    "region": "China",
+    "kicker": "GREAT WALL & FORBIDDEN CITY",
+    "cover": "assets/beijing-01.webp",
+    "photos": [
+      {
+        "src": "assets/beijing-01.webp",
+        "alt": "Great Wall in the mist",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-02.webp",
+        "alt": "On the Great Wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-03.webp",
+        "alt": "Watchtower on the wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-04.webp",
+        "alt": "Climbing the Great Wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-05.webp",
+        "alt": "The wall over the ridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-06.webp",
+        "alt": "Great Wall stairs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-07.webp",
+        "alt": "Tiananmen Gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-08.webp",
+        "alt": "In front of Tiananmen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-09.webp",
+        "alt": "Tiananmen Square flower basket",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-10.webp",
+        "alt": "Meridian Gate, Forbidden City",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-11.webp",
+        "alt": "Gate of Supreme Harmony",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-12.webp",
+        "alt": "Forbidden City courtyard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-13.webp",
+        "alt": "Imperial Garden rockery",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-14.webp",
+        "alt": "Forbidden City lanes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-15.webp",
+        "alt": "Tiananmen at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-16.webp",
+        "alt": "Temple of Heaven",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-17.webp",
+        "alt": "Hall of Prayer for Good Harvests",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-18.webp",
+        "alt": "Inside the Hall of Prayer",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-19.webp",
+        "alt": "Temple of Heaven grounds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-20.webp",
+        "alt": "Beijing Railway Station",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-21.webp",
+        "alt": "Dumplings and a beer",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/beijing-22.webp",
+        "alt": "Beijing Railway Station at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      }
+    ],
+    "flagAsset": "assets/flags/cn.png",
+    "countryCode": "CN",
+    "updated": "2014-09-29"
   },
   {
     "slug": "yellowstone",
