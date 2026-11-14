@@ -1845,35 +1845,117 @@
     "name": "Baja",
     "region": "Mexico",
     "kicker": "BAJA",
-    "cover": "assets/baja-01.webp",
+    "cover": "assets/baja-2012-01.webp",
     "photos": [
+      {
+        "src": "assets/baja-2012-01.webp",
+        "alt": "Palms over the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.98033,
+          -109.7645
+        ]
+      },
+      {
+        "src": "assets/baja-2012-02.webp",
+        "alt": "Empty beach and rocky point",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.98017,
+          -109.76317
+        ]
+      },
+      {
+        "src": "assets/baja-2012-03.webp",
+        "alt": "Resort above the sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.98017,
+          -109.76317
+        ]
+      },
+      {
+        "src": "assets/baja-2012-04.webp",
+        "alt": "Pool looking out to sea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.981,
+          -109.76417
+        ]
+      },
+      {
+        "src": "assets/baja-2012-05.webp",
+        "alt": "Cove below the resort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.9815,
+          -109.76317
+        ]
+      },
+      {
+        "src": "assets/baja-2012-06.webp",
+        "alt": "Rock jetty and the hills",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.97833,
+          -109.7635
+        ]
+      },
+      {
+        "src": "assets/baja-2012-07.webp",
+        "alt": "Beach afternoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2012 · Los Cabos",
+        "gps": [
+          22.97833,
+          -109.7635
+        ]
+      },
       {
         "src": "assets/baja-01.webp",
         "alt": "Baja travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/baja-02.webp",
         "alt": "Baja travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/baja-03.webp",
         "alt": "Baja travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/baja-04.webp",
         "alt": "Baja travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/mx.png",
-    "countryCode": "MX"
+    "countryCode": "MX",
+    "updated": "2012-11-27"
   },
   {
     "slug": "bali",
@@ -8682,6 +8764,17 @@
         "visit": "September 2025 · Foiling"
       },
       {
+        "src": "assets/igl-2013-01.webp",
+        "alt": "Trucks and four-wheelers out on the ice",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2013 · On the ice",
+        "gps": [
+          43.367,
+          -95.13617
+        ]
+      },
+      {
         "src": "assets/okoboji-sunset-01.webp",
         "alt": "Sunset over West Okoboji Lake",
         "class": "wide",
@@ -10886,6 +10979,39 @@
         "gps": [
           41.98061,
           -87.90684
+        ]
+      },
+      {
+        "src": "assets/miami-2013-01.webp",
+        "alt": "Kiting off Miami Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2013 · Kiteboarding",
+        "gps": [
+          25.8035,
+          -80.12367
+        ]
+      },
+      {
+        "src": "assets/miami-2013-02.webp",
+        "alt": "Riding the shorebreak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2013 · Kiteboarding",
+        "gps": [
+          25.8035,
+          -80.12367
+        ]
+      },
+      {
+        "src": "assets/miami-2013-03.webp",
+        "alt": "Miami Beach and the condos",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2013 · Kiteboarding",
+        "gps": [
+          25.80367,
+          -80.12417
         ]
       }
     ],
