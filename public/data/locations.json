@@ -7020,6 +7020,337 @@
     "updated": "2019-04-09"
   },
   {
+    "slug": "hong-kong",
+    "name": "Hong Kong",
+    "region": "Hong Kong",
+    "kicker": "HONG KONG",
+    "cover": "assets/hong-kong-01.webp",
+    "photos": [
+      {
+        "src": "assets/hong-kong-2026-27.webp",
+        "alt": "Neon street at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026",
+        "gps": [
+          22.28141,
+          114.15523
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2026-28.webp",
+        "alt": "Lan Kwai Fong",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026",
+        "gps": [
+          22.28117,
+          114.15547
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2026-29.webp",
+        "alt": "Riding the tram",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026",
+        "gps": [
+          22.27977,
+          114.15321
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-20.webp",
+        "alt": "Shek O from Dragon's Back",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.23531,
+          114.2435
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-21.webp",
+        "alt": "At the Shek O Peak marker",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.23578,
+          114.24374
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-22.webp",
+        "alt": "Bays and islands from the ridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.24006,
+          114.24153
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-23.webp",
+        "alt": "Hiking the Dragon's Back trail",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.23498,
+          114.24372
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-24.webp",
+        "alt": "Big Wave Bay below",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.23295,
+          114.24345
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-25.webp",
+        "alt": "Bamboo forest trail",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.22746,
+          114.23981
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2018-26.webp",
+        "alt": "Noodles after the hike",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2018 · Dragon's Back hike",
+        "gps": [
+          22.28457,
+          114.15809
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2017-19.webp",
+        "alt": "Sunset over the bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2017",
+        "gps": [
+          22.22531,
+          114.19815
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2016-16.webp",
+        "alt": "Sunrise over the city",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2016",
+        "gps": [
+          22.28352,
+          114.14767
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2016-17.webp",
+        "alt": "Gweilo beer",
+        "class": "",
+        "kind": "photo",
+        "visit": "May 2016",
+        "gps": [
+          22.28238,
+          114.15299
+        ]
+      },
+      {
+        "src": "assets/hong-kong-2016-18.webp",
+        "alt": "Eggs Benedict brunch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2016",
+        "gps": [
+          22.28126,
+          114.12703
+        ]
+      },
+      {
+        "src": "assets/hong-kong-01.webp",
+        "alt": "Hong Kong from Victoria Peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.27146,
+          114.14987
+        ]
+      },
+      {
+        "src": "assets/hong-kong-02.webp",
+        "alt": "Stilt houses at Tai O",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.20563,
+          114.1312
+        ]
+      },
+      {
+        "src": "assets/hong-kong-03.webp",
+        "alt": "Skyline from the harbour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.28858,
+          114.12655
+        ]
+      },
+      {
+        "src": "assets/hong-kong-04.webp",
+        "alt": "Sunset from the Peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.27058,
+          114.1494
+        ]
+      },
+      {
+        "src": "assets/hong-kong-05.webp",
+        "alt": "Repulse Bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.2289,
+          114.25182
+        ]
+      },
+      {
+        "src": "assets/hong-kong-06.webp",
+        "alt": "Happy Valley racecourse at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.27395,
+          114.18061
+        ]
+      },
+      {
+        "src": "assets/hong-kong-07.webp",
+        "alt": "Horses on the turf",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.27361,
+          114.18053
+        ]
+      },
+      {
+        "src": "assets/hong-kong-08.webp",
+        "alt": "Ngong Ping cable car",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.29153,
+          113.93233
+        ]
+      },
+      {
+        "src": "assets/hong-kong-09.webp",
+        "alt": "In the cable car",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.28131,
+          113.92111
+        ]
+      },
+      {
+        "src": "assets/hong-kong-10.webp",
+        "alt": "Ngong Ping gateway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.25563,
+          113.90443
+        ]
+      },
+      {
+        "src": "assets/hong-kong-11.webp",
+        "alt": "Steps up to the Big Buddha",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.25457,
+          113.90556
+        ]
+      },
+      {
+        "src": "assets/hong-kong-12.webp",
+        "alt": "Tian Tan Buddha",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.25385,
+          113.90494
+        ]
+      },
+      {
+        "src": "assets/hong-kong-13.webp",
+        "alt": "Selfie at the Big Buddha",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.25417,
+          113.90491
+        ]
+      },
+      {
+        "src": "assets/hong-kong-14.webp",
+        "alt": "Offering statues below the Buddha",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.25393,
+          113.90515
+        ]
+      },
+      {
+        "src": "assets/hong-kong-15.webp",
+        "alt": "Night out with friends",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.22075,
+          114.21271
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/hk.svg",
+    "countryCode": "HK",
+    "updated": "2026-04-24"
+  },
+  {
     "slug": "hoover-dam",
     "name": "Hoover Dam",
     "region": "United States",
@@ -8636,8 +8967,8 @@
         "kind": "photo",
         "visit": "December 2016",
         "gps": [
-          39.24759,
-          -119.92228
+          22.29153,
+          113.93233
         ]
       },
       {
