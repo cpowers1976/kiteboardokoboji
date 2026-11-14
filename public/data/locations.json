@@ -14188,37 +14188,225 @@
     "photos": [
       {
         "src": "assets/moscow-01.webp",
-        "alt": "Moscow travel archive",
+        "alt": "Tsar Cannon in the Kremlin",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2008"
       },
       {
         "src": "assets/moscow-02.webp",
-        "alt": "Moscow travel archive",
+        "alt": "Lenin's Mausoleum and the Spasskaya Tower",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2008"
       },
       {
         "src": "assets/moscow-03.webp",
-        "alt": "Moscow travel archive",
+        "alt": "Rail yard outside the station",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2008"
       },
       {
         "src": "assets/moscow-04.webp",
-        "alt": "Moscow travel archive",
+        "alt": "Red Square at dusk",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2008"
       },
       {
         "src": "assets/moscow-05.webp",
-        "alt": "Moscow travel archive",
+        "alt": "Inside GUM",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-01.webp",
+        "alt": "Aeroflot jets at the airport",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-02.webp",
+        "alt": "St. Basil's Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-03.webp",
+        "alt": "Red Square on a gray morning",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-04.webp",
+        "alt": "Kremlin wall along Red Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-05.webp",
+        "alt": "GUM and the State Historical Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-06.webp",
+        "alt": "State Historical Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-07.webp",
+        "alt": "Domes of St. Basil's",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-08.webp",
+        "alt": "At St. Basil's",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-09.webp",
+        "alt": "Kremlin corner tower",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-10.webp",
+        "alt": "Looking along the river toward Red Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-11.webp",
+        "alt": "Kremlin from the Moskva River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-12.webp",
+        "alt": "Peter the Great monument",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-13.webp",
+        "alt": "Gorky Park gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-14.webp",
+        "alt": "Riding the Metro escalator",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-15.webp",
+        "alt": "Metro platform",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-16.webp",
+        "alt": "Harness racing at the Hippodrome",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-17.webp",
+        "alt": "Ceremony on Cathedral Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-18.webp",
+        "alt": "Tsar Bell",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-19.webp",
+        "alt": "Dormition Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-20.webp",
+        "alt": "Palace buildings inside the Kremlin",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-21.webp",
+        "alt": "Bolshoi Theatre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-22.webp",
+        "alt": "Hotel Metropol",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-23.webp",
+        "alt": "Red Square in an ushanka",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-24.webp",
+        "alt": "Trying on a police cap",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-25.webp",
+        "alt": "Train at the station",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/moscow-2008-26.webp",
+        "alt": "Leaving from the airport",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
       }
     ],
     "flagAsset": "assets/flags/ru.png",
-    "countryCode": "RU"
+    "countryCode": "RU",
+    "updated": "2008-04-21"
   },
   {
     "slug": "mui-ne",
