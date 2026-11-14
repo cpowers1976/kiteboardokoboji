@@ -12158,6 +12158,218 @@
           39.24757,
           -119.9224
         ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-01.webp",
+        "alt": "Lake Tahoe from the plane on the way in",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014"
+      },
+      {
+        "src": "assets/lake-tahoe-2014-02.webp",
+        "alt": "Beach in Incline Village at golden hour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.2389,
+          -119.94679
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-03.webp",
+        "alt": "Sandbar along the shore at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23877,
+          -119.9469
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-04.webp",
+        "alt": "Sun setting over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23897,
+          -119.94686
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-05.webp",
+        "alt": "Dusk on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23898,
+          -119.94684
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-06.webp",
+        "alt": "Lake view from the slopes at Diamond Peak",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.25803,
+          -119.90186
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-07.webp",
+        "alt": "Groomed run above the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.25795,
+          -119.90217
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-08.webp",
+        "alt": "Deck view over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.24739,
+          -119.92228
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-09.webp",
+        "alt": "Forest and peaks above Incline Village",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.24908,
+          -119.92239
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-10.webp",
+        "alt": "Clear water below the east shore cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20956,
+          -119.94314
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-11.webp",
+        "alt": "Pine above the blue water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20547,
+          -119.9302
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-12.webp",
+        "alt": "Boulder cove near Sand Harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20451,
+          -119.93086
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-13.webp",
+        "alt": "Granite boulders in clear water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20441,
+          -119.93124
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-14.webp",
+        "alt": "Turquoise shallows near Sand Harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20428,
+          -119.93154
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-15.webp",
+        "alt": "Panorama of the boulder shoreline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20441,
+          -119.93172
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-16.webp",
+        "alt": "Boulders and clear shallows",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.20559,
+          -119.93483
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-17.webp",
+        "alt": "Afternoon reflections on the north shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23776,
+          -119.94452
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-18.webp",
+        "alt": "Mountain reflected in calm water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23902,
+          -119.94733
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-19.webp",
+        "alt": "Quiet beach in late light",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2014",
+        "gps": [
+          39.23901,
+          -119.94733
+        ]
+      },
+      {
+        "src": "assets/lake-tahoe-2014-20.webp",
+        "alt": "Lake Tahoe from the flight home",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2014"
       }
     ],
     "flagAsset": "assets/flags/us.png",
