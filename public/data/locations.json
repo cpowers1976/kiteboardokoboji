@@ -9382,6 +9382,116 @@
     "cover": "assets/india-old-46.webp",
     "photos": [
       {
+        "src": "assets/india-tn-2021-01.webp",
+        "alt": "Village temple being repainted",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2021 · Tamil Nadu countryside",
+        "gps": [
+          13.22653,
+          79.6004
+        ]
+      },
+      {
+        "src": "assets/india-tn-2021-02.webp",
+        "alt": "Temple tower in scaffolding",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2021 · Tamil Nadu countryside",
+        "gps": [
+          13.22581,
+          79.60004
+        ]
+      },
+      {
+        "src": "assets/india-tn-2021-03.webp",
+        "alt": "Village shrine",
+        "class": "",
+        "kind": "photo",
+        "visit": "July 2021 · Tamil Nadu countryside",
+        "gps": [
+          13.22602,
+          79.60024
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-01.webp",
+        "alt": "Rice paddies",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.19322,
+          79.64317
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-02.webp",
+        "alt": "Village kids on the lane",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.20167,
+          79.64925
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-03.webp",
+        "alt": "Village road",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.20179,
+          79.64962
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-04.webp",
+        "alt": "Dosa on a banana leaf",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.19518,
+          79.64634
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-05.webp",
+        "alt": "South Indian lunch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.19508,
+          79.64651
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-06.webp",
+        "alt": "Village children",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.20161,
+          79.65226
+        ]
+      },
+      {
+        "src": "assets/india-tn-2020-07.webp",
+        "alt": "Selfie with the village kids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020 · Tamil Nadu countryside",
+        "gps": [
+          13.20161,
+          79.65226
+        ]
+      },
+      {
         "src": "assets/india-more-09.webp",
         "alt": "Sheep grazing in Gujarat",
         "class": "wide",
@@ -9437,7 +9547,7 @@
     ],
     "flagAsset": "assets/flags/in.png",
     "countryCode": "IN",
-    "updated": "2013-09-01",
+    "updated": "2021-07-16",
     "map": [
       20.6,
       79
@@ -9840,8 +9950,415 @@
     "flagAsset": "assets/flags/in.png",
     "countryCode": "IN",
     "parent": "india",
-    "updated": "2014-08-01",
+    "updated": "2024-12-08",
     "photos": [
+      {
+        "src": "assets/mumbai-2024-08.webp",
+        "alt": "Kala Ghoda street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2024",
+        "gps": [
+          18.93451,
+          72.83282
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-09.webp",
+        "alt": "Evening street in Colaba",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2024",
+        "gps": [
+          18.92286,
+          72.8322
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-01.webp",
+        "alt": "Hotel pool in Juhu",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          19.10172,
+          72.82522
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-02.webp",
+        "alt": "On Juhu Beach",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          19.10181,
+          72.82476
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-03.webp",
+        "alt": "Juhu Beach crowds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          19.09845,
+          72.826
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-04.webp",
+        "alt": "Picnic on Juhu Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          19.09673,
+          72.82612
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-05.webp",
+        "alt": "Market street near Juhu",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          13.11577,
+          80.1051
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-06.webp",
+        "alt": "Busy market road",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          13.11639,
+          80.10442
+        ]
+      },
+      {
+        "src": "assets/mumbai-2024-07.webp",
+        "alt": "Market stop with a friendly cow",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2024",
+        "gps": [
+          13.11631,
+          80.1045
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-12.webp",
+        "alt": "Goa Portuguesa restaurant",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2023",
+        "gps": [
+          19.03196,
+          72.84024
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-01.webp",
+        "alt": "Local train platform",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.94133,
+          72.83547
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-02.webp",
+        "alt": "Chhatrapati Shivaji Maharaj Terminus concourse",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.94049,
+          72.83546
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-03.webp",
+        "alt": "Chhatrapati Shivaji Maharaj Terminus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.93987,
+          72.83501
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-04.webp",
+        "alt": "The terminus up close",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.93987,
+          72.835
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-05.webp",
+        "alt": "Street in the Fort district",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.93731,
+          72.83572
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-06.webp",
+        "alt": "Fort district traffic",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92821,
+          72.83146
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-07.webp",
+        "alt": "Colonial-era buildings in Colaba",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92271,
+          72.83298
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-08.webp",
+        "alt": "Snack stall in Colaba",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92293,
+          72.83345
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-09.webp",
+        "alt": "At the Taj Mahal Palace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92195,
+          72.83369
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-10.webp",
+        "alt": "Gateway of India and the Taj",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92282,
+          72.83441
+        ]
+      },
+      {
+        "src": "assets/mumbai-2023-11.webp",
+        "alt": "Gateway of India",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          18.92281,
+          72.83443
+        ]
+      },
+      {
+        "src": "assets/mumbai-2020-01.webp",
+        "alt": "Monkey in Sanjay Gandhi National Park",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2020",
+        "gps": [
+          19.22892,
+          72.87032
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-12.webp",
+        "alt": "Pani puri counter in Bandra",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          19.05574,
+          72.83347
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-13.webp",
+        "alt": "Filling pani puri",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          19.05588,
+          72.83333
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-14.webp",
+        "alt": "Fresh puris",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          19.05804,
+          72.83469
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-15.webp",
+        "alt": "Copper pots of chaat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2018",
+        "gps": [
+          19.05581,
+          72.83327
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-01.webp",
+        "alt": "Ganesh pandal at GSB Seva Mandal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.02961,
+          72.85989
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-02.webp",
+        "alt": "Ganesh idol at GSB Seva Mandal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.02961,
+          72.85989
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-03.webp",
+        "alt": "Marigold-decked shrine",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.02865,
+          72.85937
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-04.webp",
+        "alt": "Ganesh shrine in marigolds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.02865,
+          72.85937
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-05.webp",
+        "alt": "Blessed at the pandal",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.02821,
+          72.85943
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-06.webp",
+        "alt": "Decorated Ganesh idol",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.01404,
+          72.85339
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-07.webp",
+        "alt": "Idols on Juhu Beach after the immersion",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.11486,
+          72.82166
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-08.webp",
+        "alt": "Juhu Beach in the morning",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.11385,
+          72.82194
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-09.webp",
+        "alt": "Volunteers on Juhu Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.10797,
+          72.82332
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-10.webp",
+        "alt": "Cleaning up after the immersions",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.10588,
+          72.82404
+        ]
+      },
+      {
+        "src": "assets/mumbai-2018-11.webp",
+        "alt": "Auto-rickshaw ride",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2018 · Ganesh Chaturthi",
+        "gps": [
+          19.09772,
+          72.82675
+        ]
+      },
       {
         "src": "assets/india-old-20.webp",
         "alt": "Mumbai coast from above",
@@ -10161,8 +10678,338 @@
     "flagAsset": "assets/flags/in.png",
     "countryCode": "IN",
     "parent": "india",
-    "updated": "2013-09-01",
+    "updated": "2020-02-08",
     "photos": [
+      {
+        "src": "assets/mahabalipuram-2020-01.webp",
+        "alt": "Beach restaurant on the East Coast Road",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.79828,
+          80.24928
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-02.webp",
+        "alt": "Resort garden by the sea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.79813,
+          80.24899
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-03.webp",
+        "alt": "Beach on the East Coast Road",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.79817,
+          80.24941
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-04.webp",
+        "alt": "Resort pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.7979,
+          80.24861
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-05.webp",
+        "alt": "Bay of Bengal at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.74361,
+          80.24241
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-06.webp",
+        "alt": "Sunset over the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.74381,
+          80.23988
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-07.webp",
+        "alt": "Shore Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61676,
+          80.19928
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-08.webp",
+        "alt": "Shore Temple and its ruins",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.6162,
+          80.19925
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-09.webp",
+        "alt": "Shore Temple up close",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61706,
+          80.19871
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-10.webp",
+        "alt": "Krishna Mandapam",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.6177,
+          80.19278
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-11.webp",
+        "alt": "Carvings at Arjuna's Penance",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61786,
+          80.19282
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-12.webp",
+        "alt": "Rock-cut cave temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61811,
+          80.1922
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-13.webp",
+        "alt": "Krishna's Butterball",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61896,
+          80.19224
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-14.webp",
+        "alt": "Boulders on the hill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61949,
+          80.19248
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-15.webp",
+        "alt": "Krishna's Butterball on the slope",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.6191,
+          80.19269
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-16.webp",
+        "alt": "Sthalasayana Perumal Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61739,
+          80.19353
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-17.webp",
+        "alt": "Painted temple ceiling",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61709,
+          80.19379
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-18.webp",
+        "alt": "Temple hall ceiling",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61741,
+          80.19334
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-19.webp",
+        "alt": "Stone carvings for sale",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61831,
+          80.19412
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-20.webp",
+        "alt": "Temple procession",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61985,
+          80.19434
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-21.webp",
+        "alt": "Procession on a tractor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61982,
+          80.19436
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-22.webp",
+        "alt": "Fishing boats on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61992,
+          80.19871
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-23.webp",
+        "alt": "Fishing village beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.61986,
+          80.19893
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-24.webp",
+        "alt": "Colorful houses",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.62073,
+          80.19801
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-25.webp",
+        "alt": "Village church",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.74833,
+          80.24029
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2020-26.webp",
+        "alt": "Church bell tower",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2020",
+        "gps": [
+          12.74841,
+          80.2402
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2018-01.webp",
+        "alt": "Madras Crocodile Bank",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2018 · Madras Crocodile Bank",
+        "gps": [
+          12.74342,
+          80.23911
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2018-02.webp",
+        "alt": "Crocodiles by the pond",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2018 · Madras Crocodile Bank",
+        "gps": [
+          12.74314,
+          80.23956
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2018-03.webp",
+        "alt": "Crocodile by the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2018 · Madras Crocodile Bank",
+        "gps": [
+          12.7428,
+          80.24015
+        ]
+      },
+      {
+        "src": "assets/mahabalipuram-2018-04.webp",
+        "alt": "Iguana",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2018 · Madras Crocodile Bank",
+        "gps": [
+          12.74298,
+          80.2394
+        ]
+      },
       {
         "src": "assets/india-old-32.webp",
         "alt": "Shore Temple, Mahabalipuram",
@@ -26279,5 +27126,216 @@
     "flagAsset": "assets/flags/mm.svg",
     "countryCode": "MM",
     "updated": "2017-01-22"
+  },
+  {
+    "slug": "hyderabad",
+    "name": "Hyderabad",
+    "region": "Telangana, India",
+    "kicker": "INDIA",
+    "cover": "assets/hyderabad-2023-07.webp",
+    "photos": [
+      {
+        "src": "assets/hyderabad-2023-01.webp",
+        "alt": "Street near the Charminar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.35905,
+          78.47418
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-02.webp",
+        "alt": "Minarets above the market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.35907,
+          78.47416
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-03.webp",
+        "alt": "Laad Bazaar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.35987,
+          78.47431
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-04.webp",
+        "alt": "Nizamia hospital building",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36064,
+          78.47442
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-05.webp",
+        "alt": "Market below the old hospital",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36067,
+          78.47442
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-06.webp",
+        "alt": "At the Charminar",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36077,
+          78.47447
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-07.webp",
+        "alt": "Charminar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36133,
+          78.4744
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-08.webp",
+        "alt": "Charminar above the stalls",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36118,
+          78.47436
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-09.webp",
+        "alt": "Crowds near the Charminar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36116,
+          78.47436
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-10.webp",
+        "alt": "Bakery near the Charminar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36138,
+          78.47465
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-11.webp",
+        "alt": "Packed sweet shop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36151,
+          78.4747
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-12.webp",
+        "alt": "Old city street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36166,
+          78.47415
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-13.webp",
+        "alt": "Lane toward the Charminar",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36213,
+          78.47211
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-14.webp",
+        "alt": "Old city arch and market carts",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36199,
+          78.47224
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-15.webp",
+        "alt": "Street toward the Charminar",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.36193,
+          78.47303
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-16.webp",
+        "alt": "Auto-rickshaw at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.42176,
+          78.48479
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-17.webp",
+        "alt": "Hyderabadi biryani",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.41227,
+          78.46539
+        ]
+      },
+      {
+        "src": "assets/hyderabad-2023-18.webp",
+        "alt": "Hussain Sagar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2023",
+        "gps": [
+          17.42063,
+          78.4837
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "updated": "2023-06-25",
+    "parent": "india"
   }
 ]
