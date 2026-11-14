@@ -5645,38 +5645,176 @@
     "cover": "assets/china-01.webp",
     "photos": [
       {
+        "src": "assets/china-old-01.webp",
+        "alt": "Sun Yat-sen Mausoleum steps",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          32.05517,
+          118.84567
+        ]
+      },
+      {
+        "src": "assets/china-old-02.webp",
+        "alt": "Nanjing Massacre Memorial",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          32.03717,
+          118.73983
+        ]
+      },
+      {
+        "src": "assets/china-old-03.webp",
+        "alt": "Memorial sculpture",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          32.037,
+          118.73967
+        ]
+      },
+      {
+        "src": "assets/china-old-04.webp",
+        "alt": "Memorial statue",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          32.03717,
+          118.73517
+        ]
+      },
+      {
+        "src": "assets/china-old-05.webp",
+        "alt": "CRH high-speed train",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          31.25117,
+          121.45267
+        ]
+      },
+      {
+        "src": "assets/china-old-06.webp",
+        "alt": "Boarding the train in Nanjing",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          32.09217,
+          118.78183
+        ]
+      },
+      {
+        "src": "assets/china-old-07.webp",
+        "alt": "Fish tanks at dinner",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          28.57017,
+          112.33567
+        ]
+      },
+      {
+        "src": "assets/china-old-08.webp",
+        "alt": "Banquet dish",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011 · Nanjing & the high-speed train",
+        "gps": [
+          28.56833,
+          112.34333
+        ]
+      },
+      {
+        "src": "assets/china-old-09.webp",
+        "alt": "Changsha at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011 · Changsha & Jiangsu",
+        "gps": [
+          28.56133,
+          112.3475
+        ]
+      },
+      {
+        "src": "assets/china-old-10.webp",
+        "alt": "Hot pot",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011 · Changsha & Jiangsu",
+        "gps": [
+          32.0175,
+          120.2635
+        ]
+      },
+      {
+        "src": "assets/china-old-11.webp",
+        "alt": "Sichuan-style fish",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011 · Changsha & Jiangsu",
+        "gps": [
+          31.4995,
+          121.1305
+        ]
+      },
+      {
+        "src": "assets/china-old-12.webp",
+        "alt": "Guinea fowl",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011 · Changsha & Jiangsu",
+        "gps": [
+          32.006,
+          120.2605
+        ]
+      },
+      {
         "src": "assets/china-01.webp",
         "alt": "China travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/china-02.webp",
         "alt": "China travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/china-03.webp",
         "alt": "China travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/china-04.webp",
         "alt": "China travel archive",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/china-05.webp",
         "alt": "China travel archive",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/cn.png",
-    "countryCode": "CN"
+    "countryCode": "CN",
+    "updated": "2011-09-21"
   },
   {
     "slug": "chongqing",
@@ -14249,6 +14387,134 @@
           31.22941,
           121.48671
         ]
+      },
+      {
+        "src": "assets/shanghai-old-01.webp",
+        "alt": "Maglev at 301 km/h",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011",
+        "gps": [
+          31.06867,
+          121.694
+        ]
+      },
+      {
+        "src": "assets/shanghai-old-02.webp",
+        "alt": "Maglev platform",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2011",
+        "gps": [
+          31.20483,
+          121.55383
+        ]
+      },
+      {
+        "src": "assets/shanghai-old-03.webp",
+        "alt": "Jing'an Temple",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2011",
+        "gps": [
+          31.223,
+          121.44067
+        ]
+      },
+      {
+        "src": "assets/shanghai-old-04.webp",
+        "alt": "Huangpu River from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2011",
+        "gps": [
+          31.191,
+          121.47567
+        ]
+      },
+      {
+        "src": "assets/shanghai-old-05.webp",
+        "alt": "On the Bund with the Pearl Tower behind",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-06.webp",
+        "alt": "The Bund",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-07.webp",
+        "alt": "Customs House on the Bund",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-08.webp",
+        "alt": "Oriental Pearl Tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-09.webp",
+        "alt": "Lujiazui towers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-10.webp",
+        "alt": "Huangpu River from the tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-11.webp",
+        "alt": "Glass floor",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-12.webp",
+        "alt": "Lujiazui pedestrian circle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-13.webp",
+        "alt": "Old City gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-14.webp",
+        "alt": "Market stalls",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-15.webp",
+        "alt": "Yu Garden bazaar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
+      },
+      {
+        "src": "assets/shanghai-old-16.webp",
+        "alt": "Yuyuan old street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2011"
       }
     ],
     "flagAsset": "assets/flags/cn.png",
