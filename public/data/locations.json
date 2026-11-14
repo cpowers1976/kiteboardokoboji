@@ -25547,5 +25547,737 @@
     "flagAsset": "assets/flags/es.svg",
     "countryCode": "ES",
     "updated": "2018-07-01"
+  },
+  {
+    "slug": "kalpitiya",
+    "name": "Kalpitiya",
+    "region": "Sri Lanka",
+    "kicker": "KALPITIYA, SRI LANKA",
+    "cover": "assets/kalpitiya-2017-15.webp",
+    "photos": [
+      {
+        "src": "assets/kalpitiya-2017-01.webp",
+        "alt": "Kalpitiya beach on a gray morning",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22149,
+          79.71937
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-02.webp",
+        "alt": "Fishing boats on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22109,
+          79.71901
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-03.webp",
+        "alt": "Where the lagoon meets the sea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.21795,
+          79.71535
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-04.webp",
+        "alt": "Donkeys on a village lane",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22023,
+          79.72214
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-05.webp",
+        "alt": "St. Sebastian's Church gate",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22189,
+          79.72409
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-06.webp",
+        "alt": "A beach dog",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22687,
+          79.72613
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-07.webp",
+        "alt": "A curious donkey",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.21903,
+          79.72037
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-08.webp",
+        "alt": "Mangroves in the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22753,
+          79.73144
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-09.webp",
+        "alt": "Scooter on the sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.23449,
+          79.73478
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-10.webp",
+        "alt": "Scooter ride in the rain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.2261,
+          79.73154
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-11.webp",
+        "alt": "Village main street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.23886,
+          79.76414
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-12.webp",
+        "alt": "Bullock cart",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.23887,
+          79.76421
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-13.webp",
+        "alt": "Wind turbines beyond the dunes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.23047,
+          79.73309
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-14.webp",
+        "alt": "Jetty on the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.217,
+          79.71528
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-15.webp",
+        "alt": "Kalpitiya beach in the sun",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22136,
+          79.72356
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-16.webp",
+        "alt": "Fishing boats under the palms",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22122,
+          79.7191
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-17.webp",
+        "alt": "Fishing camp on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22068,
+          79.71858
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-18.webp",
+        "alt": "Sandbars at the lagoon mouth",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.2181,
+          79.71469
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-19.webp",
+        "alt": "Garden by the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22139,
+          79.71991
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-20.webp",
+        "alt": "Mangroves and palms",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22735,
+          79.73151
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-21.webp",
+        "alt": "Kite over the lagoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.24271,
+          79.7374
+        ],
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-22.webp",
+        "alt": "Storm clouds over the dunes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.2308,
+          79.73256
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-23.webp",
+        "alt": "Evening walk on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22151,
+          79.71953
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-24.webp",
+        "alt": "Sunset on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22153,
+          79.71952
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-25.webp",
+        "alt": "Pink clouds at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22163,
+          79.71958
+        ]
+      },
+      {
+        "src": "assets/kalpitiya-2017-26.webp",
+        "alt": "Crab curry dinner",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          8.22183,
+          79.72432
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/lk.svg",
+    "countryCode": "LK",
+    "updated": "2017-01-28"
+  },
+  {
+    "slug": "colombo",
+    "name": "Colombo",
+    "region": "Sri Lanka",
+    "kicker": "COLOMBO, SRI LANKA",
+    "cover": "assets/colombo-2017-03.webp",
+    "photos": [
+      {
+        "src": "assets/colombo-2017-01.webp",
+        "alt": "Seaside station at Bambalapitiya",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          6.89351,
+          79.85322
+        ]
+      },
+      {
+        "src": "assets/colombo-2017-02.webp",
+        "alt": "Railway along the ocean",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          6.89327,
+          79.85338
+        ]
+      },
+      {
+        "src": "assets/colombo-2017-03.webp",
+        "alt": "Mount Lavinia beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          6.83839,
+          79.863
+        ]
+      },
+      {
+        "src": "assets/colombo-2017-04.webp",
+        "alt": "Mount Lavinia shoreline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          6.83916,
+          79.86279
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/lk.svg",
+    "countryCode": "LK",
+    "updated": "2017-01-29"
+  },
+  {
+    "slug": "yangon",
+    "name": "Yangon",
+    "region": "Myanmar",
+    "kicker": "YANGON, MYANMAR",
+    "cover": "assets/yangon-2017-09.webp",
+    "photos": [
+      {
+        "src": "assets/yangon-2017-01.webp",
+        "alt": "Shwedagon Pagoda from the street",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.80019,
+          96.15846
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-02.webp",
+        "alt": "Tea shop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79917,
+          96.15295
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-03.webp",
+        "alt": "Street market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79893,
+          96.15244
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-04.webp",
+        "alt": "Covered stairway up to Shwedagon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79892,
+          96.15227
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-05.webp",
+        "alt": "Shwedagon Pagoda terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79802,
+          96.15041
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-06.webp",
+        "alt": "The golden stupa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79791,
+          96.1503
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-07.webp",
+        "alt": "Shrines around the terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.798,
+          96.15009
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-08.webp",
+        "alt": "Prayer hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79773,
+          96.1498
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-09.webp",
+        "alt": "Shwedagon panorama",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79756,
+          96.14946
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-10.webp",
+        "alt": "Shwedagon's main stupa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79764,
+          96.14947
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-11.webp",
+        "alt": "Terrace gateway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79763,
+          96.14916
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-12.webp",
+        "alt": "Gilded shrine hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79855,
+          96.15007
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-13.webp",
+        "alt": "White and gold spires",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79801,
+          96.1501
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-14.webp",
+        "alt": "At Shwedagon Pagoda",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.7976,
+          96.1496
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-15.webp",
+        "alt": "Market street below the pagoda",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79906,
+          96.15288
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-16.webp",
+        "alt": "Monk passing a fruit stall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79927,
+          96.15448
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-17.webp",
+        "alt": "Downtown apartment block",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.7977,
+          96.1704
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-18.webp",
+        "alt": "Sunset over Kandawgyi Lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79423,
+          96.1698
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-19.webp",
+        "alt": "Kandawgyi Lake at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79373,
+          96.16985
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-20.webp",
+        "alt": "Sule Pagoda at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77444,
+          96.15816
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-21.webp",
+        "alt": "Night market street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77551,
+          96.14954
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-22.webp",
+        "alt": "Skewers and seafood on ice",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77498,
+          96.14945
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-23.webp",
+        "alt": "Flower and fruit sellers at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77487,
+          96.14941
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-24.webp",
+        "alt": "Shwedagon at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79791,
+          96.15026
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-25.webp",
+        "alt": "Shwedagon lit up",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79798,
+          96.15012
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-26.webp",
+        "alt": "Evening prayers",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79774,
+          96.1497
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-27.webp",
+        "alt": "Candles along the terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.7978,
+          96.14919
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-28.webp",
+        "alt": "The main stupa at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79878,
+          96.14935
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-29.webp",
+        "alt": "Shwedagon from People's Park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.79582,
+          96.13977
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-30.webp",
+        "alt": "Yangon River ferry",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77274,
+          96.14444
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-31.webp",
+        "alt": "Colonial-era building downtown",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77405,
+          96.1447
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-32.webp",
+        "alt": "Street vendors' umbrellas",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77529,
+          96.14898
+        ]
+      },
+      {
+        "src": "assets/yangon-2017-33.webp",
+        "alt": "Downtown side street",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2017",
+        "gps": [
+          16.77502,
+          96.14949
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/mm.svg",
+    "countryCode": "MM",
+    "updated": "2017-01-22"
   }
 ]
