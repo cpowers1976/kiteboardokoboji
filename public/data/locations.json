@@ -5778,6 +5778,20 @@
           27.94113,
           -82.45253
         ]
+      },
+      {
+        "src": "assets/clearwater-2015-01.webp",
+        "alt": "Spring crowds on Clearwater Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2015"
+      },
+      {
+        "src": "assets/clearwater-2015-02.webp",
+        "alt": "Clearwater harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2015"
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -11065,6 +11079,27 @@
         ]
       },
       {
+        "src": "assets/miami-2015-01.webp",
+        "alt": "South Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/miami-2015-02.webp",
+        "alt": "South Pointe jetty",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/miami-2015-03.webp",
+        "alt": "Rocks and the skyline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
         "src": "assets/miami-2013-01.webp",
         "alt": "Kiting off Miami Beach",
         "class": "wide",
@@ -11665,71 +11700,173 @@
     "cover": "assets/oahu-01.webp",
     "photos": [
       {
+        "src": "assets/oahu-2014-01.webp",
+        "alt": "Beach below the lookout",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-02.webp",
+        "alt": "Windward coastline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-03.webp",
+        "alt": "Coastal trail",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-04.webp",
+        "alt": "Turquoise water on the east side",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-05.webp",
+        "alt": "Kayaks on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-06.webp",
+        "alt": "Looking across the bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-07.webp",
+        "alt": "River through the jungle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-08.webp",
+        "alt": "Crowd on the North Shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-09.webp",
+        "alt": "North Shore surf",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-10.webp",
+        "alt": "Afternoon on the sand",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-11.webp",
+        "alt": "Lava rock tide pools",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-12.webp",
+        "alt": "Island rooster",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
+        "src": "assets/oahu-2014-13.webp",
+        "alt": "Flying out over Oahu",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2014"
+      },
+      {
         "src": "assets/oahu-01.webp",
         "alt": "Diamond Head and Waikiki from the water, Oahu",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-02.webp",
         "alt": "Oahu coastline from above",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-03.webp",
         "alt": "USS Arizona Memorial at Pearl Harbor, Oahu",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-04.webp",
         "alt": "Hawaiian monk seal resting on an Oahu beach",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-05.webp",
         "alt": "Windward Oahu coastline",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-06.webp",
         "alt": "Rocky Pacific coast on Oahu",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-07.webp",
         "alt": "Oahu beach on the windward side",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-08.webp",
         "alt": "Wing foiling on Oahu",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-09.webp",
         "alt": "Greetings from Hawaii mural in Honolulu",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       },
       {
         "src": "assets/oahu-10.webp",
         "alt": "Waikiki Beach with Diamond Head, Oahu",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "Earlier photos"
       }
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
     "stateFlags": [
       "assets/flags/us-hi.webp"
-    ]
+    ],
+    "updated": "2014-11-16"
   },
   {
     "slug": "paris",
@@ -13569,6 +13706,34 @@
           26.1415,
           -97.17488
         ]
+      },
+      {
+        "src": "assets/spi-2015-01.webp",
+        "alt": "Beach and condos",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/spi-2015-02.webp",
+        "alt": "Sunset over the bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/spi-2015-03.webp",
+        "alt": "Jet skis at the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/spi-2015-04.webp",
+        "alt": "Padre Boulevard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -17851,5 +18016,97 @@
     "flagAsset": "assets/flags/de.svg",
     "countryCode": "DE",
     "updated": "2014-06-09"
+  },
+  {
+    "slug": "madison",
+    "name": "Madison",
+    "region": "Wisconsin",
+    "kicker": "MADISON, WISCONSIN",
+    "cover": "assets/madison-01.webp",
+    "photos": [
+      {
+        "src": "assets/madison-01.webp",
+        "alt": "Waterskiing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-02.webp",
+        "alt": "Skiing past the sailboats",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-03.webp",
+        "alt": "Slalom spray",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-04.webp",
+        "alt": "Skier in the wake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-05.webp",
+        "alt": "Jet ski and tubes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-06.webp",
+        "alt": "Pulling a skier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-07.webp",
+        "alt": "Up on one ski",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · On the lake"
+      },
+      {
+        "src": "assets/madison-08.webp",
+        "alt": "Saddling up",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2014"
+      },
+      {
+        "src": "assets/madison-09.webp",
+        "alt": "Riding past the barn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2014"
+      },
+      {
+        "src": "assets/madison-10.webp",
+        "alt": "Ride around the farm",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2014"
+      },
+      {
+        "src": "assets/madison-11.webp",
+        "alt": "On horseback",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2014"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "stateFlags": [
+      "assets/flags/us-wi.webp"
+    ],
+    "countryCode": "US",
+    "updated": "2014-07-02"
   }
 ]
