@@ -17904,6 +17904,48 @@
         ]
       },
       {
+        "src": "assets/ostersund-old-01.webp",
+        "alt": "Snow over Östersund",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
+        "src": "assets/ostersund-old-02.webp",
+        "alt": "Winter view toward the ski hill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
+        "src": "assets/ostersund-old-03.webp",
+        "alt": "Frosted forest and Storsjön",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
+        "src": "assets/ostersund-old-04.webp",
+        "alt": "Winter sunrise",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
+        "src": "assets/ostersund-old-05.webp",
+        "alt": "Heading out to ski",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
+        "src": "assets/ostersund-old-06.webp",
+        "alt": "Ski village at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Winter"
+      },
+      {
         "src": "assets/ostersund-2010-01.webp",
         "alt": "Classic car show on Stortorget",
         "class": "wide",
@@ -18042,11 +18084,216 @@
         "class": "wide",
         "kind": "photo",
         "visit": "August 2010"
+      },
+      {
+        "src": "assets/ostersund-old-07.webp",
+        "alt": "Autumn on Storsjön",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-08.webp",
+        "alt": "Östersund across the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-09.webp",
+        "alt": "Lakefront in October",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-10.webp",
+        "alt": "Östersund Town Hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-11.webp",
+        "alt": "Cobbled street",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-12.webp",
+        "alt": "Jämtland countryside",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
+      },
+      {
+        "src": "assets/ostersund-old-13.webp",
+        "alt": "Birch and spruce",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2006"
       }
     ],
     "flagAsset": "assets/flags/se.png",
     "countryCode": "SE",
     "updated": "2022-08-14"
+  },
+  {
+    "slug": "stockholm",
+    "name": "Stockholm",
+    "region": "Sweden",
+    "kicker": "GAMLA STAN",
+    "cover": "assets/stockholm-01.webp",
+    "photos": [
+      {
+        "src": "assets/stockholm-01.webp",
+        "alt": "Gamla Stan across the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.3212,
+          18.0717
+        ]
+      },
+      {
+        "src": "assets/stockholm-02.webp",
+        "alt": "Old Town rooftops",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.31937,
+          18.07301
+        ]
+      },
+      {
+        "src": "assets/stockholm-03.webp",
+        "alt": "Royal Palace from the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32706,
+          18.07675
+        ]
+      },
+      {
+        "src": "assets/stockholm-04.webp",
+        "alt": "City Hall across Riddarfjärden",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32317,
+          18.05173
+        ]
+      },
+      {
+        "src": "assets/stockholm-05.webp",
+        "alt": "Södermalm cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32136,
+          18.06714
+        ]
+      },
+      {
+        "src": "assets/stockholm-06.webp",
+        "alt": "Gamla Stan waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32375,
+          18.0797
+        ]
+      },
+      {
+        "src": "assets/stockholm-07.webp",
+        "alt": "Cobbled square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32629,
+          18.07233
+        ]
+      },
+      {
+        "src": "assets/stockholm-08.webp",
+        "alt": "Sightseeing boat",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          59.32931,
+          18.07393
+        ]
+      },
+      {
+        "src": "assets/stockholm-09.webp",
+        "alt": "Royal guards",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-10.webp",
+        "alt": "The Vasa warship",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-11.webp",
+        "alt": "Gamla Stan from the harbour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-12.webp",
+        "alt": "Marina",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-13.webp",
+        "alt": "Old steamer at the quay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-14.webp",
+        "alt": "Harbour view",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-15.webp",
+        "alt": "Cycling past the Old Town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      },
+      {
+        "src": "assets/stockholm-16.webp",
+        "alt": "Café square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2008"
+      }
+    ],
+    "flagAsset": "assets/flags/se.png",
+    "countryCode": "SE",
+    "updated": "2015-10-05"
   },
   {
     "slug": "warsaw",
