@@ -764,6 +764,258 @@
           58.34399,
           -134.58569
         ]
+      },
+      {
+        "src": "assets/alaska-2015-01.webp",
+        "alt": "\"Good News\" in Juneau harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          58.30117,
+          -134.42796
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-02.webp",
+        "alt": "Juneau harbor under the clouds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          58.29316,
+          -134.41742
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-03.webp",
+        "alt": "At the helm",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.97098,
+          -134.87051
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-04.webp",
+        "alt": "Heading out at dawn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka"
+      },
+      {
+        "src": "assets/alaska-2015-05.webp",
+        "alt": "Through the Inside Passage",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.27897,
+          -135.599
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-06.webp",
+        "alt": "Forested islands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.23256,
+          -135.55171
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-07.webp",
+        "alt": "Arriving in Sitka",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.05893,
+          -135.35918
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-08.webp",
+        "alt": "Sitka harbor in the evening",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka"
+      },
+      {
+        "src": "assets/alaska-2015-09.webp",
+        "alt": "St. Michael's Cathedral, Sitka",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.05022,
+          -135.33499
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-10.webp",
+        "alt": "Fishing selfie",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.00889,
+          -135.40333
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-11.webp",
+        "alt": "Mountains over Sitka Sound",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.01669,
+          -135.33264
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-12.webp",
+        "alt": "The catch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.01764,
+          -135.41269
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-13.webp",
+        "alt": "Cruise ship passing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.01175,
+          -135.42842
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-14.webp",
+        "alt": "Cleaning fish",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.00688,
+          -135.30156
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-15.webp",
+        "alt": "Evening on the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.00685,
+          -135.30154
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-16.webp",
+        "alt": "Sunrise in the sound",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.00732,
+          -135.30309
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-17.webp",
+        "alt": "Mountain over the channel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.03722,
+          -135.31398
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-18.webp",
+        "alt": "Sitka waterfront",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.05095,
+          -135.34572
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-19.webp",
+        "alt": "Fishing boat coming in",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.05163,
+          -135.34685
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-20.webp",
+        "alt": "Sunset at the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.05819,
+          -135.35699
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-21.webp",
+        "alt": "Hold full of salmon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.02027,
+          -135.40291
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-22.webp",
+        "alt": "Totem pole in Sitka",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.0494,
+          -135.33968
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-23.webp",
+        "alt": "Boarding the ferry",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka",
+        "gps": [
+          57.12909,
+          -135.38113
+        ]
+      },
+      {
+        "src": "assets/alaska-2015-24.webp",
+        "alt": "Creek in the rainforest",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2015 · Juneau to Sitka"
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -16058,5 +16310,136 @@
     "flagAsset": "assets/flags/pl.svg",
     "countryCode": "PL",
     "updated": "2023-08-18"
+  },
+  {
+    "slug": "trondheim",
+    "name": "Trondheim",
+    "region": "Norway",
+    "kicker": "TRONDHEIM, NORWAY",
+    "cover": "assets/trondheim-01.webp",
+    "photos": [
+      {
+        "src": "assets/trondheim-01.webp",
+        "alt": "Old wharves on the Nidelva",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-02.webp",
+        "alt": "Colorful warehouses in Bakklandet",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-03.webp",
+        "alt": "Reflections on the river",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-04.webp",
+        "alt": "Riverside wharves",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-05.webp",
+        "alt": "Harbor in town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-06.webp",
+        "alt": "Boats in the canal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-07.webp",
+        "alt": "Nidaros Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-08.webp",
+        "alt": "West front of Nidaros Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-09.webp",
+        "alt": "Christmas market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-10.webp",
+        "alt": "Christmas market crowds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-11.webp",
+        "alt": "Shopping street in December",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-12.webp",
+        "alt": "Trondheimsfjord",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-13.webp",
+        "alt": "Morning light on the fjord",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-14.webp",
+        "alt": "Cozy restaurant",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-15.webp",
+        "alt": "Dinner in Trondheim",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-16.webp",
+        "alt": "Behind the bar",
+        "class": "",
+        "kind": "photo",
+        "visit": "December 2014"
+      },
+      {
+        "src": "assets/trondheim-17.webp",
+        "alt": "Restaurant lights at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2014"
+      }
+    ],
+    "flagAsset": "assets/flags/no.svg",
+    "countryCode": "NO",
+    "updated": "2014-12-13"
   }
 ]
