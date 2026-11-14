@@ -14102,6 +14102,112 @@
     "cover": "assets/oahu-01.webp",
     "photos": [
       {
+        "src": "assets/oahu-2018-01.webp",
+        "alt": "Waikiki from a paddleboard",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27265,
+          -157.8279
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-02.webp",
+        "alt": "Diamond Head from offshore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27264,
+          -157.82791
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-03.webp",
+        "alt": "Selfie on the water off Waikiki",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27263,
+          -157.82797
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-04.webp",
+        "alt": "Paddling toward Diamond Head",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27136,
+          -157.82912
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-05.webp",
+        "alt": "Waikiki hotels from the board",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27135,
+          -157.82913
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-06.webp",
+        "alt": "Honolulu skyline under the clouds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.27268,
+          -157.83737
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-07.webp",
+        "alt": "Diamond Head in late afternoon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.26105,
+          -157.8271
+        ]
+      },
+      {
+        "src": "assets/oahu-2018-08.webp",
+        "alt": "Paddling past the Gold Coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.26096,
+          -157.82712
+        ]
+      },
+      {
+        "src": "assets/oahu-01.webp",
+        "alt": "Diamond Head and Waikiki from the water, Oahu",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki"
+      },
+      {
+        "src": "assets/oahu-2018-09.webp",
+        "alt": "Heading back toward Waikiki",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2018 · Paddleboarding Waikiki",
+        "gps": [
+          21.26093,
+          -157.82718
+        ]
+      },
+      {
         "src": "assets/oahu-2014-01.webp",
         "alt": "Beach below the lookout",
         "class": "wide",
@@ -14193,13 +14299,6 @@
         "visit": "November 2014"
       },
       {
-        "src": "assets/oahu-01.webp",
-        "alt": "Diamond Head and Waikiki from the water, Oahu",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "Earlier photos"
-      },
-      {
         "src": "assets/oahu-02.webp",
         "alt": "Oahu coastline from above",
         "class": "",
@@ -14268,7 +14367,7 @@
     "stateFlags": [
       "assets/flags/us-hi.webp"
     ],
-    "updated": "2014-11-16"
+    "updated": "2018-08-17"
   },
   {
     "slug": "paris",
