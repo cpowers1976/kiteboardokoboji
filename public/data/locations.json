@@ -14691,47 +14691,532 @@
     "cover": "assets/maui-01.webp",
     "photos": [
       {
-        "src": "assets/maui-01.webp",
-        "alt": "Maui, Hawaii",
+        "src": "assets/maui-2023-01.webp",
+        "alt": "Sunset on the beach, Kihei",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74779,
+          -156.45743
+        ]
+      },
+      {
+        "src": "assets/maui-2023-02.webp",
+        "alt": "Palm-lined beach at sunset, Kihei",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74735,
+          -156.4579
+        ]
+      },
+      {
+        "src": "assets/maui-2023-03.webp",
+        "alt": "Sunset selfie, Kihei",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74739,
+          -156.45775
+        ]
+      },
+      {
+        "src": "assets/maui-2023-04.webp",
+        "alt": "Morning on the beach, Kihei",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74653,
+          -156.45758
+        ]
+      },
+      {
+        "src": "assets/maui-2023-05.webp",
+        "alt": "Stars over the palms before dawn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74731,
+          -156.4577
+        ]
+      },
+      {
+        "src": "assets/maui-2023-06.webp",
+        "alt": "Early morning at Wailea Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.69266,
+          -156.44394
+        ]
+      },
+      {
+        "src": "assets/maui-2023-07.webp",
+        "alt": "Surfer on a wave at dawn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.69266,
+          -156.44396
+        ]
+      },
+      {
+        "src": "assets/maui-2023-08.webp",
+        "alt": "North shore coastline near Hoʻokipa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.93586,
+          -156.35541
+        ]
+      },
+      {
+        "src": "assets/maui-01.webp",
+        "alt": "Surf crashing on the lava rocks near Hoʻokipa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.93616,
+          -156.35532
+        ]
       },
       {
         "src": "assets/maui-02.webp",
-        "alt": "Maui, Hawaii",
+        "alt": "Selfie on the rocks near Hoʻokipa",
         "class": "",
-        "kind": "photo"
-      },
-      {
-        "src": "assets/maui-03.webp",
-        "alt": "Maui, Hawaii",
-        "class": "",
-        "kind": "photo"
-      },
-      {
-        "src": "assets/maui-04.webp",
-        "alt": "Maui, Hawaii",
-        "class": "wide",
-        "kind": "photo"
-      },
-      {
-        "src": "assets/maui-05.webp",
-        "alt": "Maui, Hawaii",
-        "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.93615,
+          -156.35532
+        ]
       },
       {
         "src": "assets/maui-06.webp",
-        "alt": "Maui, Hawaii",
+        "alt": "Whitewater around the rocks near Hoʻokipa",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.93609,
+          -156.35532
+        ]
+      },
+      {
+        "src": "assets/maui-2023-09.webp",
+        "alt": "Dirt road out to Peʻahi",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.93057,
+          -156.3
+        ]
+      },
+      {
+        "src": "assets/maui-2023-10.webp",
+        "alt": "Burned-out car beside the trail",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94003,
+          -156.30089
+        ]
+      },
+      {
+        "src": "assets/maui-03.webp",
+        "alt": "Jet skis waiting for the big sets at Peʻahi",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.9406,
+          -156.30035
+        ]
+      },
+      {
+        "src": "assets/maui-04.webp",
+        "alt": "A big wave breaking at Peʻahi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94061,
+          -156.30037
+        ]
+      },
+      {
+        "src": "assets/maui-2023-11.webp",
+        "alt": "Big wave surfing at Peʻahi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.9406,
+          -156.30035
+        ]
+      },
+      {
+        "src": "assets/maui-05.webp",
+        "alt": "Surfer dropping into a giant wave at Peʻahi",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94059,
+          -156.30035
+        ]
+      },
+      {
+        "src": "assets/maui-2023-12.webp",
+        "alt": "Riding the face of a giant wave",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94063,
+          -156.30035
+        ]
+      },
+      {
+        "src": "assets/maui-2023-13.webp",
+        "alt": "Jet ski tow-in at Peʻahi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94063,
+          -156.30037
+        ]
+      },
+      {
+        "src": "assets/maui-2023-14.webp",
+        "alt": "Parking area at the top of the cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.94048,
+          -156.30068
+        ]
+      },
+      {
+        "src": "assets/maui-2023-15.webp",
+        "alt": "Red hibiscus",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74814,
+          -156.45697
+        ]
+      },
+      {
+        "src": "assets/maui-2023-16.webp",
+        "alt": "Sunset on the beach, Kihei",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74679,
+          -156.45758
+        ]
+      },
+      {
+        "src": "assets/maui-2023-17.webp",
+        "alt": "Sunset selfie for two",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74679,
+          -156.45758
+        ]
+      },
+      {
+        "src": "assets/maui-2023-18.webp",
+        "alt": "Watching the sun go down together",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74676,
+          -156.45752
+        ]
+      },
+      {
+        "src": "assets/maui-2023-19.webp",
+        "alt": "Big Beach, Makena",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.62973,
+          -156.44496
+        ]
+      },
+      {
+        "src": "assets/maui-2023-20.webp",
+        "alt": "Evening sun over the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74746,
+          -156.45762
+        ]
+      },
+      {
+        "src": "assets/maui-2023-21.webp",
+        "alt": "Cloudy morning looking toward West Maui",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74746,
+          -156.45782
+        ]
+      },
+      {
+        "src": "assets/maui-2023-22.webp",
+        "alt": "Orange sunset under the clouds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74716,
+          -156.45775
+        ]
+      },
+      {
+        "src": "assets/maui-2023-23.webp",
+        "alt": "Pink clouds over the beach at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.7472,
+          -156.45773
+        ]
+      },
+      {
+        "src": "assets/maui-2023-24.webp",
+        "alt": "Palms against the evening sky",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74748,
+          -156.45767
+        ]
+      },
+      {
+        "src": "assets/maui-2023-25.webp",
+        "alt": "Evening selfie for two",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.74935,
+          -156.4547
+        ]
+      },
+      {
+        "src": "assets/maui-2023-26.webp",
+        "alt": "Upcountry view on the road up Haleakalā",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.75945,
+          -156.24692
+        ]
+      },
+      {
+        "src": "assets/maui-2023-27.webp",
+        "alt": "Looking across the island from the Haleakalā slopes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.76458,
+          -156.25867
+        ]
+      },
+      {
+        "src": "assets/maui-2023-28.webp",
+        "alt": "Clouds rolling over the isthmus",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.76458,
+          -156.25868
+        ]
+      },
+      {
+        "src": "assets/maui-2023-29.webp",
+        "alt": "At the lookout on Haleakalā",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.76458,
+          -156.25868
+        ]
+      },
+      {
+        "src": "assets/maui-2023-30.webp",
+        "alt": "Surf on the north shore near Paʻia",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2023",
+        "gps": [
+          20.91537,
+          -156.38416
+        ]
+      },
+      {
+        "src": "assets/maui-2016-01.webp",
+        "alt": "Wailea coastline in the morning",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.68064,
+          -156.44447
+        ]
+      },
+      {
+        "src": "assets/maui-2016-02.webp",
+        "alt": "Curve of the beach at Wailea",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.68014,
+          -156.44423
+        ]
+      },
+      {
+        "src": "assets/maui-2016-03.webp",
+        "alt": "Small cove along the Wailea coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.68052,
+          -156.44383
+        ]
+      },
+      {
+        "src": "assets/maui-2016-04.webp",
+        "alt": "Humpback whale off the West Maui mountains",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.75695,
+          -156.52159
+        ]
+      },
+      {
+        "src": "assets/maui-2016-05.webp",
+        "alt": "Whale surfacing beside the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.76181,
+          -156.54573
+        ]
+      },
+      {
+        "src": "assets/maui-2016-06.webp",
+        "alt": "Boat wake on the way back in",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.75115,
+          -156.56331
+        ]
+      },
+      {
+        "src": "assets/maui-2016-07.webp",
+        "alt": "Whale splash on the horizon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.74158,
+          -156.56129
+        ]
+      },
+      {
+        "src": "assets/maui-2016-08.webp",
+        "alt": "Kites rigged on the beach, Kanaha",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.89712,
+          -156.44801
+        ],
+        "tags": [
+          "kiteboarding"
+        ]
+      },
+      {
+        "src": "assets/maui-2016-09.webp",
+        "alt": "Waves rolling in on the north shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.90176,
+          -156.43924
+        ]
+      },
+      {
+        "src": "assets/maui-2016-10.webp",
+        "alt": "Lava rock coastline near Hoʻokipa",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.93573,
+          -156.35541
+        ]
+      },
+      {
+        "src": "assets/maui-2016-11.webp",
+        "alt": "Tide pools on the north shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.93605,
+          -156.35551
+        ]
       }
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
     "stateFlags": [
       "assets/flags/us-hi.webp"
-    ]
+    ],
+    "updated": "2023-01-30"
   },
   {
     "slug": "mauritius",
@@ -23287,6 +23772,50 @@
     "cover": "assets/stockholm-01.webp",
     "photos": [
       {
+        "src": "assets/stockholm-2026-01.webp",
+        "alt": "Cobbled shopping street in Gamla Stan",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2026",
+        "gps": [
+          59.32503,
+          18.06796
+        ]
+      },
+      {
+        "src": "assets/stockholm-2026-02.webp",
+        "alt": "Narrow lane in Gamla Stan",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2026",
+        "gps": [
+          59.32436,
+          18.07173
+        ]
+      },
+      {
+        "src": "assets/stockholm-2026-03.webp",
+        "alt": "Stortorget and the Nobel Prize Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2026",
+        "gps": [
+          59.32491,
+          18.07112
+        ]
+      },
+      {
+        "src": "assets/stockholm-2026-04.webp",
+        "alt": "Gamla Stan across the water from Slussen",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2026",
+        "gps": [
+          59.3213,
+          18.07166
+        ]
+      },
+      {
         "src": "assets/stockholm-01.webp",
         "alt": "Gamla Stan across the water",
         "class": "wide",
@@ -23433,7 +23962,7 @@
     ],
     "flagAsset": "assets/flags/se.png",
     "countryCode": "SE",
-    "updated": "2015-10-05"
+    "updated": "2026-06-25"
   },
   {
     "slug": "warsaw",
