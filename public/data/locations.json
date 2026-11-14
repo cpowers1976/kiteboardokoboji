@@ -15743,6 +15743,39 @@
           20.93605,
           -156.35551
         ]
+      },
+      {
+        "src": "assets/maui-2016-12.webp",
+        "alt": "Together by the waterfall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.6879,
+          -156.44284
+        ]
+      },
+      {
+        "src": "assets/maui-2016-13.webp",
+        "alt": "Evening photo by the waterfall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.68786,
+          -156.44284
+        ]
+      },
+      {
+        "src": "assets/maui-2016-14.webp",
+        "alt": "Wearing a lei at the airport",
+        "class": "",
+        "kind": "photo",
+        "visit": "February 2016",
+        "gps": [
+          20.89637,
+          -156.43491
+        ]
       }
     ],
     "flagAsset": "assets/flags/us.png",
