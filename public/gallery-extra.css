@@ -39,5 +39,5 @@
 /* Slim header strip on gallery pages, matching the map page */
 .place-intro{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 22px;padding:20px 4vw 18px}
 .place-intro .eyebrow{margin:0;font-size:11px;letter-spacing:4px}
-.place-intro h1{margin:0;font:400 clamp(26px,3vw,38px)/1.1 Georgia,serif;letter-spacing:0}
+.place-intro h1{margin:0;font-size:clamp(28px,3.4vw,44px);line-height:1;font-weight:500;letter-spacing:-1.5px}
 .place-intro p{margin:0;font-size:13px}
