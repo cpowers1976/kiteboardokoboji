@@ -17198,5 +17198,251 @@
     ],
     "countryCode": "US",
     "updated": "2015-02-17"
+  },
+  {
+    "slug": "new-york",
+    "name": "New York City",
+    "region": "New York",
+    "kicker": "NEW YORK, NEW YORK",
+    "cover": "assets/new-york-01.webp",
+    "photos": [
+      {
+        "src": "assets/new-york-01.webp",
+        "alt": "Central Park from Top of the Rock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-02.webp",
+        "alt": "Empire State Building and Midtown",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-03.webp",
+        "alt": "Midtown skyline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-04.webp",
+        "alt": "Looking north over Central Park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-05.webp",
+        "alt": "9/11 Memorial pool",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-06.webp",
+        "alt": "Names and roses at the memorial",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-07.webp",
+        "alt": "\"No day shall erase you from the memory of time\"",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-08.webp",
+        "alt": "Ladder 3 at the 9/11 Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-09.webp",
+        "alt": "The Last Column",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-10.webp",
+        "alt": "New York Stock Exchange",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-11.webp",
+        "alt": "On the streets of Manhattan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2014"
+      },
+      {
+        "src": "assets/new-york-12.webp",
+        "alt": "Lower Manhattan from the ferry",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-13.webp",
+        "alt": "Ferry to the Statue of Liberty",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-14.webp",
+        "alt": "Statue of Liberty",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-15.webp",
+        "alt": "Skyline from Liberty Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-16.webp",
+        "alt": "Great Hall at Ellis Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-17.webp",
+        "alt": "Ellis Island from the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-18.webp",
+        "alt": "Inside a Broadway theater",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-19.webp",
+        "alt": "Rock of Ages on Broadway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-20.webp",
+        "alt": "Coney Island boardwalk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "May 2010"
+      },
+      {
+        "src": "assets/new-york-21.webp",
+        "alt": "Walking the Brooklyn Bridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/new-york-22.webp",
+        "alt": "Lower Manhattan from the bridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/new-york-23.webp",
+        "alt": "Brooklyn Bridge tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/new-york-24.webp",
+        "alt": "Welcome to Brooklyn",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/new-york-25.webp",
+        "alt": "Fireboat in the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2008"
+      },
+      {
+        "src": "assets/new-york-26.webp",
+        "alt": "Grand Central Terminal",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-27.webp",
+        "alt": "Grand Central at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-28.webp",
+        "alt": "Times Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-29.webp",
+        "alt": "Radio City Music Hall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-30.webp",
+        "alt": "St. Patrick's Cathedral",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-31.webp",
+        "alt": "View from the Empire State Building",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-32.webp",
+        "alt": "Gray's Papaya",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      },
+      {
+        "src": "assets/new-york-33.webp",
+        "alt": "Ground Zero in 2006",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2006"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "stateFlags": [
+      "assets/flags/us-ny.webp"
+    ],
+    "countryCode": "US",
+    "updated": "2014-09-14"
   }
 ]
