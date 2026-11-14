@@ -16428,6 +16428,13 @@
         "class": "wide",
         "kind": "photo",
         "visit": "January 2015"
+      },
+      {
+        "src": "assets/spi-2015b-01.webp",
+        "alt": "Gray winter afternoon on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -21769,5 +21776,48 @@
     "flagAsset": "assets/flags/jp.svg",
     "countryCode": "JP",
     "updated": "2014-03-17"
+  },
+  {
+    "slug": "galveston",
+    "name": "Galveston",
+    "region": "Texas",
+    "kicker": "GALVESTON, TEXAS",
+    "cover": "assets/galveston-2015-01.webp",
+    "photos": [
+      {
+        "src": "assets/galveston-2015-01.webp",
+        "alt": "Seawall and Pleasure Pier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/galveston-2015-02.webp",
+        "alt": "Granite groin below the seawall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/galveston-2015-03.webp",
+        "alt": "Seawall curving toward the pier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2015"
+      },
+      {
+        "src": "assets/galveston-2015-04.webp",
+        "alt": "Along the rock groin",
+        "class": "",
+        "kind": "photo",
+        "visit": "January 2015"
+      }
+    ],
+    "flagAsset": "assets/flags/us.png",
+    "countryCode": "US",
+    "updated": "2015-01-19",
+    "stateFlags": [
+      "assets/flags/us-tx.webp"
+    ]
   }
 ]
