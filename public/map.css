@@ -15,7 +15,7 @@
 #mapPlaces small{display:block;margin-top:3px;color:#8b9a9f;font-size:10px;letter-spacing:2px;text-transform:uppercase}
 #mapPlaces .empty{padding:20px;color:#8b9a9f;font-size:12px}
 
-.leaflet-container{font-family:Arial,sans-serif;background:#0b1114}
+.leaflet-container{font-family:Arial,sans-serif;background:#0d1a1f}
 .ko-pin{width:16px;height:16px;border-radius:50%;background:#e5a044;border:2px solid #0b1114;box-shadow:0 0 0 2px #e5a044,0 2px 8px rgba(0,0,0,.6)}
 .ko-pin.home{background:#53c8d4;box-shadow:0 0 0 2px #53c8d4,0 2px 8px rgba(0,0,0,.6)}
 .ko-cluster{display:flex;align-items:center;justify-content:center;border-radius:50%;background:rgba(229,160,68,.25);}

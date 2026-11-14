@@ -45,11 +45,23 @@
   const count = l => { const n = (l.photos || []).length; return n + (n === 1 ? ' PHOTO' : ' PHOTOS'); };
   const flag = l => (l.flagAsset ? '<img class="flag-img" src="' + esc(l.flagAsset) + '" alt=""> ' : '');
 
-  const map = L.map('worldMap', { worldCopyJump: true, minZoom: 2, zoomControl: true }).setView([25, 10], 2);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    subdomains: 'abcd', maxZoom: 18,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-  }).addTo(map);
+  const map = L.map('worldMap', { minZoom: 2, maxZoom: 11, zoomSnap: 0.5, maxBounds: [[-75, -210], [85, 210]], maxBoundsViscosity: 0.8, attributionControl: true })
+    .setView([25, 10], 2);
+  map.attributionControl.setPrefix('').addAttribution('Map: <a href="https://www.naturalearthdata.com/">Natural Earth</a>');
+
+  // Base map: country shapes bundled with the site (data/world-50m.json, Natural Earth via world-atlas),
+  // so it needs no map service or API key. The file is TopoJSON; decode it into GeoJSON here.
+  const topoToGeo = topo => {
+    const [sx, sy] = topo.transform.scale, [tx, ty] = topo.transform.translate;
+    const arcs = topo.arcs.map(a => { let x = 0, y = 0; return a.map(([dx, dy]) => { x += dx; y += dy; return [x * sx + tx, y * sy + ty]; }); });
+    const ring = ids => { const out = []; ids.forEach(i => { const a = i < 0 ? arcs[~i].slice().reverse() : arcs[i]; a.forEach((pt, k) => { if (k || !out.length) out.push(pt); }); }); return out; };
+    const geom = g => g.type === 'Polygon' ? { type: 'Polygon', coordinates: g.arcs.map(ring) }
+      : g.type === 'MultiPolygon' ? { type: 'MultiPolygon', coordinates: g.arcs.map(p => p.map(ring)) } : null;
+    return { type: 'FeatureCollection', features: topo.objects.countries.geometries.map(g => ({ type: 'Feature', properties: {}, geometry: geom(g) })).filter(f => f.geometry) };
+  };
+  fetch('data/world-50m.json').then(r => r.json()).then(topo => {
+    L.geoJSON(topoToGeo(topo), { interactive: false, style: { color: '#364a51', weight: 0.8, fillColor: '#203037', fillOpacity: 1 } }).addTo(map).bringToBack();
+  }).catch(() => {});
 
   const cluster = L.markerClusterGroup({
     showCoverageOnHover: false, maxClusterRadius: 45, spiderfyOnMaxZoom: true,
