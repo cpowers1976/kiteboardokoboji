@@ -54,7 +54,15 @@
   const topoToGeo = topo => {
     const [sx, sy] = topo.transform.scale, [tx, ty] = topo.transform.translate;
     const arcs = topo.arcs.map(a => { let x = 0, y = 0; return a.map(([dx, dy]) => { x += dx; y += dy; return [x * sx + tx, y * sy + ty]; }); });
-    const ring = ids => { const out = []; ids.forEach(i => { const a = i < 0 ? arcs[~i].slice().reverse() : arcs[i]; a.forEach((pt, k) => { if (k || !out.length) out.push(pt); }); }); return out; };
+    const ring = ids => { const out = []; ids.forEach(i => { const a = i < 0 ? arcs[~i].slice().reverse() : arcs[i]; a.forEach((pt, k) => { if (k || !out.length) out.push(pt); }); });
+      // Rings that cross the 180° line (Russia, Fiji, Antarctica) jump from +180 to -180;
+      // keep longitudes continuous so they don't draw a band across the whole map.
+      for (let k = 1, shift = 0, prev = out[0][0]; k < out.length; k++) {
+        const raw = out[k][0], d = raw - prev; prev = raw;
+        if (d > 180) shift -= 360; else if (d < -180) shift += 360;
+        if (shift) out[k] = [raw + shift, out[k][1]];
+      }
+      return out; };
     const geom = g => g.type === 'Polygon' ? { type: 'Polygon', coordinates: g.arcs.map(ring) }
       : g.type === 'MultiPolygon' ? { type: 'MultiPolygon', coordinates: g.arcs.map(p => p.map(ring)) } : null;
     return { type: 'FeatureCollection', features: topo.objects.countries.geometries.map(g => ({ type: 'Feature', properties: {}, geometry: geom(g) })).filter(f => f.geometry) };
