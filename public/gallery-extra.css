@@ -57,3 +57,6 @@
 .destinations .card h3{font-size:clamp(24px,2.6vw,40px);letter-spacing:-1px}
 @media(max-width:900px){.destinations .cards{grid-template-columns:repeat(2,1fr)}.destinations .card{height:52vw}}
 @media(max-width:760px){.destinations .card h3{font-size:22px}}
+/* Albums on a parent page (e.g. the Chase Powers album on Iowa Great Lakes): one shorter card */
+.albums{padding-top:0}
+.albums .card{height:clamp(220px,24vw,340px)}
