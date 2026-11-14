@@ -17800,6 +17800,160 @@
     "cover": "assets/original-56ddeaba-1567-4025-8c99-511015d9190a.jpeg",
     "photos": [
       {
+        "src": "assets/spi-launch-2026-01.webp",
+        "alt": "Path through the dunes to the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06914,
+          -97.15704
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-02.webp",
+        "alt": "Dog exploring the dunes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06909,
+          -97.15529
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-03.webp",
+        "alt": "Heading down the beach toward the jetty",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06849,
+          -97.15458
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-04.webp",
+        "alt": "Crowds gathering at the water",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06807,
+          -97.15413
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-05.webp",
+        "alt": "Dog waiting on the sand",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15445
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-06.webp",
+        "alt": "Spectators setting up chairs on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06779,
+          -97.15446
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-07.webp",
+        "alt": "Watching across the channel, launch site in view",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06787,
+          -97.15448
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-08.webp",
+        "alt": "The launch site across the water",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06782,
+          -97.15453
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-09.webp",
+        "alt": "Selfie in the launch day crowd",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15453
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-10.webp",
+        "alt": "Waiting for liftoff",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15454
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-11.webp",
+        "alt": "Liftoff, seen from the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15452
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-12.webp",
+        "alt": "Exhaust trail climbing into the sky",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15453
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-13.webp",
+        "alt": "The crowd watching the climb",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.06778,
+          -97.15453
+        ]
+      },
+      {
+        "src": "assets/spi-launch-2026-14.webp",
+        "alt": "Walking back along the beach after the launch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · SpaceX 15 launch",
+        "gps": [
+          26.07503,
+          -97.15682
+        ]
+      },
+      {
         "src": "assets/spi-nov-2026-08.webp",
         "alt": "Kites up at the North Flats, South Padre Island",
         "class": "wide",
@@ -20076,7 +20230,7 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "stateFlags": [
       "assets/flags/us-tx.webp"
     ]
