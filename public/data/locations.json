@@ -2601,6 +2601,28 @@
     "cover": "assets/cairo-01.webp",
     "photos": [
       {
+        "src": "assets/cairo-b2024-39.webp",
+        "alt": "Sunset over the Nile",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          30.05795,
+          31.22542
+        ]
+      },
+      {
+        "src": "assets/cairo-b2024-40.webp",
+        "alt": "Koshari",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          30.05027,
+          31.23783
+        ]
+      },
+      {
         "src": "assets/cairo-2024-29.webp",
         "alt": "Nile view over Cairo",
         "class": "wide",
@@ -2631,6 +2653,28 @@
         "gps": [
           30.05478,
           31.19821
+        ]
+      },
+      {
+        "src": "assets/cairo-b2023-37.webp",
+        "alt": "Gilded chairs at the NMEC",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00841,
+          31.24825
+        ]
+      },
+      {
+        "src": "assets/cairo-b2023-38.webp",
+        "alt": "Embroidered Kaaba cover",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00845,
+          31.24824
         ]
       },
       {
@@ -2730,6 +2774,61 @@
         "gps": [
           30.03042,
           31.46018
+        ]
+      },
+      {
+        "src": "assets/cairo-b2017-32.webp",
+        "alt": "Pinching the top of the Great Pyramid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.98034,
+          31.13544
+        ]
+      },
+      {
+        "src": "assets/cairo-b2017-33.webp",
+        "alt": "Riding a camel across the plateau",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97987,
+          31.1375
+        ]
+      },
+      {
+        "src": "assets/cairo-b2017-34.webp",
+        "alt": "Rooftop view of the pyramids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97424,
+          31.1422
+        ]
+      },
+      {
+        "src": "assets/cairo-b2017-35.webp",
+        "alt": "Riverboat on the Nile",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.05791,
+          31.22605
+        ]
+      },
+      {
+        "src": "assets/cairo-b2017-36.webp",
+        "alt": "Tutankhamun's golden throne",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04761,
+          31.23447
         ]
       },
       {
