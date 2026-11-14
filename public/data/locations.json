@@ -9004,6 +9004,55 @@
         ]
       },
       {
+        "src": "assets/madison-01.webp",
+        "alt": "Waterskiing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-02.webp",
+        "alt": "Skiing past the sailboats on West Okoboji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-03.webp",
+        "alt": "Slalom spray",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-04.webp",
+        "alt": "Skier in the wake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-05.webp",
+        "alt": "Jet ski and tubes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-06.webp",
+        "alt": "Pulling a skier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
+        "src": "assets/madison-07.webp",
+        "alt": "Up on one ski",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2009 · Waterskiing on West Okoboji"
+      },
+      {
         "src": "assets/igl-2013-01.webp",
         "alt": "Trucks and four-wheelers out on the ice",
         "class": "wide",
@@ -18609,93 +18658,44 @@
     "updated": "2014-06-09"
   },
   {
-    "slug": "madison",
-    "name": "Madison",
-    "region": "Wisconsin",
-    "kicker": "MADISON, WISCONSIN",
-    "cover": "assets/madison-01.webp",
+    "slug": "albert-city",
+    "name": "Albert City",
+    "region": "Iowa",
+    "kicker": "ALBERT CITY, IOWA",
+    "cover": "assets/madison-08.webp",
     "photos": [
-      {
-        "src": "assets/madison-01.webp",
-        "alt": "Waterskiing",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-02.webp",
-        "alt": "Skiing past the sailboats",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-03.webp",
-        "alt": "Slalom spray",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-04.webp",
-        "alt": "Skier in the wake",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-05.webp",
-        "alt": "Jet ski and tubes",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-06.webp",
-        "alt": "Pulling a skier",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
-      {
-        "src": "assets/madison-07.webp",
-        "alt": "Up on one ski",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2009 · On the lake"
-      },
       {
         "src": "assets/madison-08.webp",
         "alt": "Saddling up",
         "class": "wide",
         "kind": "photo",
-        "visit": "July 2014"
+        "visit": "July 2014 · Horseback riding"
       },
       {
         "src": "assets/madison-09.webp",
         "alt": "Riding past the barn",
         "class": "wide",
         "kind": "photo",
-        "visit": "July 2014"
+        "visit": "July 2014 · Horseback riding"
       },
       {
         "src": "assets/madison-10.webp",
         "alt": "Ride around the farm",
         "class": "wide",
         "kind": "photo",
-        "visit": "July 2014"
+        "visit": "July 2014 · Horseback riding"
       },
       {
         "src": "assets/madison-11.webp",
         "alt": "On horseback",
         "class": "wide",
         "kind": "photo",
-        "visit": "July 2014"
+        "visit": "July 2014 · Horseback riding"
       }
     ],
     "flagAsset": "assets/flags/us.png",
     "stateFlags": [
-      "assets/flags/us-wi.webp"
+      "assets/flags/us-ia.webp"
     ],
     "countryCode": "US",
     "updated": "2014-07-02"
