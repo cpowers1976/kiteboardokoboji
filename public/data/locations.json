@@ -637,35 +637,63 @@
         "src": "assets/amman-01.webp",
         "alt": "View across Amman with the Roman Theatre below",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "November 2019"
       },
       {
         "src": "assets/amman-02.webp",
         "alt": "Temple of Hercules ruins at the Amman Citadel",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "November 2019"
       },
       {
         "src": "assets/amman-03.webp",
         "alt": "Ancient columns and ruins at the Amman Citadel",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "November 2019"
+      },
+      {
+        "src": "assets/amman-06.webp",
+        "alt": "Columns on the Citadel at sunset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          31.95372,
+          35.93569
+        ]
       },
       {
         "src": "assets/amman-04.webp",
         "alt": "Amman cityscape and Jordanian flag seen from the Citadel",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "November 2019"
+      },
+      {
+        "src": "assets/amman-07.webp",
+        "alt": "Grand Husseini Mosque, downtown Amman",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2019",
+        "gps": [
+          31.95011,
+          35.93441
+        ]
       },
       {
         "src": "assets/amman-05.webp",
         "alt": "Jordanian meal in Amman",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "November 2019"
       }
     ],
     "flagAsset": "assets/flags/jo.svg",
-    "countryCode": "JO"
+    "countryCode": "JO",
+    "updated": "2019-11-09"
   },
   {
     "slug": "argentina",
@@ -5406,50 +5434,113 @@
     "cover": "assets/dead-sea-04.webp",
     "photos": [
       {
+        "src": "assets/dead-sea-08.webp",
+        "alt": "Desert hills on the road down",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.80256,
+          35.40261
+        ]
+      },
+      {
+        "src": "assets/dead-sea-09.webp",
+        "alt": "Sea Level marker on the way down",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.80274,
+          35.40264
+        ]
+      },
+      {
         "src": "assets/dead-sea-01.webp",
         "alt": "Roadside sign welcoming visitors to the Dead Sea",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
+      },
+      {
+        "src": "assets/dead-sea-10.webp",
+        "alt": "Dead Sea from the beach terrace",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.7577,
+          35.50338
+        ]
+      },
+      {
+        "src": "assets/dead-sea-11.webp",
+        "alt": "Flag over the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.75716,
+          35.5036
+        ]
       },
       {
         "src": "assets/dead-sea-02.webp",
         "alt": "Visitors floating in the Dead Sea",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/dead-sea-03.webp",
         "alt": "Dead Sea shoreline",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/dead-sea-04.webp",
         "alt": "Rocky shoreline and view across the Dead Sea",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/dead-sea-05.webp",
         "alt": "Dead Sea resort view",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/dead-sea-06.webp",
         "alt": "Camel near the Dead Sea",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/dead-sea-07.webp",
         "alt": "Terrace overlooking the Dead Sea",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
+      },
+      {
+        "src": "assets/dead-sea-12.webp",
+        "alt": "Lawn above the shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.75759,
+          35.50303
+        ]
       }
     ],
     "flagAsset": "assets/flags/il.svg",
-    "countryCode": "IL"
+    "countryCode": "IL",
+    "updated": "2019-04-01"
   },
   {
     "slug": "doha",
@@ -12751,108 +12842,6 @@
     "flagAsset": "assets/flags/th.png",
     "countryCode": "TH",
     "updated": "2019-04-13"
-  },
-  {
-    "slug": "the-dead-sea",
-    "name": "The Dead Sea",
-    "region": "Israel",
-    "kicker": "THE DEAD SEA",
-    "cover": "assets/original-c46e5330-ed08-49b4-92f3-1afdcb4d992d.jpeg",
-    "photos": [
-      {
-        "src": "assets/original-c46e5330-ed08-49b4-92f3-1afdcb4d992d.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.80274,
-          35.40264
-        ]
-      },
-      {
-        "src": "assets/original-13795d26-b35f-482a-b1c2-b75f561169a1.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.76997,
-          35.49782
-        ]
-      },
-      {
-        "src": "assets/original-7457eb43-3035-474f-9f55-df711e069586.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.7577,
-          35.50338
-        ]
-      },
-      {
-        "src": "assets/original-06219188-b721-41fc-b4db-a06eba221dc1.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.7572,
-          35.50411
-        ]
-      },
-      {
-        "src": "assets/original-85fc4265-da87-42f6-b984-2f21adc9872c.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.75716,
-          35.5036
-        ]
-      },
-      {
-        "src": "assets/original-fa88484c-9b80-4408-9b89-2fb692f8934c.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.75734,
-          35.50421
-        ]
-      },
-      {
-        "src": "assets/original-9bd72da5-176d-4518-847a-bb6f696c281c.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.75759,
-          35.50303
-        ]
-      },
-      {
-        "src": "assets/original-00792e5a-abf5-4f4d-837b-a5102a9ade68.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.75748,
-          35.50284
-        ]
-      },
-      {
-        "src": "assets/original-21c10e25-c8f6-40f9-9ad4-3f8a2a36804d.jpeg",
-        "alt": "",
-        "class": "",
-        "kind": "photo",
-        "gps": [
-          31.75703,
-          35.50407
-        ]
-      }
-    ],
-    "flagAsset": "assets/flags/il.svg",
-    "countryCode": "IL",
-    "updated": "2019-04-01"
   },
   {
     "slug": "tokyo",
