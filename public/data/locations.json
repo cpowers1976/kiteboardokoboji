@@ -20307,5 +20307,433 @@
     ],
     "countryCode": "US",
     "updated": "2014-07-02"
+  },
+  {
+    "slug": "osaka",
+    "name": "Osaka",
+    "region": "Japan",
+    "kicker": "OSAKA, JAPAN",
+    "cover": "assets/osaka-10.webp",
+    "photos": [
+      {
+        "src": "assets/osaka-01.webp",
+        "alt": "Entrance to the Osaka Aquarium Kaiyukan",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.65374,
+          135.43022
+        ]
+      },
+      {
+        "src": "assets/osaka-02.webp",
+        "alt": "Arapaima in a river tank",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-03.webp",
+        "alt": "Whale shark and a school of sardines",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-04.webp",
+        "alt": "Whale shark in the Pacific Ocean tank",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-05.webp",
+        "alt": "Hammerhead shark cruising the main tank",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-06.webp",
+        "alt": "Sea turtle resting on the rocks",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-07.webp",
+        "alt": "Japanese spider crabs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-08.webp",
+        "alt": "Sea nettle jellyfish",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-09.webp",
+        "alt": "Penguins at the aquarium",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-10.webp",
+        "alt": "Port of Osaka and the Tempozan Ferris wheel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014"
+      },
+      {
+        "src": "assets/osaka-11.webp",
+        "alt": "Side street near Umeda",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.69698,
+          135.50012
+        ]
+      },
+      {
+        "src": "assets/osaka-12.webp",
+        "alt": "Sushi counter at Kansai Airport",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.43536,
+          135.24382
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/jp.svg",
+    "countryCode": "JP",
+    "updated": "2014-03-18"
+  },
+  {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "region": "Japan",
+    "kicker": "KYOTO, JAPAN",
+    "cover": "assets/kyoto-11.webp",
+    "photos": [
+      {
+        "src": "assets/kyoto-01.webp",
+        "alt": "Yakiniku dinner near Kyoto Station",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.98687,
+          135.75888
+        ]
+      },
+      {
+        "src": "assets/kyoto-02.webp",
+        "alt": "East gate of Nijo Castle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01357,
+          135.75079
+        ]
+      },
+      {
+        "src": "assets/kyoto-03.webp",
+        "alt": "Stone walls and moat, Nijo Castle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01288,
+          135.75131
+        ]
+      },
+      {
+        "src": "assets/kyoto-04.webp",
+        "alt": "Karamon gate, Nijo Castle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01246,
+          135.75041
+        ]
+      },
+      {
+        "src": "assets/kyoto-05.webp",
+        "alt": "Carved and gilded eaves of the Karamon",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01264,
+          135.75035
+        ]
+      },
+      {
+        "src": "assets/kyoto-06.webp",
+        "alt": "Ninomaru Palace roofs from the castle keep",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01375,
+          135.74704
+        ]
+      },
+      {
+        "src": "assets/kyoto-07.webp",
+        "alt": "Inner moat at Nijo Castle",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01361,
+          135.74682
+        ]
+      },
+      {
+        "src": "assets/kyoto-08.webp",
+        "alt": "Early blossoms on the castle grounds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01556,
+          135.74637
+        ]
+      },
+      {
+        "src": "assets/kyoto-09.webp",
+        "alt": "Corner turret over the outer moat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01201,
+          135.75128
+        ]
+      },
+      {
+        "src": "assets/kyoto-10.webp",
+        "alt": "Kinkaku-ji across the Mirror Pond",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.03901,
+          135.7287
+        ]
+      },
+      {
+        "src": "assets/kyoto-11.webp",
+        "alt": "Golden Pavilion, Kinkaku-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.04,
+          135.72662
+        ]
+      },
+      {
+        "src": "assets/kyoto-12.webp",
+        "alt": "Raked sand garden at Ginkaku-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.02743,
+          135.79526
+        ]
+      },
+      {
+        "src": "assets/kyoto-13.webp",
+        "alt": "Sand garden and hall, Ginkaku-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.0267,
+          135.79845
+        ]
+      },
+      {
+        "src": "assets/kyoto-14.webp",
+        "alt": "Moss garden at Ginkaku-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.02621,
+          135.79878
+        ]
+      },
+      {
+        "src": "assets/kyoto-15.webp",
+        "alt": "View over Ginkaku-ji toward the city",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.02669,
+          135.79895
+        ]
+      },
+      {
+        "src": "assets/kyoto-16.webp",
+        "alt": "Silver Pavilion, Ginkaku-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.03113,
+          135.7867
+        ]
+      },
+      {
+        "src": "assets/kyoto-17.webp",
+        "alt": "Otenmon gate, Heian Shrine",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          35.01517,
+          135.78241
+        ]
+      },
+      {
+        "src": "assets/kyoto-18.webp",
+        "alt": "Yasaka Pagoda above the Higashiyama lanes",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99822,
+          135.78008
+        ]
+      },
+      {
+        "src": "assets/kyoto-19.webp",
+        "alt": "Shops along Ninenzaka",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99739,
+          135.78139
+        ]
+      },
+      {
+        "src": "assets/kyoto-20.webp",
+        "alt": "Niomon gate, Kiyomizu-dera",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99561,
+          135.78307
+        ]
+      },
+      {
+        "src": "assets/kyoto-21.webp",
+        "alt": "Gate at Nishi Hongan-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99201,
+          135.7523
+        ]
+      },
+      {
+        "src": "assets/kyoto-22.webp",
+        "alt": "Amida Hall, Nishi Hongan-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99206,
+          135.75212
+        ]
+      },
+      {
+        "src": "assets/kyoto-23.webp",
+        "alt": "Covered walkway, Nishi Hongan-ji",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.99155,
+          135.75218
+        ]
+      },
+      {
+        "src": "assets/kyoto-24.webp",
+        "alt": "Dinner on a hot-stone grill",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.98806,
+          135.75729
+        ]
+      },
+      {
+        "src": "assets/kyoto-25.webp",
+        "alt": "Torii tunnel at Fushimi Inari at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.97044,
+          135.77911
+        ]
+      },
+      {
+        "src": "assets/kyoto-26.webp",
+        "alt": "Kyoto lights from Mount Inari",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.96331,
+          135.76192
+        ]
+      },
+      {
+        "src": "assets/kyoto-27.webp",
+        "alt": "Fushimi Inari shrine lit at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.96715,
+          135.77301
+        ]
+      },
+      {
+        "src": "assets/kyoto-28.webp",
+        "alt": "Romon gate, Fushimi Inari",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2014",
+        "gps": [
+          34.96714,
+          135.77232
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/jp.svg",
+    "countryCode": "JP",
+    "updated": "2014-03-17"
   }
 ]
