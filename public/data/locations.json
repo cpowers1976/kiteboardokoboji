@@ -65,6 +65,153 @@
         "class": "wide",
         "kind": "photo",
         "visit": "April 2018"
+      },
+      {
+        "src": "assets/addis-ababa-2015-01.webp",
+        "alt": "Welcome to Ethiopia",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-02.webp",
+        "alt": "Old Fiat on the street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-03.webp",
+        "alt": "On the National Museum steps",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.03806,
+          38.76221
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-04.webp",
+        "alt": "Lucy at the National Museum",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-05.webp",
+        "alt": "Taking a break downtown",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.0364,
+          38.75223
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-06.webp",
+        "alt": "Street corner in Piazza",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.03118,
+          38.75421
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-07.webp",
+        "alt": "Coffee ceremony",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.03515,
+          38.75404
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-08.webp",
+        "alt": "Injera lunch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-09.webp",
+        "alt": "Roasting at Tomoca coffee",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-10.webp",
+        "alt": "Macchiato at Tomoca",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-11.webp",
+        "alt": "Coffee menu at Tomoca",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-12.webp",
+        "alt": "Lion of Judah monument",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-13.webp",
+        "alt": "At the Lion of Judah monument",
+        "class": "",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.01095,
+          38.75325
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-14.webp",
+        "alt": "Blue taxis at Meskel Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.01061,
+          38.76
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-15.webp",
+        "alt": "Holy Trinity Cathedral",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015",
+        "gps": [
+          9.03104,
+          38.76601
+        ]
+      },
+      {
+        "src": "assets/addis-ababa-2015-16.webp",
+        "alt": "Holy Trinity Cathedral grounds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
+      },
+      {
+        "src": "assets/addis-ababa-2015-17.webp",
+        "alt": "Inside an old Lada taxi",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "October 2015"
       }
     ],
     "flagAsset": "assets/flags/et.svg",
