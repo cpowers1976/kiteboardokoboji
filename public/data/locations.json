@@ -15274,5 +15274,347 @@
     "flagAsset": "assets/flags/it.svg",
     "countryCode": "IT",
     "updated": "2019-05-22"
+  },
+  {
+    "slug": "ostersund",
+    "name": "Östersund & Storsjön",
+    "region": "Sweden",
+    "kicker": "JÄMTLAND, SWEDEN",
+    "cover": "assets/ostersund-08.webp",
+    "photos": [
+      {
+        "src": "assets/ostersund-01.webp",
+        "alt": "Storsjön from the hills",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11145,
+          14.44317
+        ]
+      },
+      {
+        "src": "assets/ostersund-02.webp",
+        "alt": "Selfie over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11131,
+          14.44322
+        ]
+      },
+      {
+        "src": "assets/ostersund-03.webp",
+        "alt": "Farmyard at the moose park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11145,
+          14.44317
+        ]
+      },
+      {
+        "src": "assets/ostersund-04.webp",
+        "alt": "Moose crossing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.1123,
+          14.44338
+        ]
+      },
+      {
+        "src": "assets/ostersund-05.webp",
+        "alt": "Moose calf",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11315,
+          14.44589
+        ]
+      },
+      {
+        "src": "assets/ostersund-06.webp",
+        "alt": "Moose up close",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11312,
+          14.44626
+        ]
+      },
+      {
+        "src": "assets/ostersund-07.webp",
+        "alt": "Feeding time",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11312,
+          14.4463
+        ]
+      },
+      {
+        "src": "assets/ostersund-08.webp",
+        "alt": "Bull moose in velvet",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11309,
+          14.44626
+        ]
+      },
+      {
+        "src": "assets/ostersund-v1.mp4",
+        "alt": "Moose at the fence",
+        "class": "wide",
+        "kind": "video",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.113,
+          14.4462
+        ]
+      },
+      {
+        "src": "assets/ostersund-10.webp",
+        "alt": "With the bull moose",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11308,
+          14.4463
+        ]
+      },
+      {
+        "src": "assets/ostersund-11.webp",
+        "alt": "Friends and a moose",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11309,
+          14.44626
+        ]
+      },
+      {
+        "src": "assets/ostersund-12.webp",
+        "alt": "Bull moose browsing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11327,
+          14.44668
+        ]
+      },
+      {
+        "src": "assets/ostersund-13.webp",
+        "alt": "Moose resting in the grass",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11314,
+          14.4465
+        ]
+      },
+      {
+        "src": "assets/ostersund-14.webp",
+        "alt": "Selfie at the moose sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2022 · Moose Garden",
+        "gps": [
+          63.11234,
+          14.44338
+        ]
+      },
+      {
+        "src": "assets/ostersund-15.webp",
+        "alt": "Double rainbow over the fields",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.14779,
+          14.34418
+        ]
+      },
+      {
+        "src": "assets/ostersund-16.webp",
+        "alt": "Rainbow over the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.15057,
+          14.33507
+        ]
+      },
+      {
+        "src": "assets/ostersund-17.webp",
+        "alt": "Heading out by boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.15042,
+          14.33513
+        ]
+      },
+      {
+        "src": "assets/ostersund-18.webp",
+        "alt": "Old steamship at the jetty",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16426,
+          14.31653
+        ]
+      },
+      {
+        "src": "assets/ostersund-19.webp",
+        "alt": "Steamer on Storsjön",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16414,
+          14.31559
+        ]
+      },
+      {
+        "src": "assets/ostersund-20.webp",
+        "alt": "Island manor house",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16501,
+          14.31396
+        ]
+      },
+      {
+        "src": "assets/ostersund-21.webp",
+        "alt": "Manor veranda",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16507,
+          14.31373
+        ]
+      },
+      {
+        "src": "assets/ostersund-22.webp",
+        "alt": "Dinner in the tent",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16494,
+          14.31321
+        ]
+      },
+      {
+        "src": "assets/ostersund-23.webp",
+        "alt": "Gazebo view over the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16495,
+          14.31344
+        ]
+      },
+      {
+        "src": "assets/ostersund-24.webp",
+        "alt": "Tiled stove inside the manor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16494,
+          14.31344
+        ]
+      },
+      {
+        "src": "assets/ostersund-25.webp",
+        "alt": "Lake view from upstairs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16499,
+          14.31345
+        ]
+      },
+      {
+        "src": "assets/ostersund-26.webp",
+        "alt": "Manor in the evening light",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.1652,
+          14.31387
+        ]
+      },
+      {
+        "src": "assets/ostersund-27.webp",
+        "alt": "Selfie on the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.16161,
+          14.31891
+        ]
+      },
+      {
+        "src": "assets/ostersund-28.webp",
+        "alt": "Rock island on Storsjön",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.15536,
+          14.32767
+        ]
+      },
+      {
+        "src": "assets/ostersund-29.webp",
+        "alt": "Midsummer sun over Storsjön",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.15039,
+          14.33515
+        ]
+      },
+      {
+        "src": "assets/ostersund-30.webp",
+        "alt": "Back at the dock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2018 · Midsummer on Storsjön",
+        "gps": [
+          63.15026,
+          14.33509
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/se.png",
+    "countryCode": "SE",
+    "updated": "2022-08-14"
   }
 ]
