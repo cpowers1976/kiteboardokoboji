@@ -9276,23 +9276,96 @@
   {
     "slug": "india",
     "name": "India",
-    "region": "India",
+    "region": "Cities and more from around the country",
     "kicker": "INDIA",
-    "cover": "assets/india-01.webp",
+    "cover": "assets/india-old-46.webp",
+    "photos": [
+      {
+        "src": "assets/india-more-09.webp",
+        "alt": "Sheep grazing in Gujarat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Gujarat",
+        "gps": [
+          23.146,
+          70.10983
+        ]
+      },
+      {
+        "src": "assets/india-old-51.webp",
+        "alt": "Old city gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-52.webp",
+        "alt": "Decorated camel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-53.webp",
+        "alt": "Small-town street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-54.webp",
+        "alt": "Open countryside",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-01.webp",
+        "alt": "India travel archive",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "From the archive"
+      },
+      {
+        "src": "assets/india-03.webp",
+        "alt": "India travel archive",
+        "class": "",
+        "kind": "photo",
+        "visit": "From the archive"
+      }
+    ],
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "updated": "2013-09-01",
+    "map": [
+      20.6,
+      79
+    ]
+  },
+  {
+    "slug": "ahmedabad",
+    "name": "Ahmedabad",
+    "region": "Gujarat, India",
+    "kicker": "INDIA",
+    "cover": "assets/india-feb-2026-06.webp",
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "parent": "india",
+    "updated": "2026-02-01",
     "photos": [
       {
         "src": "assets/india-feb-2026-05.webp",
         "alt": "Morning walk selfie with an auto-rickshaw, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad"
+        "visit": "February 2026"
       },
       {
         "src": "assets/india-feb-2026-06.webp",
         "alt": "Auto-rickshaw on the street, Ahmedabad",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
+        "visit": "February 2026",
         "gps": [
           23.03004,
           72.55904
@@ -9303,7 +9376,7 @@
         "alt": "Rooster on the sidewalk, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
+        "visit": "February 2026",
         "gps": [
           23.03271,
           72.56004
@@ -9314,7 +9387,7 @@
         "alt": "Pigeons feeding on the pavement, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
+        "visit": "February 2026",
         "gps": [
           23.03285,
           72.56019
@@ -9325,29 +9398,21 @@
         "alt": "Jain temple between the apartment blocks, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
-        "gps": [
-          58.30056,
-          -134.40553
-        ]
+        "visit": "February 2026"
       },
       {
         "src": "assets/india-feb-2026-12.webp",
         "alt": "Langur monkey outside the ATM, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
-        "gps": [
-          58.29647,
-          -134.40231
-        ]
+        "visit": "February 2026"
       },
       {
         "src": "assets/india-feb-2026-13.webp",
         "alt": "Selfie with a langur, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
+        "visit": "February 2026",
         "gps": [
           23.02548,
           72.55632
@@ -9358,18 +9423,27 @@
         "alt": "Langur on a bench, Ahmedabad",
         "class": "",
         "kind": "photo",
-        "visit": "February 2026 · Ahmedabad",
-        "gps": [
-          58.34441,
-          -134.5851
-        ]
-      },
+        "visit": "February 2026"
+      }
+    ]
+  },
+  {
+    "slug": "nashik",
+    "name": "Nashik",
+    "region": "Maharashtra, India",
+    "kicker": "INDIA",
+    "cover": "assets/india-mar-2025-14.webp",
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "parent": "india",
+    "updated": "2025-03-01",
+    "photos": [
       {
         "src": "assets/india-mar-2025-13.webp",
         "alt": "Sula Vineyards sign, Nashik",
         "class": "wide",
         "kind": "photo",
-        "visit": "March 2025 · Nashik",
+        "visit": "March 2025 · Sula Vineyards",
         "gps": [
           20.00565,
           73.68671
@@ -9380,7 +9454,7 @@
         "alt": "Looking out over the Sula vineyards",
         "class": "wide",
         "kind": "photo",
-        "visit": "March 2025 · Nashik",
+        "visit": "March 2025 · Sula Vineyards",
         "gps": [
           20.00563,
           73.68767
@@ -9391,7 +9465,7 @@
         "alt": "Wine tanks at Sula",
         "class": "wide",
         "kind": "photo",
-        "visit": "March 2025 · Nashik",
+        "visit": "March 2025 · Sula Vineyards",
         "gps": [
           20.00559,
           73.68783
@@ -9402,46 +9476,31 @@
         "alt": "Barrel room at Sula",
         "class": "wide",
         "kind": "photo",
-        "visit": "March 2025 · Nashik",
+        "visit": "March 2025 · Sula Vineyards",
         "gps": [
           20.00561,
           73.68754
         ]
-      },
-      {
-        "src": "assets/india-01.webp",
-        "alt": "India travel archive",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "Earlier photos"
-      },
-      {
-        "src": "assets/india-02.webp",
-        "alt": "India travel archive",
-        "class": "",
-        "kind": "photo",
-        "visit": "Earlier photos"
-      },
-      {
-        "src": "assets/india-03.webp",
-        "alt": "India travel archive",
-        "class": "",
-        "kind": "photo",
-        "visit": "Earlier photos"
-      },
-      {
-        "src": "assets/india-04.webp",
-        "alt": "India travel archive",
-        "class": "",
-        "kind": "photo",
-        "visit": "Earlier photos"
-      },
+      }
+    ]
+  },
+  {
+    "slug": "goa",
+    "name": "Goa",
+    "region": "India",
+    "kicker": "INDIA",
+    "cover": "assets/india-old-01.webp",
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "parent": "india",
+    "updated": "2018-02-01",
+    "photos": [
       {
         "src": "assets/india-old-01.webp",
         "alt": "Long stretch of Goa beach",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.51144,
           73.76437
@@ -9452,7 +9511,7 @@
         "alt": "Cow on the beach",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.51376,
           73.76391
@@ -9463,7 +9522,7 @@
         "alt": "Hotel pool in the palms",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.51155,
           73.77209
@@ -9474,7 +9533,7 @@
         "alt": "Beach shack at dusk",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.51028,
           73.76495
@@ -9485,7 +9544,7 @@
         "alt": "Fishing boats on the shore",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.49707,
           73.7822
@@ -9496,7 +9555,7 @@
         "alt": "River boats under the palms",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.49667,
           73.78464
@@ -9507,7 +9566,7 @@
         "alt": "Boat ride past the island",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.49329,
           73.78887
@@ -9518,7 +9577,7 @@
         "alt": "Street market",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.51036,
           73.76952
@@ -9529,7 +9588,7 @@
         "alt": "Night market",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.577,
           73.76182
@@ -9540,7 +9599,7 @@
         "alt": "Old Goa church",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.50094,
           73.91208
@@ -9551,7 +9610,7 @@
         "alt": "Old stone archway",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.50557,
           73.91393
@@ -9562,7 +9621,7 @@
         "alt": "Fort Aguada",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.4927,
           73.77377
@@ -9573,7 +9632,7 @@
         "alt": "Coastline from the fort",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.49222,
           73.76956
@@ -9584,7 +9643,7 @@
         "alt": "Rocky shore",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.49276,
           73.77774
@@ -9595,7 +9654,7 @@
         "alt": "Basilica of Bom Jesus, Old Goa",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.50106,
           73.91223
@@ -9606,7 +9665,7 @@
         "alt": "Gilded altar in an Old Goa church",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.50347,
           73.91051
@@ -9617,7 +9676,7 @@
         "alt": "Church of St. Cajetan",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.5053,
           73.91443
@@ -9628,7 +9687,7 @@
         "alt": "Spice stall at the night market",
         "class": "wide",
         "kind": "photo",
-        "visit": "February 2018 · Goa",
+        "visit": "February 2018",
         "gps": [
           15.57751,
           73.76324
@@ -9639,175 +9698,139 @@
         "alt": "Out on the boat",
         "class": "wide",
         "kind": "photo",
-        "visit": "June 2017 · Goa"
+        "visit": "June 2017"
       },
       {
         "src": "assets/india-old-16.webp",
         "alt": "Parasail launch",
         "class": "wide",
         "kind": "photo",
-        "visit": "June 2017 · Goa"
+        "visit": "June 2017"
       },
       {
         "src": "assets/india-old-17.webp",
         "alt": "Sunset on the beach",
         "class": "wide",
         "kind": "photo",
-        "visit": "June 2017 · Goa"
+        "visit": "June 2017"
       },
       {
         "src": "assets/india-old-18.webp",
         "alt": "Colorful fishing boats",
         "class": "wide",
         "kind": "photo",
-        "visit": "June 2017 · Goa"
+        "visit": "June 2017"
       },
       {
         "src": "assets/india-old-19.webp",
         "alt": "Island offshore",
         "class": "wide",
         "kind": "photo",
-        "visit": "June 2017 · Goa"
-      },
+        "visit": "June 2017"
+      }
+    ]
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "region": "Maharashtra, India",
+    "kicker": "INDIA",
+    "cover": "assets/india-more-03.webp",
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "parent": "india",
+    "updated": "2014-08-01",
+    "photos": [
       {
         "src": "assets/india-old-20.webp",
         "alt": "Mumbai coast from above",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-21.webp",
         "alt": "Ganesh idol at the festival",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-22.webp",
         "alt": "Sea rocks at high tide",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-23.webp",
         "alt": "Tree-lined lane",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-24.webp",
         "alt": "Rickshaw in the back streets",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-25.webp",
         "alt": "Packed shop",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-26.webp",
         "alt": "Buffalo on the street",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-27.webp",
         "alt": "Dinner with the team",
         "class": "wide",
         "kind": "photo",
-        "visit": "August 2014 · Mumbai"
+        "visit": "August 2014"
       },
       {
         "src": "assets/india-old-28.webp",
         "alt": "Ganesh Chaturthi crowds",
         "class": "",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
+        "visit": "September 2013"
       },
       {
         "src": "assets/india-old-29.webp",
         "alt": "Golden Ganesh idol",
         "class": "",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
+        "visit": "September 2013"
       },
       {
         "src": "assets/india-old-30.webp",
         "alt": "At the Ganesh pandal",
         "class": "",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
+        "visit": "September 2013"
       },
       {
         "src": "assets/india-old-31.webp",
         "alt": "Ganesh shrine",
         "class": "",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-32.webp",
-        "alt": "Shore Temple, Mahabalipuram",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-33.webp",
-        "alt": "Pancha Rathas",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-34.webp",
-        "alt": "Stone elephant at the Rathas",
-        "class": "",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-35.webp",
-        "alt": "Arjuna's Penance carving",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-36.webp",
-        "alt": "Krishna's Butterball",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-37.webp",
-        "alt": "Beach by the Shore Temple",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
-      },
-      {
-        "src": "assets/india-old-38.webp",
-        "alt": "Carved pillar",
-        "class": "",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram"
+        "visit": "September 2013"
       },
       {
         "src": "assets/india-more-01.webp",
         "alt": "Dhobi Ghat laundry",
         "class": "wide",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
+        "visit": "September 2013",
         "gps": [
           18.98717,
           72.82483
@@ -9818,7 +9841,7 @@
         "alt": "Chhatrapati Shivaji Terminus",
         "class": "wide",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
+        "visit": "September 2013",
         "gps": [
           18.94017,
           72.83467
@@ -9829,7 +9852,7 @@
         "alt": "Ferries at the Gateway of India",
         "class": "wide",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
+        "visit": "September 2013",
         "gps": [
           18.922,
           72.83483
@@ -9840,65 +9863,10 @@
         "alt": "Taj Mahal Palace from the waterfront",
         "class": "wide",
         "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
+        "visit": "September 2013",
         "gps": [
           18.92217,
           72.83417
-        ]
-      },
-      {
-        "src": "assets/india-more-05.webp",
-        "alt": "Valley below Mahabaleshwar",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
-        "gps": [
-          17.92617,
-          73.78333
-        ]
-      },
-      {
-        "src": "assets/india-more-06.webp",
-        "alt": "Western Ghats in the clouds",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
-        "gps": [
-          17.926,
-          73.78333
-        ]
-      },
-      {
-        "src": "assets/india-more-07.webp",
-        "alt": "Up in the hills at Mahabaleshwar",
-        "class": "",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
-        "gps": [
-          17.92417,
-          73.77433
-        ]
-      },
-      {
-        "src": "assets/india-more-08.webp",
-        "alt": "Pune street market",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
-        "gps": [
-          18.4545,
-          73.85883
-        ]
-      },
-      {
-        "src": "assets/india-more-09.webp",
-        "alt": "Sheep grazing in Gujarat",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "September 2013 · Mumbai, Mahabaleshwar & Mahabalipuram",
-        "gps": [
-          23.146,
-          70.10983
         ]
       },
       {
@@ -10016,39 +9984,145 @@
         "class": "wide",
         "kind": "photo",
         "visit": "July 2008"
-      },
-      {
-        "src": "assets/india-old-51.webp",
-        "alt": "Old city gate",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "July 2008"
-      },
-      {
-        "src": "assets/india-old-52.webp",
-        "alt": "Decorated camel",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "July 2008"
-      },
-      {
-        "src": "assets/india-old-53.webp",
-        "alt": "Small-town street",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "July 2008"
-      },
-      {
-        "src": "assets/india-old-54.webp",
-        "alt": "Open countryside",
-        "class": "wide",
-        "kind": "photo",
-        "visit": "July 2008"
       }
-    ],
+    ]
+  },
+  {
+    "slug": "mahabaleshwar",
+    "name": "Mahabaleshwar & Pune",
+    "region": "Maharashtra, India",
+    "kicker": "INDIA",
+    "cover": "assets/india-more-05.webp",
     "flagAsset": "assets/flags/in.png",
     "countryCode": "IN",
-    "updated": "2026-02-01"
+    "parent": "india",
+    "updated": "2013-09-01",
+    "photos": [
+      {
+        "src": "assets/india-04.webp",
+        "alt": "Krishna valley and lake from the hills, Mahabaleshwar",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-more-05.webp",
+        "alt": "Valley below Mahabaleshwar",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013",
+        "gps": [
+          17.92617,
+          73.78333
+        ]
+      },
+      {
+        "src": "assets/india-more-06.webp",
+        "alt": "Western Ghats in the clouds",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013",
+        "gps": [
+          17.926,
+          73.78333
+        ]
+      },
+      {
+        "src": "assets/india-more-07.webp",
+        "alt": "Up in the hills at Mahabaleshwar",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013",
+        "gps": [
+          17.92417,
+          73.77433
+        ]
+      },
+      {
+        "src": "assets/india-more-08.webp",
+        "alt": "Pune street market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013",
+        "gps": [
+          18.4545,
+          73.85883
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mahabalipuram",
+    "name": "Mahabalipuram",
+    "region": "Tamil Nadu, India",
+    "kicker": "INDIA",
+    "cover": "assets/india-old-32.webp",
+    "flagAsset": "assets/flags/in.png",
+    "countryCode": "IN",
+    "parent": "india",
+    "updated": "2013-09-01",
+    "photos": [
+      {
+        "src": "assets/india-old-32.webp",
+        "alt": "Shore Temple, Mahabalipuram",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-33.webp",
+        "alt": "Pancha Rathas",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-34.webp",
+        "alt": "Stone elephant at the Rathas",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-35.webp",
+        "alt": "Arjuna's Penance carving",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-36.webp",
+        "alt": "Krishna's Butterball",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-37.webp",
+        "alt": "Beach by the Shore Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-old-38.webp",
+        "alt": "Carved pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013"
+      },
+      {
+        "src": "assets/india-02.webp",
+        "alt": "Pancha Rathas, Mahabalipuram",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013"
+      }
+    ],
+    "map": [
+      12.6168,
+      80.1993
+    ]
   },
   {
     "slug": "indonesia",

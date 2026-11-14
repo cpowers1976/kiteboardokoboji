@@ -69,6 +69,15 @@ const mapLink = (p, l) => {
     document.querySelector('#region').textContent = l.region;
     document.querySelector('#kicker').textContent = l.kicker;
 
+    // Country hub (e.g. India): cards for every location whose "parent" is this slug, newest first.
+    // City pages link back to their hub.
+    const kids = ls.filter(x => x.parent === l.slug).sort((a, b) => (b.updated || '').localeCompare(a.updated || ''));
+    if (kids.length) gallery.insertAdjacentHTML('beforebegin', '<section class="subplaces"><div class="section-head"><h2>Cities.</h2><p>'
+      + kids.length + ' places in ' + esc(l.name) + '. The photos below are from elsewhere around the country.</p></div>'
+      + '<div class="cards">' + kids.map(k => card(k, k.updated ? '<span class="card-date">' + esc(shortDate(k.updated)) + '</span>' : '')).join('') + '</div></section>');
+    const hub = l.parent && ls.find(x => x.slug === l.parent);
+    if (hub) document.querySelector('#region').insertAdjacentHTML('afterend', '<p class="parent-link"><a href="destination.html?place=' + encodeURIComponent(hub.slug) + '">ALL OF ' + esc(hub.name.toUpperCase()) + ' →</a></p>');
+
     // Group photos into visits (consecutive photos with the same "visit" label)
     const visits = [];
     l.photos.forEach((p, i) => {
