@@ -8792,6 +8792,440 @@
         "class": "",
         "kind": "photo",
         "visit": "Earlier photos"
+      },
+      {
+        "src": "assets/india-old-01.webp",
+        "alt": "Long stretch of Goa beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.51144,
+          73.76437
+        ]
+      },
+      {
+        "src": "assets/india-old-02.webp",
+        "alt": "Cow on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.51376,
+          73.76391
+        ]
+      },
+      {
+        "src": "assets/india-old-03.webp",
+        "alt": "Hotel pool in the palms",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.51155,
+          73.77209
+        ]
+      },
+      {
+        "src": "assets/india-old-04.webp",
+        "alt": "Beach shack at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.51028,
+          73.76495
+        ]
+      },
+      {
+        "src": "assets/india-old-05.webp",
+        "alt": "Fishing boats on the shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.49707,
+          73.7822
+        ]
+      },
+      {
+        "src": "assets/india-old-06.webp",
+        "alt": "River boats under the palms",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.49667,
+          73.78464
+        ]
+      },
+      {
+        "src": "assets/india-old-07.webp",
+        "alt": "Boat ride past the island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.49329,
+          73.78887
+        ]
+      },
+      {
+        "src": "assets/india-old-08.webp",
+        "alt": "Street market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.51036,
+          73.76952
+        ]
+      },
+      {
+        "src": "assets/india-old-09.webp",
+        "alt": "Night market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.577,
+          73.76182
+        ]
+      },
+      {
+        "src": "assets/india-old-10.webp",
+        "alt": "Old Goa church",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.50094,
+          73.91208
+        ]
+      },
+      {
+        "src": "assets/india-old-11.webp",
+        "alt": "Old stone archway",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.50557,
+          73.91393
+        ]
+      },
+      {
+        "src": "assets/india-old-12.webp",
+        "alt": "Fort Aguada",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.4927,
+          73.77377
+        ]
+      },
+      {
+        "src": "assets/india-old-13.webp",
+        "alt": "Coastline from the fort",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.49222,
+          73.76956
+        ]
+      },
+      {
+        "src": "assets/india-old-14.webp",
+        "alt": "Rocky shore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "February 2018 · Goa",
+        "gps": [
+          15.49276,
+          73.77774
+        ]
+      },
+      {
+        "src": "assets/india-old-15.webp",
+        "alt": "Out on the boat",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017 · Goa"
+      },
+      {
+        "src": "assets/india-old-16.webp",
+        "alt": "Parasail launch",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017 · Goa"
+      },
+      {
+        "src": "assets/india-old-17.webp",
+        "alt": "Sunset on the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017 · Goa"
+      },
+      {
+        "src": "assets/india-old-18.webp",
+        "alt": "Colorful fishing boats",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017 · Goa"
+      },
+      {
+        "src": "assets/india-old-19.webp",
+        "alt": "Island offshore",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017 · Goa"
+      },
+      {
+        "src": "assets/india-old-20.webp",
+        "alt": "Mumbai coast from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-21.webp",
+        "alt": "Ganesh idol at the festival",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-22.webp",
+        "alt": "Sea rocks at high tide",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-23.webp",
+        "alt": "Tree-lined lane",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-24.webp",
+        "alt": "Rickshaw in the back streets",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-25.webp",
+        "alt": "Packed shop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-26.webp",
+        "alt": "Buffalo on the street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-27.webp",
+        "alt": "Dinner with the team",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2014 · Mumbai"
+      },
+      {
+        "src": "assets/india-old-28.webp",
+        "alt": "Ganesh Chaturthi crowds",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-29.webp",
+        "alt": "Golden Ganesh idol",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-30.webp",
+        "alt": "At the Ganesh pandal",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-31.webp",
+        "alt": "Ganesh shrine",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-32.webp",
+        "alt": "Shore Temple, Mahabalipuram",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-33.webp",
+        "alt": "Pancha Rathas",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-34.webp",
+        "alt": "Stone elephant at the Rathas",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-35.webp",
+        "alt": "Arjuna's Penance carving",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-36.webp",
+        "alt": "Krishna's Butterball",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-37.webp",
+        "alt": "Beach by the Shore Temple",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-38.webp",
+        "alt": "Carved pillar",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2013 · Ganesh festival & Mahabalipuram"
+      },
+      {
+        "src": "assets/india-old-39.webp",
+        "alt": "Gateway of India at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-40.webp",
+        "alt": "Taj and the Gateway at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-41.webp",
+        "alt": "Sunset over the harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-42.webp",
+        "alt": "Ferry to Elephanta Island",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-43.webp",
+        "alt": "Walk up to the caves",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-44.webp",
+        "alt": "Elephanta Caves",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-45.webp",
+        "alt": "Carvings inside the caves",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Mumbai & Elephanta"
+      },
+      {
+        "src": "assets/india-old-46.webp",
+        "alt": "Taj Mahal Palace hotel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-47.webp",
+        "alt": "Horse cart in Colaba",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-48.webp",
+        "alt": "Mumbai street crossing",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-49.webp",
+        "alt": "Spice and nut shop",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-50.webp",
+        "alt": "Cows in the street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-51.webp",
+        "alt": "Old city gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-52.webp",
+        "alt": "Decorated camel",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-53.webp",
+        "alt": "Small-town street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
+      },
+      {
+        "src": "assets/india-old-54.webp",
+        "alt": "Open countryside",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "July 2008"
       }
     ],
     "flagAsset": "assets/flags/in.png",
