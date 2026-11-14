@@ -4037,46 +4037,256 @@
     "photos": [
       {
         "src": "assets/california-01.webp",
-        "alt": "California travel archive",
+        "alt": "Jellies at the Monterey Bay Aquarium",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       },
       {
         "src": "assets/california-02.webp",
-        "alt": "California travel archive",
+        "alt": "Golden Gate Bridge in the afternoon sun",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       },
       {
         "src": "assets/california-03.webp",
-        "alt": "California travel archive",
+        "alt": "Marin Headlands cliffs",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       },
       {
         "src": "assets/california-04.webp",
-        "alt": "California travel archive",
+        "alt": "Lake Tahoe from the ski slopes",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       },
       {
         "src": "assets/california-05.webp",
-        "alt": "California travel archive",
+        "alt": "Hotel del Coronado",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       },
       {
         "src": "assets/california-06.webp",
-        "alt": "California travel archive",
+        "alt": "California State Capitol",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-01.webp",
+        "alt": "Honeymoon dinner",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-02.webp",
+        "alt": "San Diego beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-03.webp",
+        "alt": "Hotel del Coronado from the beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-04.webp",
+        "alt": "Santa Barbara from Stearns Wharf",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-05.webp",
+        "alt": "Santa Barbara harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-06.webp",
+        "alt": "Big Sur coastline",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-07.webp",
+        "alt": "Highway 1 along Big Sur",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-08.webp",
+        "alt": "Big Sur cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-09.webp",
+        "alt": "Tide pools in Pacific Grove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-10.webp",
+        "alt": "Monterey coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-11.webp",
+        "alt": "Sailboats in Monterey harbor",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-12.webp",
+        "alt": "Old Fisherman's Wharf, Monterey",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-13.webp",
+        "alt": "Monterey harbor at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-14.webp",
+        "alt": "Cannery Row on the bay",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-15.webp",
+        "alt": "Monterey Bay Aquarium",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-16.webp",
+        "alt": "Jellyfish tank",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-17.webp",
+        "alt": "Alcatraz from Aquatic Park",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-18.webp",
+        "alt": "Dinner in San Francisco",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-19.webp",
+        "alt": "Coit Tower",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-20.webp",
+        "alt": "Chinatown gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-21.webp",
+        "alt": "Cable cars on Powell Street",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-22.webp",
+        "alt": "Haight and Ashbury",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-23.webp",
+        "alt": "Ocean Beach",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-24.webp",
+        "alt": "North Beach at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-25.webp",
+        "alt": "Driving across the Golden Gate Bridge",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-26.webp",
+        "alt": "Marin Headlands coast",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-27.webp",
+        "alt": "Golden Gate Bridge from the headlands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-28.webp",
+        "alt": "Together at the Golden Gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
+      },
+      {
+        "src": "assets/california-2011-29.webp",
+        "alt": "Alcatraz from the headlands",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 – January 2011 · Honeymoon road trip"
       }
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
     "stateFlags": [
       "assets/flags/us-ca.webp"
-    ]
+    ],
+    "updated": "2011-01-05"
   },
   {
     "slug": "cambodia",
@@ -14144,6 +14354,69 @@
         "class": "",
         "kind": "photo",
         "visit": "January 2014"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-01.webp",
+        "alt": "Mountain view from the chairlift",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-02.webp",
+        "alt": "Lake view from the top of a run",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-03.webp",
+        "alt": "Lodge deck above the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-04.webp",
+        "alt": "Lunch on the deck",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-05.webp",
+        "alt": "Run down toward the lake",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-06.webp",
+        "alt": "Sunset over Lake Tahoe",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-07.webp",
+        "alt": "Squaw Valley village",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-08.webp",
+        "alt": "Squaw Valley slopes",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
+      },
+      {
+        "src": "assets/lake-tahoe-2011-09.webp",
+        "alt": "Skiing above the valley",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "January 2011 · Honeymoon ski days"
       }
     ],
     "flagAsset": "assets/flags/us.png",
@@ -24343,6 +24616,48 @@
           34.87087,
           -111.75949
         ]
+      },
+      {
+        "src": "assets/arizona-2010-01.webp",
+        "alt": "Sun Devil Stadium at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
+      },
+      {
+        "src": "assets/arizona-2010-02.webp",
+        "alt": "Hawkeye flags on the field",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
+      },
+      {
+        "src": "assets/arizona-2010-03.webp",
+        "alt": "At the Insight Bowl",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
+      },
+      {
+        "src": "assets/arizona-2010-04.webp",
+        "alt": "Iowa end zone",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
+      },
+      {
+        "src": "assets/arizona-2010-05.webp",
+        "alt": "Iowa marching band at halftime",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
+      },
+      {
+        "src": "assets/arizona-2010-06.webp",
+        "alt": "Flag runners after a score",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "December 2010 · Insight Bowl"
       }
     ],
     "flagAsset": "assets/flags/us.png",
