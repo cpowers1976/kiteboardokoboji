@@ -1,6 +1,9 @@
 /* World map page */
-.map-intro{padding:8vh 8vw 6vh}
-.map-wrap{display:grid;grid-template-columns:1fr 320px;background:#0b1114;border-top:4px solid #e5a044}
+.map-intro{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 22px;padding:20px 4vw 18px}
+.map-intro .eyebrow{margin:0;font-size:11px;letter-spacing:4px}
+.map-intro h1{margin:0;font:400 clamp(26px,3vw,38px)/1.1 Georgia,serif;letter-spacing:0}
+.map-intro p{margin:0;font-size:13px}
+.map-wrap{display:grid;grid-template-columns:1fr 320px;background:#0b1114}
 #worldMap{height:calc(100vh - 72px);min-height:520px;max-height:900px;background:#0b1114}
 .map-list{display:flex;flex-direction:column;height:calc(100vh - 72px);min-height:520px;max-height:900px;background:#0b1114;border-left:1px solid #172226}
 .map-search{display:block;padding:22px 20px 16px;border-bottom:1px solid #172226}
