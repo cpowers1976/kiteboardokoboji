@@ -17444,5 +17444,129 @@
     ],
     "countryCode": "US",
     "updated": "2014-09-14"
+  },
+  {
+    "slug": "kamensk-uralskiy",
+    "name": "Kamensk-Uralsky",
+    "region": "Russia",
+    "kicker": "SVERDLOVSK REGION, RUSSIA",
+    "cover": "assets/kamensk-uralskiy-01.webp",
+    "photos": [
+      {
+        "src": "assets/kamensk-uralskiy-01.webp",
+        "alt": "Blue-domed church",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-02.webp",
+        "alt": "Red brick church",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-03.webp",
+        "alt": "Inside the church",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-04.webp",
+        "alt": "Iset River below the cliffs",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-05.webp",
+        "alt": "Rock face on the Iset",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-06.webp",
+        "alt": "Rapids on the Iset River",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-07.webp",
+        "alt": "Cannon monument",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-08.webp",
+        "alt": "Soviet mosaic on a city building",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-09.webp",
+        "alt": "Railway station",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-10.webp",
+        "alt": "Looking over town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-11.webp",
+        "alt": "Old wooden house",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-12.webp",
+        "alt": "Wooden building in the old town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2007"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-13.webp",
+        "alt": "Iset River rapids in early spring",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2006"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-14.webp",
+        "alt": "River bend outside town",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2006"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-15.webp",
+        "alt": "Fighter jet monument",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2006"
+      },
+      {
+        "src": "assets/kamensk-uralskiy-16.webp",
+        "alt": "Memorial on the square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "March 2006"
+      }
+    ],
+    "flagAsset": "assets/flags/ru.png",
+    "countryCode": "RU",
+    "updated": "2007-04-14"
   }
 ]
