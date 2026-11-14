@@ -7049,6 +7049,17 @@
         ]
       },
       {
+        "src": "assets/hong-kong-lkf-night.webp",
+        "alt": "Lan Kwai Fong at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2026",
+        "gps": [
+          22.28117,
+          114.15547
+        ]
+      },
+      {
         "src": "assets/hong-kong-2026-29.webp",
         "alt": "Riding the tram",
         "class": "",
@@ -7093,14 +7104,14 @@
         ]
       },
       {
-        "src": "assets/hong-kong-2018-23.webp",
+        "src": "assets/hong-kong-dragons-back.webp",
         "alt": "Hiking the Dragon's Back trail",
         "class": "wide",
         "kind": "photo",
         "visit": "November 2018 · Dragon's Back hike",
         "gps": [
-          22.23498,
-          114.24372
+          22.23511,
+          114.24351
         ]
       },
       {
@@ -7192,6 +7203,13 @@
         ]
       },
       {
+        "src": "assets/hong-kong-stilts-cove.webp",
+        "alt": "Stilt houses along a rocky cove",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015"
+      },
+      {
         "src": "assets/hong-kong-02.webp",
         "alt": "Stilt houses at Tai O",
         "class": "wide",
@@ -7236,6 +7254,13 @@
         ]
       },
       {
+        "src": "assets/hong-kong-lkf-carnival.webp",
+        "alt": "Lan Kwai Fong carnival gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015"
+      },
+      {
         "src": "assets/hong-kong-06.webp",
         "alt": "Happy Valley racecourse at night",
         "class": "wide",
@@ -7247,14 +7272,25 @@
         ]
       },
       {
-        "src": "assets/hong-kong-07.webp",
-        "alt": "Horses on the turf",
+        "src": "assets/hong-kong-race.webp",
+        "alt": "Night racing at Happy Valley",
         "class": "wide",
         "kind": "photo",
         "visit": "November 2015",
         "gps": [
-          22.27361,
-          114.18053
+          22.27354,
+          114.18043
+        ]
+      },
+      {
+        "src": "assets/hong-kong-cones.webp",
+        "alt": "Cereal-dipped ice cream cones",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2015",
+        "gps": [
+          22.28314,
+          114.15432
         ]
       },
       {
