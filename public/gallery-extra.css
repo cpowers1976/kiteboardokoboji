@@ -28,8 +28,16 @@
 .mast-link+.mast-link{margin-left:10px}@media(max-width:760px){.mast-link+.mast-link{margin-left:0;display:table;margin-top:12px}}
 
 /* Country hub (India): city cards above the gallery, and the link back from a city page */
-.subplaces{padding:8vh 8vw 6vh;background:#eeeae2;color:#111}
+.subplaces{padding:4px 4vw 4vw;background:#eeeae2;color:#111}
+.subplaces .section-head{margin:0 0 14px}
+.subplaces .section-head h2{font-size:clamp(20px,2vw,26px);margin:0}
 .subplaces .card{height:28vw;max-height:420px}
 .subplaces .card h3{font-size:clamp(26px,3.6vw,52px);letter-spacing:-2px}
 .parent-link a{color:#0b7f89;text-decoration:none;font-size:12px;letter-spacing:2px}
 .parent-link a:hover{color:#111}
+
+/* Slim header strip on gallery pages, matching the map page */
+.place-intro{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 22px;padding:20px 4vw 18px}
+.place-intro .eyebrow{margin:0;font-size:11px;letter-spacing:4px}
+.place-intro h1{margin:0;font:400 clamp(26px,3vw,38px)/1.1 Georgia,serif;letter-spacing:0}
+.place-intro p{margin:0;font-size:13px}
