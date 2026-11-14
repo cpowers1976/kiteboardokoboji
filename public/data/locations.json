@@ -2594,6 +2594,359 @@
     "flagAsset": "assets/flags/kr.svg"
   },
   {
+    "slug": "cairo",
+    "name": "Cairo & Giza",
+    "region": "Egypt",
+    "kicker": "CAIRO",
+    "cover": "assets/cairo-01.webp",
+    "photos": [
+      {
+        "src": "assets/cairo-2024-29.webp",
+        "alt": "Nile view over Cairo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          30.05796,
+          31.22505
+        ]
+      },
+      {
+        "src": "assets/cairo-2024-30.webp",
+        "alt": "Abou Tarek, home of koshari",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          30.05027,
+          31.23803
+        ]
+      },
+      {
+        "src": "assets/cairo-2024-31.webp",
+        "alt": "Shisha and Turkish coffee",
+        "class": "",
+        "kind": "photo",
+        "visit": "September 2024",
+        "gps": [
+          30.05478,
+          31.19821
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-20.webp",
+        "alt": "National Museum of Egyptian Civilization",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00725,
+          31.24876
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-21.webp",
+        "alt": "With a statue at the NMEC",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00846,
+          31.24824
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-22.webp",
+        "alt": "Royal statues",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00847,
+          31.24824
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-23.webp",
+        "alt": "Gilded mummy case",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00841,
+          31.24825
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-24.webp",
+        "alt": "Ancient jewelry",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00847,
+          31.24824
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-25.webp",
+        "alt": "Ceremonial palanquin",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.0084,
+          31.24825
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-26.webp",
+        "alt": "Gardens along the Nile",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.00712,
+          31.24937
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-27.webp",
+        "alt": "Fish market counter",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.02519,
+          31.48441
+        ]
+      },
+      {
+        "src": "assets/cairo-2023-28.webp",
+        "alt": "Egyptian dinner spread",
+        "class": "",
+        "kind": "photo",
+        "visit": "August 2023",
+        "gps": [
+          30.03042,
+          31.46018
+        ]
+      },
+      {
+        "src": "assets/cairo-01.webp",
+        "alt": "At the Pyramids of Giza",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.9749,
+          31.13925
+        ]
+      },
+      {
+        "src": "assets/cairo-02.webp",
+        "alt": "Horse cart ride into the desert",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97194,
+          31.14265
+        ]
+      },
+      {
+        "src": "assets/cairo-03.webp",
+        "alt": "Selfie with the pyramids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.96044,
+          31.13416
+        ]
+      },
+      {
+        "src": "assets/cairo-04.webp",
+        "alt": "Horse cart below the pyramids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.96036,
+          31.13427
+        ]
+      },
+      {
+        "src": "assets/cairo-05.webp",
+        "alt": "With the Sphinx",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97564,
+          31.13865
+        ]
+      },
+      {
+        "src": "assets/cairo-06.webp",
+        "alt": "At the base of the Great Pyramid",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.9785,
+          31.13539
+        ]
+      },
+      {
+        "src": "assets/cairo-07.webp",
+        "alt": "Camel ride at the pyramids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97968,
+          31.1376
+        ]
+      },
+      {
+        "src": "assets/cairo-08.webp",
+        "alt": "The Great Pyramid",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97486,
+          31.13305
+        ]
+      },
+      {
+        "src": "assets/cairo-09.webp",
+        "alt": "The Sphinx and the pyramids",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          29.97528,
+          31.13953
+        ]
+      },
+      {
+        "src": "assets/cairo-10.webp",
+        "alt": "Painted tomb walls",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04771,
+          31.23372
+        ]
+      },
+      {
+        "src": "assets/cairo-11.webp",
+        "alt": "Cairo at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.05593,
+          31.22445
+        ]
+      },
+      {
+        "src": "assets/cairo-12.webp",
+        "alt": "The Nile in Cairo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04901,
+          31.22865
+        ]
+      },
+      {
+        "src": "assets/cairo-13.webp",
+        "alt": "The Egyptian Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04668,
+          31.23421
+        ]
+      },
+      {
+        "src": "assets/cairo-14.webp",
+        "alt": "Inside the Egyptian Museum",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04604,
+          31.23394
+        ]
+      },
+      {
+        "src": "assets/cairo-15.webp",
+        "alt": "Golden shrine from Tutankhamun's tomb",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04616,
+          31.23427
+        ]
+      },
+      {
+        "src": "assets/cairo-16.webp",
+        "alt": "Gilded coffin",
+        "class": "",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04774,
+          31.23367
+        ]
+      },
+      {
+        "src": "assets/cairo-17.webp",
+        "alt": "Mummy cases",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.04771,
+          31.2337
+        ]
+      },
+      {
+        "src": "assets/cairo-18.webp",
+        "alt": "Tahrir Square",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.0449,
+          31.23621
+        ]
+      },
+      {
+        "src": "assets/cairo-19.webp",
+        "alt": "Street market",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "June 2017",
+        "gps": [
+          30.05806,
+          31.23139
+        ]
+      }
+    ],
+    "flagAsset": "assets/flags/eg.svg",
+    "countryCode": "EG",
+    "updated": "2024-09-24"
+  },
+  {
     "slug": "california",
     "name": "California",
     "region": "USA",
