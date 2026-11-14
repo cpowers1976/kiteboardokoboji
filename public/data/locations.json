@@ -2153,65 +2153,142 @@
         "src": "assets/bethlehem-01.webp",
         "alt": "Road signs pointing toward Bethlehem and Jerusalem in the West Bank",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-02.webp",
         "alt": "View across Bethlehem in the West Bank",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-03.webp",
         "alt": "Interior of the Church of the Nativity in Bethlehem",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-04.webp",
         "alt": "Mosaic map of the Basilica of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-05.webp",
         "alt": "Courtyard and church buildings at the Church of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-06.webp",
         "alt": "Ornate interior of the Church of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-07.webp",
         "alt": "Pilgrims entering the Grotto of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-08.webp",
         "alt": "The traditional birthplace site inside the Grotto of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-09.webp",
         "alt": "Visitors at the birthplace site in the Grotto of the Nativity in Bethlehem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/bethlehem-10.webp",
         "alt": "Street art in Bethlehem, West Bank",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
+      },
+      {
+        "src": "assets/bethlehem-11.webp",
+        "alt": "Road along the separation barrier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.72438,
+          35.20363
+        ]
+      },
+      {
+        "src": "assets/bethlehem-12.webp",
+        "alt": "Golden iconostasis in the Church of the Nativity",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.70244,
+          35.20813
+        ]
+      },
+      {
+        "src": "assets/bethlehem-13.webp",
+        "alt": "Cloister beside the Church of the Nativity",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.70408,
+          35.20754
+        ]
+      },
+      {
+        "src": "assets/bethlehem-14.webp",
+        "alt": "Silver star in the Grotto of the Nativity",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.70287,
+          35.20717
+        ]
+      },
+      {
+        "src": "assets/bethlehem-15.webp",
+        "alt": "Roundabout in Beit Sahour",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.70147,
+          35.22327
+        ]
+      },
+      {
+        "src": "assets/bethlehem-v1.mp4",
+        "alt": "Inside the Grotto of the Nativity",
+        "class": "wide",
+        "kind": "video",
+        "visit": "April 2019",
+        "gps": [
+          31.70427,
+          35.20738
+        ]
       }
     ],
     "flagAsset": "assets/flags/ps.svg",
-    "countryCode": "PS"
+    "countryCode": "PS",
+    "updated": "2019-04-01"
   },
   {
     "slug": "brazil",
@@ -8401,65 +8478,329 @@
         "src": "assets/jerusalem-01.webp",
         "alt": "Jerusalem Old City market",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-02.webp",
         "alt": "Church in the Old City of Jerusalem",
         "class": "",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-03.webp",
         "alt": "Jerusalem landmark illuminated at night",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-04.webp",
         "alt": "Historic church interior in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-05.webp",
         "alt": "Mosaic artwork in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-06.webp",
         "alt": "Western Wall in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-07.webp",
         "alt": "Prayer area at the Western Wall in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-08.webp",
         "alt": "Dublin Irish Pub in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-09.webp",
         "alt": "Visit to the Western Wall in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/jerusalem-10.webp",
         "alt": "Western Wall plaza in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
+      },
+      {
+        "src": "assets/jerusalem-11.webp",
+        "alt": "Tower of David and the Old City walls at dusk",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77584,
+          35.22718
+        ]
+      },
+      {
+        "src": "assets/jerusalem-12.webp",
+        "alt": "Western Wall plaza at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77556,
+          35.23344
+        ]
+      },
+      {
+        "src": "assets/jerusalem-13.webp",
+        "alt": "The Western Wall at night",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77669,
+          35.23406
+        ]
+      },
+      {
+        "src": "assets/jerusalem-14.webp",
+        "alt": "Church of the Holy Sepulchre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77812,
+          35.22996
+        ]
+      },
+      {
+        "src": "assets/jerusalem-15.webp",
+        "alt": "Painted ceiling in the Holy Sepulchre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77826,
+          35.2298
+        ]
+      },
+      {
+        "src": "assets/jerusalem-16.webp",
+        "alt": "The Edicule inside the Holy Sepulchre",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77826,
+          35.22979
+        ]
+      },
+      {
+        "src": "assets/jerusalem-17.webp",
+        "alt": "Via Dolorosa, Station V",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.7796,
+          35.23233
+        ]
+      },
+      {
+        "src": "assets/jerusalem-18.webp",
+        "alt": "Prayer hall beside the Western Wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77714,
+          35.23193
+        ]
+      },
+      {
+        "src": "assets/jerusalem-19.webp",
+        "alt": "Roman columns on the Cardo",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77504,
+          35.23096
+        ]
+      },
+      {
+        "src": "assets/jerusalem-20.webp",
+        "alt": "Downtown Jerusalem",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.78192,
+          35.21742
+        ]
+      },
+      {
+        "src": "assets/jerusalem-21.webp",
+        "alt": "Western Wall plaza by day",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77649,
+          35.23395
+        ]
+      },
+      {
+        "src": "assets/jerusalem-22.webp",
+        "alt": "Soldiers crossing the Western Wall plaza",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77651,
+          35.23381
+        ]
+      },
+      {
+        "src": "assets/jerusalem-23.webp",
+        "alt": "\"There is no beauty like the beauty of Jerusalem\"",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.776,
+          35.23334
+        ]
+      },
+      {
+        "src": "assets/jerusalem-24.webp",
+        "alt": "The Western Wall from above",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77625,
+          35.23454
+        ]
+      },
+      {
+        "src": "assets/jerusalem-25.webp",
+        "alt": "Praying at the Western Wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77649,
+          35.23392
+        ]
+      },
+      {
+        "src": "assets/jerusalem-26.webp",
+        "alt": "Excavations below the Southern Wall",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77492,
+          35.23618
+        ]
+      },
+      {
+        "src": "assets/jerusalem-27.webp",
+        "alt": "Silwan across the Kidron Valley",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77475,
+          35.23681
+        ]
+      },
+      {
+        "src": "assets/jerusalem-28.webp",
+        "alt": "Mount of Olives cemetery",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77621,
+          35.23806
+        ]
+      },
+      {
+        "src": "assets/jerusalem-29.webp",
+        "alt": "Church of All Nations",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77912,
+          35.23927
+        ]
+      },
+      {
+        "src": "assets/jerusalem-30.webp",
+        "alt": "Lions' Gate",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.78042,
+          35.23718
+        ]
+      },
+      {
+        "src": "assets/jerusalem-31.webp",
+        "alt": "Fruit stand in the Old City",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.78031,
+          35.23358
+        ]
+      },
+      {
+        "src": "assets/jerusalem-32.webp",
+        "alt": "I ♥ JLM sign",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77874,
+          35.22533
+        ]
+      },
+      {
+        "src": "assets/jerusalem-33.webp",
+        "alt": "Lunch in Jerusalem",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77907,
+          35.22171
+        ]
       }
     ],
     "flagAsset": "assets/flags/il.svg",
-    "countryCode": "IL"
+    "countryCode": "IL",
+    "updated": "2019-04-02"
   },
   {
     "slug": "johannesburg",
@@ -12457,65 +12798,186 @@
         "src": "assets/temple-mount-01.webp",
         "alt": "Dome of the Rock on the Temple Mount in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-02.webp",
         "alt": "Ornate tiled arches near the Dome of the Rock on the Temple Mount",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-03.webp",
         "alt": "Wide view of the Dome of the Rock on the Temple Mount in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-04.webp",
         "alt": "Al-Aqsa Mosque and stone plaza on the Temple Mount",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-05.webp",
         "alt": "Historic stone wall and walkway on the Temple Mount",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-06.webp",
         "alt": "Al-Aqsa Mosque across the Temple Mount plaza",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-07.webp",
         "alt": "Stone arcades on the Temple Mount in Jerusalem",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-08.webp",
         "alt": "Dome of the Rock seen across the Temple Mount complex",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-09.webp",
         "alt": "Stairway leading toward the Dome of the Rock",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
       },
       {
         "src": "assets/temple-mount-10.webp",
         "alt": "Bab al-Qattanin entrance at the Temple Mount complex",
         "class": "wide",
-        "kind": "photo"
+        "kind": "photo",
+        "visit": "April 2019"
+      },
+      {
+        "src": "assets/temple-mount-11.webp",
+        "alt": "Bridge up to the Temple Mount",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77641,
+          35.23437
+        ]
+      },
+      {
+        "src": "assets/temple-mount-12.webp",
+        "alt": "Arcade of Al-Aqsa Mosque",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77874,
+          35.2362
+        ]
+      },
+      {
+        "src": "assets/temple-mount-13.webp",
+        "alt": "Arches at the top of the Dome of the Rock steps",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77718,
+          35.23549
+        ]
+      },
+      {
+        "src": "assets/temple-mount-14.webp",
+        "alt": "Dome of the Rock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77752,
+          35.23542
+        ]
+      },
+      {
+        "src": "assets/temple-mount-15.webp",
+        "alt": "Tilework on the Dome of the Rock",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77782,
+          35.23498
+        ]
+      },
+      {
+        "src": "assets/temple-mount-16.webp",
+        "alt": "Dome of the Rock and the Dome of the Chain",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77798,
+          35.23611
+        ]
+      },
+      {
+        "src": "assets/temple-mount-17.webp",
+        "alt": "Al-Aqsa Mosque across the plaza",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77601,
+          35.23728
+        ]
+      },
+      {
+        "src": "assets/temple-mount-18.webp",
+        "alt": "Stone arcades along the edge of the Mount",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77678,
+          35.23457
+        ]
+      },
+      {
+        "src": "assets/temple-mount-19.webp",
+        "alt": "Old gateway off the plaza",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77801,
+          35.23438
+        ]
+      },
+      {
+        "src": "assets/temple-mount-20.webp",
+        "alt": "Mount of Olives from the Temple Mount",
+        "class": "",
+        "kind": "photo",
+        "visit": "April 2019",
+        "gps": [
+          31.77731,
+          35.23712
+        ]
       }
     ],
     "flagAsset": "assets/flags/il.svg",
-    "countryCode": "IL"
+    "countryCode": "IL",
+    "updated": "2019-04-02"
   },
   {
     "slug": "thailand",
