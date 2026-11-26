@@ -18819,6 +18819,50 @@
     "cover": "assets/original-56ddeaba-1567-4025-8c99-511015d9190a.jpeg",
     "photos": [
       {
+        "src": "assets/spi-nov-2026-drone-04.webp",
+        "alt": "Drone show crab glowing over the pier",
+        "class": "wide",
+        "kind": "photo",
+        "visit": "November 2026 · Drone show",
+        "gps": [
+          26.13633,
+          -97.16814
+        ]
+      },
+      {
+        "src": "assets/spi-nov-2026-drone-01.webp",
+        "alt": "Watching the drone show from the beach",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · Drone show",
+        "gps": [
+          26.13633,
+          -97.16814
+        ]
+      },
+      {
+        "src": "assets/spi-nov-2026-drone-02.webp",
+        "alt": "Drone show lighting up the pier and the surf",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · Drone show",
+        "gps": [
+          26.13633,
+          -97.16814
+        ]
+      },
+      {
+        "src": "assets/spi-nov-2026-drone-03.webp",
+        "alt": "Drone show figure above the Gulf at night",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026 · Drone show",
+        "gps": [
+          26.13633,
+          -97.16814
+        ]
+      },
+      {
         "src": "assets/spi-launch-2026-01.webp",
         "alt": "Path through the dunes to the beach",
         "class": "wide",
@@ -18970,6 +19014,28 @@
         "gps": [
           26.07503,
           -97.15682
+        ]
+      },
+      {
+        "src": "assets/spi-nov-2026-ren-01.webp",
+        "alt": "Selfie with Ren on the bay side",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026",
+        "gps": [
+          26.16867,
+          -97.17813
+        ]
+      },
+      {
+        "src": "assets/spi-nov-2026-ren-02.webp",
+        "alt": "Ren mid-yawn on the bay side",
+        "class": "",
+        "kind": "photo",
+        "visit": "November 2026",
+        "gps": [
+          26.16867,
+          -97.17813
         ]
       },
       {
@@ -21249,7 +21315,7 @@
     ],
     "flagAsset": "assets/flags/us.png",
     "countryCode": "US",
-    "updated": "2026-11-13",
+    "updated": "2026-11-25",
     "stateFlags": [
       "assets/flags/us-tx.webp"
     ]
